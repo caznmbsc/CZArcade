@@ -23,9 +23,13 @@ jobs:
           python -m pip install --upgrade pip
           pip install openpyxl requests
         
-      - name: Run XLSX to JSON conversion
+      - name: Run JSON Making Script
         run: |
-          jsonMaker.py
+          python jsonMaker.py
+
+      - name: Move JSON file
+        run: |
+          mv CZARCADE.json data/CZARCADE.json
 
       - name: Commit new JSON
         run: |
