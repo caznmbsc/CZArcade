@@ -48,6 +48,7 @@ for sheetName in currentWorkbook.sheetnames:
                             exit(1)
                         print("Code: " + str(gameDBResponse.status_code) + ". Failed to Download Google Sheets File. Retrying...")
                         gameDBResponse = requests.get(sheetsLink)
+                    print("\tHTML recieved.")
                     dbPageHTML = BeautifulSoup(gameDBResponse.text, "html.parser")
                     if (dbPageHTML.find(string="Screenshot - Gameplay") and
                         dbPageHTML.find(string="Screenshot - Gameplay").parent.find_next_sibling("div") and
