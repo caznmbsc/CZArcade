@@ -3037,7 +3037,11 @@
     {
       "A": "Super Bomberman 3",
       "B": null,
-      "C": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/2514-super-bomberman-3",
+        "imageURL": "https://images.launchbox-app.com//5b7bee52-9421-41d1-a652-3d833e64a451.png"
+      },
       "D": "English",
       "E": "Versus, Co-op, Party",
       "F": null,
