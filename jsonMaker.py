@@ -21,6 +21,8 @@ print("Downloaded Google Sheets File.\n")
 print("Making JSON...")
 imageDictionary = {}
 data = {}
+#Make Combined Section for all Inventory
+data["Inventory"] = []
 for sheetName in currentWorkbook.sheetnames:
     if sheetName not in ["Rejects_Inventory", "Running_Inventory", "Systems", "Genres"]:
         continue
@@ -74,7 +76,11 @@ for sheetName in currentWorkbook.sheetnames:
                 value = {"text": value, "hyperlink": cell.hyperlink.target, "imageURL": imageURL}
             rowData[cell.column_letter] = value
         sheetData.append(rowData)
-    data[sheetName] = sheetData
+    if sheetName in ["Rejects_Inventory", "Running_Inventory"]:
+        #Concatenate Rejects and Running Inventories
+        data["Inventory"] += sheetData
+    else:
+        data[sheetName] = sheetData
 
 with open("CZARCADE.json", "w", encoding="utf-8") as jsonFile:
     json.dump(data, jsonFile, ensure_ascii=False, indent=2)
