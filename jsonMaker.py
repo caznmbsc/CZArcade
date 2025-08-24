@@ -22,9 +22,11 @@ print("Making JSON...")
 imageDictionary = {}
 data = {}
 for sheetName in currentWorkbook.sheetnames:
+    if sheetName not in ["Rejects_Inventory", "Running_Inventory", "Systems", "Genres"]:
+        continue
     print("\n-----------------------")
     print(f"Parsing: {sheetName}")
-    print("-----------------------\n")
+    print("-----------------------")
     sheet = currentWorkbook[sheetName]
     sheetData = []
     for row in sheet.iter_rows(min_row=1, values_only=False):
@@ -34,11 +36,13 @@ for sheetName in currentWorkbook.sheetnames:
                 print(cell.value)
             value = cell.value
             if cell.hyperlink:
-                imageURL = ""
+                imageURL = "media/noImage.png"
                 if cell.hyperlink.target in imageDictionary:
+                    #If we've already run this, then get it from cache
                     imageURL = imageDictionary[cell.hyperlink.target]
                     print("\tLinked from Cache.")
                 elif cell.hyperlink.target and ("launchbox" in cell.hyperlink.target):
+                    #If there is a LaunchBox hyperlink, go get an image 
                     gameDBResponse = requests.get(cell.hyperlink.target)
                     attempts = 0
                     while gameDBResponse.status_code != 200:
@@ -55,11 +59,16 @@ for sheetName in currentWorkbook.sheetnames:
                         dbPageHTML.find(string="Screenshot - Gameplay").parent.find_next_sibling("div").find("div") and
                         dbPageHTML.find(string="Screenshot - Gameplay").parent.find_next_sibling("div").find("div").find("img")
                     ):
+                        #Get gameplay image if it exists
                         imageHolder = dbPageHTML.find(string="Screenshot - Gameplay").parent.find_next_sibling("div")
                         imageURL = imageHolder.find("div").find("img")["src"]
                         print("\tFetched Image.")
-                    elif dbPageHTML.find("img"):
-                        imageURL = dbPageHTML.find("img")["src"]
+                    elif (dbPageHTML.find("section", {"class": "game-details-content"}) and 
+                        dbPageHTML.find("section", {"class": "game-details-content"}).find_all("article")[1] and
+                        dbPageHTML.find("section", {"class": "game-details-content"}).find_all("article")[1].find("img")
+                    ):
+                        #If no gameplay image exists, get any image from the media section
+                        imageURL = dbPageHTML.find("section", {"class": "game-details-content"}).find_all("article")[1].find("img")["src"]
                         print("\tFetched Image.")
                     imageDictionary[cell.hyperlink.target] = imageURL
                 value = {"text": value, "hyperlink": cell.hyperlink.target, "imageURL": imageURL}
