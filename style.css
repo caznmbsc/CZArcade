@@ -152,14 +152,17 @@ body {
 .bulletin h1 {
     font-family: "Honk", 'Courier New', Courier, monospace;
     font-size: clamp(4rem, 7.5vw, 10rem);
+    color: goldenrod;
 }
 
 .systemsHeader {
     filter: hue-rotate(270deg);
+    color: rgb(255, 0, 255);
 }
 
 .genresHeader {
     filter: hue-rotate(180deg);
+    color: lightblue;
 }
 
 .bulletin p {
