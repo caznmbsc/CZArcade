@@ -75,7 +75,7 @@ async function loadGames(pageName) {
                     console.log("Non-System Page Found | Skipping");
                     return;
                 }
-            } else if (pageName == "index.html") {
+            } else if ((pageName == "index.html") || (pageName == "CZArcade")) {
                 //If Main Page, load everything
                 skipGame = false;
             }
