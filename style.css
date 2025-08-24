@@ -1,0 +1,406 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to right, rgba(65, 39, 0, 0.8), rgba(0, 0, 0, 0.8), rgba(65, 39, 0, 0.8));
+}
+
+/*Fix Background to spread window without speed scrolling*/
+.vanity {
+    height: 100%;
+    background-image: url(media/CollageNew.png);
+    background-repeat: repeat;
+    background-size: clamp(75rem, 250vw, 150rem);
+    animation: moveBackground 100s linear infinite;
+}
+
+.overlay {
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(to right, rgba(65, 39, 0, 0.8), rgba(0, 0, 0, 0.8), rgba(65, 39, 0, 0.8));
+}
+
+.navbar {
+    background-color: rgba(0, 0, 0, 0.65);
+    background-blend-mode: multiply;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: stretch;
+    font-size: clamp(1rem, 4vw, 2rem);
+}
+
+@keyframes moveBackground {
+    0% {
+        background-position: 0 0;
+    }
+    100% {
+        background-position: 166.7% 106.25%;
+    }
+}
+
+.navbar a {
+    flex: 1;
+    border: 3px outset;
+    border-radius: 3px;
+    opacity: 100%;
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 0.75vh 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: monospace;
+}
+
+.navbar a:hover {
+    color: rebeccapurple;
+    background-color: rgba(255, 255, 255, 0.75);
+    border-radius: 5px;
+    background-clip: border-box;
+}
+
+@font-face {
+    font-family: "Honk";
+    src: url(fonts/Honk-Regular-VariableFont_MORF,SHLN.ttf);
+}
+
+.bulletin {
+    height: 300px;
+    max-width: 90vw;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1rem;
+    background-color: rgba(0, 0, 0, 0.5);
+    
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    border: 3px solid;
+    border-radius: 50px 50px 0 0;
+}
+
+.categoryTitleBox {
+    flex: 1;
+    max-width: 95%;
+    width: 95%;
+    max-height: 50%;
+    height: 50%;
+    margin-top: 1rem;
+    display: flex;
+}
+
+.categoryTitleThumbnail {
+    width: 50%;
+    height: 100%;
+    margin-top: 0.5rem;
+    align-items: center;
+    text-align: center;
+}
+
+.categoryTitleThumbnail img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    mask-image: linear-gradient(to right, rgba(0, 0, 0, 1) 25%, rgba(0, 0, 0, 0) 100%);
+    mask-repeat: no-repeat;
+    mask-size: cover;
+}
+
+.categoryTitleArea {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.categoryTitleArea h1 {
+    font-family: "Honk", 'Courier New', Courier, monospace;
+    font-size: 7.5vw;
+    position: relative;
+    white-space: nowrap;
+    overflow-x: visible;
+    margin-left: -75%;
+}
+
+.categoryDescriptionBox {
+    flex: 1;
+    max-width: 95%;
+    max-height: 50%;
+    margin-bottom: 2rem;
+    display: flex;
+    flex-direction: row;
+    gap: 0.5rem;
+}
+
+.categoryDescription {
+    flex: 1;
+    font-size: clamp(0.9rem, 3vw, 1.1rem);
+    color: white;
+    display: flex;
+    justify-content: center;
+    overflow: auto;
+}
+
+.bulletin h1 {
+    font-family: "Honk", 'Courier New', Courier, monospace;
+    font-size: clamp(4rem, 7.5vw, 10rem);
+}
+
+.systemsHeader {
+    filter: hue-rotate(270deg);
+}
+
+.genresHeader {
+    filter: hue-rotate(180deg);
+}
+
+.bulletin p {
+    font-family: monospace;
+    color: white;
+    max-width: 40ch;
+    margin: 0 auto;
+    font-size: clamp(1.5rem, 4vw, 1.75rem);
+    padding: 0 10px;
+}
+
+@media (min-width: 1000px) {
+    .bulletin {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .categoryTitleBox {
+        max-height: 95%;
+        height: 95%;
+        max-width: 50%;
+        width: 50%;
+        margin-left: 1rem;
+        margin-bottom: 1rem;
+    }
+
+    .categoryTitleArea {
+        width: 50%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin-left: -17.5%;
+    }
+
+    .categoryTitleArea h1 {
+        font-size: 4vw;
+    }
+
+    .categoryDescriptionBox {
+        max-height: 90%;
+        height: 90%;
+        margin-right: 1rem;
+        margin-bottom: 0;
+    }
+
+    .categoryDescriptionBox {
+        flex-direction: column;
+    }
+
+    .categoryDescription {
+        font-size: 1.75vw;
+    }
+
+    .bulletin h1 {
+        text-align: left;
+        margin-left: 3vw;
+    }
+
+    .bulletin p {
+        flex: 1;
+        display: flex;
+        margin: 0 auto;
+        max-width: 50ch;
+        text-align: center;
+        padding: 0 10px;
+    }
+}
+
+.searchBar {
+    border: 3px solid;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1rem;
+    display: flex;
+    padding: 10px 10vw;
+}
+
+.gameCards {
+    display: block;
+    margin-top: 1rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.card {
+    display: flex;
+    align-items: center;
+    width: 96vw;
+    height: 4rem;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid white;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 1rem;
+    text-align: center;
+}
+
+.card:hover {
+    background-color: rgba(255, 255, 255, 0.5);
+    .gameName {
+        color: black;
+    }
+    .gameInfoDivider {
+        color: black;
+    }
+    .gameAliases {
+    color: black;
+    }
+}
+
+.gameName {
+    font-size: clamp(.85rem, 2vw, 1.25rem);
+    font-weight: bolder;
+}
+
+.gameAliases {
+    font-size: clamp(.7rem, 2vw, 1rem);
+}
+
+.gameName, .gameAliases {
+    color: white;
+    flex: 1;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding: 0 10px;
+}
+
+.gameInfoDivider {
+    color: white;
+    font-size: clamp(1.5rem, 3vw, 2rem);
+    flex: 0 0 auto;
+    text-overflow: ellipsis;
+}
+
+.gameFullInfo {
+    width: 94vw;
+    height: 15rem;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(0, 0, 0, 0.4);
+    color: white;
+    padding: 0 2.5vw;
+    display: flex;
+    font-family: monospace;
+    gap: 20px;
+}
+
+.gameInfoImage {
+    width: calc(94vw / 3 );
+    height: 15rem;
+    display: flex;
+    align-items: center;
+}
+
+.gameInfoText {
+    width: calc(94vw * 2 / 3 );
+    height: 15rem;
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.hide {
+    display: none;
+}
+
+.gameImage {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.gameInfoTitle {
+    flex: 1;
+    padding: 5px 0;
+    font-size: clamp(0.75rem, 2vw, 1.25rem);
+    border: 2px ridge;
+}
+
+.gameInfoTitle.categoryRedirect:hover {
+    background-color: rgba(255, 255, 255, 0.75);
+}
+
+.gameInfoAliases {
+    flex: 1;
+    padding: 5px 0;
+    font-size: clamp(0.75rem, 2vw, 1.25rem);
+    border: 2px ridge;
+}
+
+.gameInfoGenres {
+    flex: 1;
+    padding: 5px 0;
+    font-size: clamp(0.85rem, 2vw, 1.35rem);
+    border: 2px ridge;
+}
+
+.gameInfoLangPlayers {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    font-size: clamp(0.85rem, 2vw, 1.35rem);
+}
+
+.language {
+    flex: 1;
+    padding: 5px 0;
+    border: 2px ridge;
+}
+
+.maxPlayers {
+    flex: 1;
+    padding: 5px 0;
+    border: 2px ridge;
+}
+
+.gameInfoSystem {
+    flex: 1;
+    padding: 5px 0;
+    font-size: clamp(0.85rem, 2vw, 1.35rem);
+    border: 2px ridge;
+}
+
+.gameInfoLink {
+    flex: 1;
+    padding: 5px 0;
+    font-weight: bolder;
+    font-size: clamp(0.85rem, 2vw, 1.35rem);
+    border: 2px ridge;
+}
+
+.gameInfoLink:hover {
+    background-color: rgba(255, 255, 255, 0.75);
+}

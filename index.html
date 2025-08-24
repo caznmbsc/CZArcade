@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="vanity">
+        <div class="overlay">
+            <nav class="navbar">
+                <a href="index.html" class="navbar_links">HOME</a>
+                <a href="systems.html" class="navbar_links">SYSTEMS</a>
+                <a href="genres.html" class="navbar_links">GENRES</a>
+                <a href="credits.html" class="navbar_links">CREDITS</a>
+            </nav>
+            <div class="bulletin">
+                <h1>CZARCADE</h1>
+                <p>All games installed on the CZARCADE are searchable here.</p> 
+                <p><b>NOTE: "Max Players" is not accurate to how many can play on the machine.</b></p>
+            </div>
+            <input type="search" placeholder="Search Game Name..." class="searchBar" game-search>
+            <div class="gameCards" game-cards-container>
+                <template game-info-template>
+                    <article class="game">    
+                        <div class="card" onclick="toggleInfo(this)" style="cursor: pointer;">
+                            <div class="gameName" game-name1><b>Game Title</b></div>
+                            <div class="gameInfoDivider"><b>|</b></div>
+                            <div class="gameAliases" game-aliases1>Game Alias</div>
+                        </div>
+                        <div class="gameFullInfo hide">
+                            <div class="gameInfoImage">
+                                <img src="media/loading.gif" alt="Loading" class="gameImage" game-image>
+                            </div>
+                            <div class="gameInfoText">
+                                <div class="gameInfoTitle" game-name2>TITLE</div>
+                                <div class="gameInfoAliases" game-aliases2>ALIASES</div>
+                                <div class="gameInfoGenres"game-genres>GENRES</div>
+                                <div class="gameInfoLangPlayers">
+                                    <div class="language" game-language>LANGUAGE</div>
+                                    <div class="maxPlayers" game-players>MAX PLAYERS: </div>
+                                </div>
+                                <div class="gameInfoSystem" game-system>SYSTEM</div>
+                                <div class="gameInfoLink" game-link>LINK</div>
+                            </div>
+                        </div>
+                    </article>
+                </template>
+            </div>
+        <div>
+    </div>
+</body>
+</html>

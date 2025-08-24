@@ -37,7 +37,7 @@ for sheetName in currentWorkbook.sheetnames:
             if (cell.value == row[0].value) and (cell.value != None):
                 print(cell.value)
             value = cell.value
-            if cell.hyperlink:
+            if (cell.hyperlink) and (cell.hyperlink != None) and (cell.hyperlink != "null"):
                 imageURL = "media/noImage.png"
                 if cell.hyperlink.target in imageDictionary:
                     #If we've already run this, then get it from cache
