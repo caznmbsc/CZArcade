@@ -80,7 +80,7 @@ async function loadGames(pageName) {
                 skipGame = false;
             }
 
-            if ((game["F"] == null) || (!game["F"].toString().includes("Max Players"))) {
+            if (!game["F"].toString().includes("Max Players")) {
                 const gameCard = gameCardTemplate.content.cloneNode(true).children[0];
                 const gameImage = gameCard.querySelector("[game-image]")
                 const loadingImage = new Image();
@@ -147,10 +147,23 @@ async function loadCategories(pageName) {
 
         //Alphabetize Data
         sheetData.sort((a, b) => {
-            const aValue = a["A"]?.toString().toLowerCase() || "";
-            const bValue = b["A"]?.toString().toLowerCase() || "";
+            var aValue = null;
+            var bValue = null;
+            if (typeof a["A"] == "string") {
+                aValue = a["A"]?.toString().toLowerCase() || "";
+            } else {
+                aValue = a["A"]["text"]?.toString().toLowerCase() || "";
+            }
+            if (typeof b["A"] == "string") {
+                bValue = b["A"]?.toString().toLowerCase() || "";
+            } else {
+                bValue = b["A"]["text"]?.toString().toLowerCase() || "";
+            }
+            //const aValue = a["A"]?.toString().toLowerCase() || "";
+            //const bValue = b["A"]?.toString().toLowerCase() || "";
             return aValue.localeCompare(bValue);
         });
+        console.log(sheetData);
 
         //Variables to make Cards
         const categoryCardTemplate = document.querySelector("[category-info-template]");
@@ -163,7 +176,7 @@ async function loadCategories(pageName) {
                 
                 //Set all Category Info
                 var categoryName = ""
-                if (category["A"]["text"]) {
+                if (typeof category["A"]["text"] == "string") {
                     categoryName = category["A"]["text"];
                     categoryCard.querySelector("[category-name1]").innerHTML = `<a href="${window.location.href}?${key}=${category["A"]["text"]}">${category["A"]["text"]}</a>`;
                     categoryCard.querySelector("[category-name2]").innerHTML = `<a href="${window.location.href}?${key}=${category["A"]["text"]}">${category["A"]["text"]}</a>`;

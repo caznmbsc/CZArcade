@@ -362,7 +362,7 @@ body {
 .gameInfoAliases {
     flex: 1;
     padding: 5px 0;
-    font-size: clamp(0.75rem, 2vw, 1.25rem);
+    font-size: clamp(0.75rem, 1.9vw, 1rem);
     border: 2px ridge;
 }
 
