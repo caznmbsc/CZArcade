@@ -8,67 +8,66 @@
     <script src="script.js" defer></script>
 </head>
 <body>
-    <div class="vanity">
-        <div class="overlay">
-            <nav class="navbar">
-                <a href="index.html" class="navbar_links">HOME</a>
-                <a href="systems.html" class="navbar_links">SYSTEMS</a>
-                <a href="genres.html" class="navbar_links">GENRES</a>
-                <a href="credits.html" class="navbar_links">CREDITS</a>
-            </nav>
-            <div class="bulletin">
-                <h1 class="genresHeader">GENRES</h1>
-                <p>You can view games by genre here.</p> 
-                <p><b>NOTE: Red Genres are unsupported and will not be in the future.</b></p>
-            </div>
-            <input type="search" placeholder="Search Genre Name.." class="searchBar" category-search>
-            <div class="gameCards" game-cards-container>
-                <template category-info-template>
-                    <article class="game">    
-                        <div class="card" onclick="toggleInfo(this)" style="cursor: pointer;">
-                            <div class="gameName" category-name1><b>Category Title</b></div>
-                            <div class="gameInfoDivider"><b>|</b></div>
-                            <div class="gameAliases" category-description1>Category Description</div>
+    <div class="background"></div>
+    <div class="overlay">
+        <nav class="navbar">
+            <a href="index.html" class="navbar_links">HOME</a>
+            <a href="systems.html" class="navbar_links">SYSTEMS</a>
+            <a href="genres.html" class="navbar_links">GENRES</a>
+            <a href="credits.html" class="navbar_links">CREDITS</a>
+        </nav>
+        <div class="bulletin">
+            <h1 class="genresHeader">GENRES</h1>
+            <p>You can view games by genre here.</p> 
+            <p><b>NOTE: Red Genres are unsupported and will not be in the future.</b></p>
+        </div>
+        <input type="search" placeholder="Search Genre Name.." class="searchBar" category-search>
+        <div class="gameCards" game-cards-container>
+            <template category-info-template>
+                <article class="game">    
+                    <div class="card" onclick="toggleInfo(this)" style="cursor: pointer;">
+                        <div class="gameName" category-name1><b>Category Title</b></div>
+                        <div class="gameInfoDivider"><b>|</b></div>
+                        <div class="gameAliases" category-description1>Category Description</div>
+                    </div>
+                    <div class="gameFullInfo hide">
+                        <div class="gameInfoImage">
+                            <img src="media/loading.gif" alt="Loading" class="gameImage" game-image>
                         </div>
-                        <div class="gameFullInfo hide">
-                            <div class="gameInfoImage">
-                                <img src="media/loading.gif" alt="Loading" class="gameImage" game-image>
-                            </div>
-                            <div class="gameInfoText">
-                                <div class="gameInfoTitle categoryRedirect" category-name2>TITLE</div>
-                                <div class="gameInfoAliases" category-description2>DESCRIPTION</div>
-                                <div class="gameInfoGenres" category-notes>NOTES</div>
-                            </div>
+                        <div class="gameInfoText">
+                            <div class="gameInfoTitle categoryRedirect" category-name2>TITLE</div>
+                            <div class="gameInfoAliases" category-description2>DESCRIPTION</div>
+                            <div class="gameInfoGenres" category-notes>NOTES</div>
                         </div>
-                    </article>
-                </template>
-                <template game-info-template>
-                    <article class="game">    
-                        <div class="card" onclick="toggleInfo(this)" style="cursor: pointer;">
-                            <div class="gameName" game-name1><b>Game Title</b></div>
-                            <div class="gameInfoDivider"><b>|</b></div>
-                            <div class="gameAliases" game-aliases1>Game Alias</div>
+                    </div>
+                </article>
+            </template>
+            <template game-info-template>
+                <article class="game">    
+                    <div class="card" onclick="toggleInfo(this)" style="cursor: pointer;">
+                        <div class="gameName" game-name1><b>Game Title</b></div>
+                        <div class="gameInfoDivider"><b>|</b></div>
+                        <div class="gameAliases" game-aliases1>Game Alias</div>
+                    </div>
+                    <div class="gameFullInfo hide">
+                        <div class="gameInfoImage">
+                            <img src="media/loading.gif" alt="Loading" class="gameImage" game-image>
                         </div>
-                        <div class="gameFullInfo hide">
-                            <div class="gameInfoImage">
-                                <img src="media/loading.gif" alt="Loading" class="gameImage" game-image>
+                        <div class="gameInfoText">
+                            <div class="gameInfoTitle" game-name2>TITLE</div>
+                            <div class="gameInfoAliases" game-aliases2>ALIASES</div>
+                            <div class="gameInfoGenres"game-genres>GENRES</div>
+                            <div class="gameInfoLangPlayers">
+                                <div class="language" game-language>LANGUAGE</div>
+                                <div class="maxPlayers" game-players>MAX PLAYERS: </div>
                             </div>
-                            <div class="gameInfoText">
-                                <div class="gameInfoTitle" game-name2>TITLE</div>
-                                <div class="gameInfoAliases" game-aliases2>ALIASES</div>
-                                <div class="gameInfoGenres"game-genres>GENRES</div>
-                                <div class="gameInfoLangPlayers">
-                                    <div class="language" game-language>LANGUAGE</div>
-                                    <div class="maxPlayers" game-players>MAX PLAYERS: </div>
-                                </div>
-                                <div class="gameInfoSystem" game-system>SYSTEM</div>
-                                <div class="gameInfoLink" game-link>LINK</div>
-                            </div>
+                            <div class="gameInfoSystem" game-system>SYSTEM</div>
+                            <div class="gameInfoLink" game-link>LINK</div>
                         </div>
-                    </article>
-                </template>
-            </div>
-        <div>
-    </div>
+                    </div>
+                </article>
+            </template>
+        </div>
+    <div>
 </body>
 </html>
