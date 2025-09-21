@@ -4533,20 +4533,6 @@
       "H": "PLAYSTATION 1"
     },
     {
-      "A": "Persona 2: Eternal Punishment",
-      "B": "Persona 2: Batsu, Persona 2: Batsu: Eternal Punishment",
-      "C": {
-        "text": "LaunchBox",
-        "hyperlink": "http://gamesdb.launchbox-app.com/games/details/72199-persona-2-eternal-punishment",
-        "imageURL": "https://images.launchbox-app.com//807524a0-9a6a-4bdb-9829-30d558287f83.jpg"
-      },
-      "D": "English",
-      "E": "Adventure, RPG",
-      "F": 1.0,
-      "G": null,
-      "H": "PSP"
-    },
-    {
       "A": "The Elder Scrolls III: Morrowind: Game of the Year Edition",
       "B": null,
       "C": {
@@ -4600,20 +4586,6 @@
       "E": "Beat'em Up, Hack and Slash",
       "F": 1.0,
       "G": "ISSUE",
-      "H": "XBOX"
-    },
-    {
-      "A": "SoulCalibur II",
-      "B": null,
-      "C": {
-        "text": "LaunchBox",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/5912-soulcalibur-ii",
-        "imageURL": "https://images.launchbox-app.com//6ec1c3f2-9074-473b-8069-bc96958babcc.png"
-      },
-      "D": "English",
-      "E": "3D Fighting, Versus, Hack and Slash",
-      "F": 2.0,
-      "G": null,
       "H": "XBOX"
     },
     {
@@ -51307,6 +51279,20 @@
       "H": "PSP"
     },
     {
+      "A": "Persona 2: Eternal Punishment",
+      "B": "Persona 2: Batsu, Persona 2: Batsu: Eternal Punishment",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "http://gamesdb.launchbox-app.com/games/details/72199-persona-2-eternal-punishment",
+        "imageURL": "https://images.launchbox-app.com//807524a0-9a6a-4bdb-9829-30d558287f83.jpg"
+      },
+      "D": "English",
+      "E": "Adventure, RPG",
+      "F": 1.0,
+      "G": "RUNNING",
+      "H": "PSP"
+    },
+    {
       "A": "Phantasy Star Portable",
       "B": null,
       "C": {
@@ -51457,6 +51443,20 @@
       "D": "English",
       "E": "Adventure, RPG",
       "F": 1.0,
+      "G": "RUNNING",
+      "H": "XBOX"
+    },
+    {
+      "A": "SoulCalibur II",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/5912-soulcalibur-ii",
+        "imageURL": "https://images.launchbox-app.com//6ec1c3f2-9074-473b-8069-bc96958babcc.png"
+      },
+      "D": "English",
+      "E": "3D Fighting, Versus, Hack and Slash",
+      "F": 2.0,
       "G": "RUNNING",
       "H": "XBOX"
     },
