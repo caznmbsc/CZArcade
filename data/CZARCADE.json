@@ -4589,6 +4589,140 @@
       "H": "XBOX"
     },
     {
+      "A": "Freedom Wars",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/20461-freedom-wars",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/20461-freedom-wars",
+        "imageURL": "https://images.launchbox-app.com//a6f59a24-d189-4097-8344-2dfb053d8860.jpg"
+      },
+      "D": null,
+      "E": null,
+      "F": 8.0,
+      "G": null,
+      "H": "PS VITA"
+    },
+    {
+      "A": "Gravity Rush",
+      "B": "Gravity Daze",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/8013-gravity-rush",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/8013-gravity-rush",
+        "imageURL": "https://images.launchbox-app.com//5dad464e-6d24-4915-b046-57346486d0d8.jpg"
+      },
+      "D": null,
+      "E": null,
+      "F": 1.0,
+      "G": null,
+      "H": "PS VITA"
+    },
+    {
+      "A": "Mobile Suit Gundam: Extreme VS-Force",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/152840-mobile-suit-gundam-extreme-vs-force",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/152840-mobile-suit-gundam-extreme-vs-force",
+        "imageURL": "https://images.launchbox-app.com//de795286-4eac-4150-8573-b5d5c7dfaca6.jpg"
+      },
+      "D": null,
+      "E": null,
+      "F": 2.0,
+      "G": null,
+      "H": "PS VITA"
+    },
+    {
+      "A": "Persona 4: Dancing All Night",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/29504-persona-4-dancing-all-night",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/29504-persona-4-dancing-all-night",
+        "imageURL": "https://images.launchbox-app.com//d85e43da-ea64-4a26-9b2b-f208d4260e80.jpg"
+      },
+      "D": null,
+      "E": null,
+      "F": 1.0,
+      "G": null,
+      "H": "PS VITA"
+    },
+    {
+      "A": "Persona 4 Golden",
+      "B": "P4G: Persona 4 Golden",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/12109-persona-4-golden",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/12109-persona-4-golden",
+        "imageURL": "https://images.launchbox-app.com//517bd8ef-574b-4a61-98b6-394ad1cd23b9.jpg"
+      },
+      "D": null,
+      "E": null,
+      "F": 1.0,
+      "G": null,
+      "H": "PS VITA"
+    },
+    {
+      "A": "Soul Sacrifice Delta",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/34050-soul-sacrifice-delta",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/34050-soul-sacrifice-delta",
+        "imageURL": "https://images.launchbox-app.com//2660317e-32a6-42cd-93d1-b6370be4371b.jpg"
+      },
+      "D": null,
+      "E": null,
+      "F": 4.0,
+      "G": null,
+      "H": "PS VITA"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PS VITA"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PS VITA"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PS VITA"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PS VITA"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PS VITA"
+    },
+    {
       "A": null,
       "B": null,
       "C": null,
@@ -52941,6 +53075,38 @@
         "imageURL": "media/noImage.png"
       },
       "B": "\"Home video game console released by Nintendo on November 19, 2006. The Wii introduced the Wii Remote controller, which can be used as a handheld pointing device and which detects movement in three dimensions. As a seventh-generation console, the Wii competes with Microsoft's Xbox 360 and Sony's PlayStation 3.\"",
+      "C": "2D/3D",
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": null,
+      "I": null,
+      "J": null,
+      "K": null,
+      "L": null,
+      "M": null,
+      "N": null,
+      "O": null,
+      "P": null,
+      "Q": null,
+      "R": null,
+      "S": null,
+      "T": null,
+      "U": null,
+      "V": null,
+      "W": null,
+      "X": null,
+      "Y": null,
+      "Z": null
+    },
+    {
+      "A": {
+        "text": "PS VITA",
+        "hyperlink": null,
+        "imageURL": "media/noImage.png"
+      },
+      "B": "\"The PlayStation Vita is a handheld game console manufactured and marketed by Sony Computer Entertainment. It is the successor to the PlayStation Portable.\"",
       "C": "2D/3D",
       "D": null,
       "E": null,
