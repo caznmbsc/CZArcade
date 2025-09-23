@@ -4624,7 +4624,7 @@
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/11847-asuras-wrath",
         "imageURL": "https://images.launchbox-app.com//9207725b-7d1f-48fa-92b9-5d807e028625.jpg"
       },
-      "D": null,
+      "D": "English",
       "E": null,
       "F": 1.0,
       "G": null,
@@ -4638,7 +4638,7 @@
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/154275-borderlands-2-game-of-the-year-edition",
         "imageURL": "https://images.launchbox-app.com//b534a441-df1f-4617-aa55-980a605d14f7.png"
       },
-      "D": null,
+      "D": "English",
       "E": null,
       "F": 4.0,
       "G": null,
@@ -4652,7 +4652,7 @@
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/11914-borderlands-game-of-the-year-edition",
         "imageURL": "https://images.launchbox-app.com//8508fbbd-9480-4833-9b58-579748fc410c.png"
       },
-      "D": null,
+      "D": "English",
       "E": null,
       "F": 4.0,
       "G": null,
@@ -4701,20 +4701,6 @@
       "H": "PLAYSTATION 3"
     },
     {
-      "A": "Dark Souls II: Scholar of the First Sin",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/24097-dark-souls-ii-scholar-of-the-first-sin",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/24097-dark-souls-ii-scholar-of-the-first-sin",
-        "imageURL": "https://images.launchbox-app.com//9900148d-4959-432a-b45e-9c6ba4f22162.png"
-      },
-      "D": null,
-      "E": null,
-      "F": 1.0,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
       "A": "Call of Duty 4: Modern Warfare",
       "B": null,
       "C": {
@@ -4736,24 +4722,10 @@
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/20784-borderlands-the-pre-sequel",
         "imageURL": "https://images.launchbox-app.com//7209937d-99b0-4679-b90e-e661e28a12e7.jpg"
       },
-      "D": null,
+      "D": "English",
       "E": null,
       "F": 4.0,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": "Dark Souls: Prepare to Die Edition",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/33450-dark-souls-prepare-to-die-edition",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/33450-dark-souls-prepare-to-die-edition",
-        "imageURL": "https://images.launchbox-app.com//a5aa4728-8ad4-44ef-9546-a8c2a9665d68.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": "No information available",
-      "G": null,
+      "G": "REMOVED",
       "H": "PLAYSTATION 3"
     },
     {
