@@ -4533,20 +4533,6 @@
       "H": "PLAYSTATION 1"
     },
     {
-      "A": "Persona 2: Eternal Punishment",
-      "B": "Persona 2: Batsu, Persona 2: Batsu: Eternal Punishment",
-      "C": {
-        "text": "LaunchBox",
-        "hyperlink": "http://gamesdb.launchbox-app.com/games/details/72199-persona-2-eternal-punishment",
-        "imageURL": "https://images.launchbox-app.com//807524a0-9a6a-4bdb-9829-30d558287f83.jpg"
-      },
-      "D": "English",
-      "E": "Adventure, RPG",
-      "F": 1.0,
-      "G": null,
-      "H": "PSP"
-    },
-    {
       "A": "The Elder Scrolls III: Morrowind: Game of the Year Edition",
       "B": null,
       "C": {
@@ -4603,18 +4589,32 @@
       "H": "XBOX"
     },
     {
-      "A": "SoulCalibur II",
+      "A": "Freedom Wars",
       "B": null,
       "C": {
         "text": "LaunchBox",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/5912-soulcalibur-ii",
-        "imageURL": "https://images.launchbox-app.com//6ec1c3f2-9074-473b-8069-bc96958babcc.png"
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/20461-freedom-wars",
+        "imageURL": "https://images.launchbox-app.com//a6f59a24-d189-4097-8344-2dfb053d8860.jpg"
       },
       "D": "English",
-      "E": "3D Fighting, Versus, Hack and Slash",
-      "F": 2.0,
-      "G": null,
-      "H": "XBOX"
+      "E": "Hack and Slash, RPG",
+      "F": 8.0,
+      "G": "HIDDEN",
+      "H": "PS VITA"
+    },
+    {
+      "A": "Soul Sacrifice Delta",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/34050-soul-sacrifice-delta",
+        "imageURL": "https://images.launchbox-app.com//2660317e-32a6-42cd-93d1-b6370be4371b.jpg"
+      },
+      "D": "English",
+      "E": "Hack and Slash, RPG",
+      "F": 4.0,
+      "G": "HIDDEN",
+      "H": "PS VITA"
     },
     {
       "A": null,
@@ -34912,7 +34912,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/4153-gaiares",
-        "imageURL": "https://images.launchbox-app.com//072b6358-0e1d-48fe-92d3-6e7a19f8a7fc.png"
+        "imageURL": "https://gamesdb-images.launchbox.gg/r2_fde628d1-2278-41c1-9cd7-596b29c20ecb.png"
       },
       "D": "English",
       "E": "Scrolling Shooter, Shooter",
@@ -44995,7 +44995,7 @@
         "imageURL": "https://images.launchbox-app.com//4752ed16-25a9-40e9-aa1b-a3eaacb47fd3.png"
       },
       "D": "English",
-      "E": "Adventure, Racing",
+      "E": "Adventure, RPG",
       "F": 4.0,
       "G": "RUNNING",
       "H": "GAME BOY ADVANCE"
@@ -45009,7 +45009,7 @@
         "imageURL": "https://images.launchbox-app.com//4752ed16-25a9-40e9-aa1b-a3eaacb47fd3.png"
       },
       "D": "English",
-      "E": "Adventure, Racing, Versus",
+      "E": "Adventure, Versus, RPG",
       "F": 4.0,
       "G": "RUNNING",
       "H": "GAME BOY ADVANCE"
@@ -51307,6 +51307,20 @@
       "H": "PSP"
     },
     {
+      "A": "Persona 2: Eternal Punishment",
+      "B": "Persona 2: Batsu, Persona 2: Batsu: Eternal Punishment",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "http://gamesdb.launchbox-app.com/games/details/72199-persona-2-eternal-punishment",
+        "imageURL": "https://images.launchbox-app.com//807524a0-9a6a-4bdb-9829-30d558287f83.jpg"
+      },
+      "D": "English",
+      "E": "Adventure, RPG",
+      "F": 1.0,
+      "G": "RUNNING",
+      "H": "PSP"
+    },
+    {
       "A": "Phantasy Star Portable",
       "B": null,
       "C": {
@@ -51372,6 +51386,20 @@
       },
       "D": "English",
       "E": "Adventure, RPG",
+      "F": 1.0,
+      "G": "RUNNING",
+      "H": "PSP"
+    },
+    {
+      "A": "The 3rd Birthday",
+      "B": "The 3rd Birthday (Twisted Edition)",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "http://gamesdb.launchbox-app.com/games/details/527-the-3rd-birthday",
+        "imageURL": "https://images.launchbox-app.com//596c41e9-355b-4805-96cc-f7b57cfdd5f6.png"
+      },
+      "D": "English",
+      "E": "RPG, Shooter",
       "F": 1.0,
       "G": "RUNNING",
       "H": "PSP"
@@ -51457,6 +51485,20 @@
       "D": "English",
       "E": "Adventure, RPG",
       "F": 1.0,
+      "G": "RUNNING",
+      "H": "XBOX"
+    },
+    {
+      "A": "SoulCalibur II",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/5912-soulcalibur-ii",
+        "imageURL": "https://images.launchbox-app.com//6ec1c3f2-9074-473b-8069-bc96958babcc.png"
+      },
+      "D": "English",
+      "E": "3D Fighting, Versus, Hack and Slash",
+      "F": 2.0,
       "G": "RUNNING",
       "H": "XBOX"
     },
@@ -52026,7 +52068,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/8872-naruto-shippuden-clash-of-ninja-revolution-iii",
-        "imageURL": "https://images.launchbox-app.com//a5ec0b1c-4540-4bf7-849e-6995552ae694.jpg"
+        "imageURL": "https://images.launchbox-app.com//d517cd21-e890-4ced-9a53-a21b15e68b3b.jpg"
       },
       "D": "English",
       "E": "3D Fighting, Co-op, Versus",
@@ -52103,6 +52145,90 @@
       "F": 4.0,
       "G": "RUNNING",
       "H": "WII"
+    },
+    {
+      "A": "Tatsunoko vs. Capcom: Ultimate All-Stars",
+      "B": "Tatsunoko vs. Capcom: Cross Generation of Heroes",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/4976-tatsunoko-vs-capcom-ultimate-all-stars",
+        "imageURL": "https://images.launchbox-app.com//8b935c1d-2392-4cec-b2c3-5c9205d83324.jpg"
+      },
+      "D": "English",
+      "E": "2D Fighting, Versus",
+      "F": 2.0,
+      "G": "RUNNING",
+      "H": "WII"
+    },
+    {
+      "A": "Gravity Rush",
+      "B": "Gravity Daze",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/8013-gravity-rush",
+        "imageURL": "https://images.launchbox-app.com//5dad464e-6d24-4915-b046-57346486d0d8.jpg"
+      },
+      "D": "English",
+      "E": "Platform, Beat'em Up, Adventure",
+      "F": 1.0,
+      "G": "RUNNING",
+      "H": "PS VITA"
+    },
+    {
+      "A": "Persona 3: Dancing in Moonlight",
+      "B": "Persona 3: Dancing Moon Night",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/108076-persona-3-dancing-in-moonlight",
+        "imageURL": "https://images.launchbox-app.com//9492f6b4-0b97-453f-89c3-ed3c860fb7a3.jpg"
+      },
+      "D": "English",
+      "E": "Music",
+      "F": 1.0,
+      "G": "RUNNING",
+      "H": "PS VITA"
+    },
+    {
+      "A": "Persona 4 Golden",
+      "B": "P4G: Persona 4 Golden",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/12109-persona-4-golden",
+        "imageURL": "https://images.launchbox-app.com//517bd8ef-574b-4a61-98b6-394ad1cd23b9.jpg"
+      },
+      "D": "English",
+      "E": "Adventure, RPG",
+      "F": 1.0,
+      "G": "RUNNING",
+      "H": "PS VITA"
+    },
+    {
+      "A": "Persona 4: Dancing All Night",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/29504-persona-4-dancing-all-night",
+        "imageURL": "https://images.launchbox-app.com//d85e43da-ea64-4a26-9b2b-f208d4260e80.jpg"
+      },
+      "D": "English",
+      "E": "Music",
+      "F": 1.0,
+      "G": "RUNNING",
+      "H": "PS VITA"
+    },
+    {
+      "A": "Persona 5: Dancing in Starlight",
+      "B": "Persona 5: Dancing Star Night",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/108077-persona-5-dancing-in-starlight",
+        "imageURL": "https://images.launchbox-app.com//2c57859d-6f0c-498f-8f4d-4115989d348a.png"
+      },
+      "D": "English",
+      "E": "Music",
+      "F": 1.0,
+      "G": "RUNNING",
+      "H": "PS VITA"
     }
   ],
   "Systems": [
@@ -52913,6 +53039,38 @@
         "imageURL": "media/noImage.png"
       },
       "B": "\"Home video game console released by Nintendo on November 19, 2006. The Wii introduced the Wii Remote controller, which can be used as a handheld pointing device and which detects movement in three dimensions. As a seventh-generation console, the Wii competes with Microsoft's Xbox 360 and Sony's PlayStation 3.\"",
+      "C": "2D/3D",
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": null,
+      "I": null,
+      "J": null,
+      "K": null,
+      "L": null,
+      "M": null,
+      "N": null,
+      "O": null,
+      "P": null,
+      "Q": null,
+      "R": null,
+      "S": null,
+      "T": null,
+      "U": null,
+      "V": null,
+      "W": null,
+      "X": null,
+      "Y": null,
+      "Z": null
+    },
+    {
+      "A": {
+        "text": "PS VITA",
+        "hyperlink": null,
+        "imageURL": "media/noImage.png"
+      },
+      "B": "\"The PlayStation Vita is a handheld game console manufactured and marketed by Sony Computer Entertainment. It is the successor to the PlayStation Portable.\"",
       "C": "2D/3D",
       "D": null,
       "E": null,
