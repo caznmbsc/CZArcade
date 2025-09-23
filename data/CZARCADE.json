@@ -4617,87 +4617,17 @@
       "H": "PS VITA"
     },
     {
-      "A": "Asura's Wrath",
+      "A": "Borderlands: The Pre-Sequel!",
       "B": null,
       "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/11847-asuras-wrath",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/11847-asuras-wrath",
-        "imageURL": "https://images.launchbox-app.com//9207725b-7d1f-48fa-92b9-5d807e028625.jpg"
-      },
-      "D": "English",
-      "E": null,
-      "F": 1.0,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": "Borderlands 2: Game of the Year Edition",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/154275-borderlands-2-game-of-the-year-edition",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/154275-borderlands-2-game-of-the-year-edition",
-        "imageURL": "https://images.launchbox-app.com//b534a441-df1f-4617-aa55-980a605d14f7.png"
+        "text": "https://gamesdb.launchbox-app.com/games/details/20784-borderlands-the-pre-sequel",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/20784-borderlands-the-pre-sequel",
+        "imageURL": "https://images.launchbox-app.com//7209937d-99b0-4679-b90e-e661e28a12e7.jpg"
       },
       "D": "English",
       "E": null,
       "F": 4.0,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": "Borderlands: Game of the Year Edition",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/11914-borderlands-game-of-the-year-edition",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/11914-borderlands-game-of-the-year-edition",
-        "imageURL": "https://images.launchbox-app.com//8508fbbd-9480-4833-9b58-579748fc410c.png"
-      },
-      "D": "English",
-      "E": null,
-      "F": 4.0,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": "Call of Duty: Black Ops",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/7985-call-of-duty-black-ops",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/7985-call-of-duty-black-ops",
-        "imageURL": "https://images.launchbox-app.com//9fe5af21-cd32-40be-bd85-17a1a1cc404e.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 18.0,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": "Call of Duty: Black Ops II",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/9558-call-of-duty-black-ops-ii",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/9558-call-of-duty-black-ops-ii",
-        "imageURL": "https://images.launchbox-app.com//7d11b1f5-5ad2-4d4e-a2bd-ab5944ded24b.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 18.0,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": "Demon's Souls",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/830-demons-souls",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/830-demons-souls",
-        "imageURL": "https://images.launchbox-app.com//d5fff070-cb82-467c-840f-e3e2bc01e6de.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 3.0,
-      "G": null,
+      "G": "REMOVED",
       "H": "PLAYSTATION 3"
     },
     {
@@ -4715,17 +4645,261 @@
       "H": "PLAYSTATION 3"
     },
     {
-      "A": "Borderlands: The Pre-Sequel!",
+      "A": "Call of Duty: Black Ops",
       "B": null,
       "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/20784-borderlands-the-pre-sequel",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/20784-borderlands-the-pre-sequel",
-        "imageURL": "https://images.launchbox-app.com//7209937d-99b0-4679-b90e-e661e28a12e7.jpg"
+        "text": "https://gamesdb.launchbox-app.com/games/details/7985-call-of-duty-black-ops",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/7985-call-of-duty-black-ops",
+        "imageURL": "https://images.launchbox-app.com//9fe5af21-cd32-40be-bd85-17a1a1cc404e.jpg"
       },
       "D": "English",
+      "E": "Shooter, Co-op, Versus",
+      "F": 18.0,
+      "G": "REMOVED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Call of Duty: Black Ops II",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/9558-call-of-duty-black-ops-ii",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/9558-call-of-duty-black-ops-ii",
+        "imageURL": "https://images.launchbox-app.com//7d11b1f5-5ad2-4d4e-a2bd-ab5944ded24b.jpg"
+      },
+      "D": "English",
+      "E": "Shooter, Co-op, Versus",
+      "F": 18.0,
+      "G": "REMOVED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Dead or Alive 5: Last Round",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/24951-dead-or-alive-5-last-round",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/24951-dead-or-alive-5-last-round",
+        "imageURL": "https://images.launchbox-app.com//9cd6b3cd-8bff-4833-9de5-813fc4737731.jpg"
+      },
+      "D": null,
+      "E": null,
+      "F": 16.0,
+      "G": null,
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Dead Rising 2",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/7995-dead-rising-2",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/7995-dead-rising-2",
+        "imageURL": "https://images.launchbox-app.com//24ad6c5e-08cc-44a3-a9a3-cd1678e11b12.jpg"
+      },
+      "D": null,
       "E": null,
       "F": 4.0,
-      "G": "REMOVED",
+      "G": null,
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Dead Space",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/11805-dead-space",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/11805-dead-space",
+        "imageURL": "https://images.launchbox-app.com//231fd49f-ab16-4e66-8e97-a4b6b21d5d1c.jpg"
+      },
+      "D": null,
+      "E": null,
+      "F": 1.0,
+      "G": null,
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Dead Space 2",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/7853-dead-space-2",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/7853-dead-space-2",
+        "imageURL": "https://images.launchbox-app.com//84666aea-80f8-44d4-b0d8-6836b6d75d58.jpg"
+      },
+      "D": null,
+      "E": null,
+      "F": 8.0,
+      "G": null,
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Dead Space 3",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/13037-dead-space-3",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/13037-dead-space-3",
+        "imageURL": "https://images.launchbox-app.com//17aec529-70a4-425f-bc15-a485bccae289.jpg"
+      },
+      "D": null,
+      "E": null,
+      "F": 2.0,
+      "G": null,
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Devil May Cry 4",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/14-devil-may-cry-4",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/14-devil-may-cry-4",
+        "imageURL": "https://images.launchbox-app.com//34f51984-ac5e-4164-952a-332a470892d1.jpg"
+      },
+      "D": null,
+      "E": null,
+      "F": 1.0,
+      "G": null,
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Dragon Ball: Raging Blast",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/14944-dragon-ball-raging-blast",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/14944-dragon-ball-raging-blast",
+        "imageURL": "https://images.launchbox-app.com//2af6611d-510c-4048-8693-41b34b222ee6.jpg"
+      },
+      "D": null,
+      "E": null,
+      "F": 8.0,
+      "G": null,
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Dragon Ball: Raging Blast 2",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/14276-dragon-ball-raging-blast-2",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/14276-dragon-ball-raging-blast-2",
+        "imageURL": "https://images.launchbox-app.com//5744ad6a-04e2-4dd9-bfe3-be634e07faf9.jpg"
+      },
+      "D": null,
+      "E": null,
+      "F": 8.0,
+      "G": null,
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Dynasty Warriors 7: Xtreme Legends",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/14966-dynasty-warriors-7-xtreme-legends",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/14966-dynasty-warriors-7-xtreme-legends",
+        "imageURL": "https://images.launchbox-app.com//3db53684-62b0-4f3e-9ac7-b282ba4113b9.jpg"
+      },
+      "D": null,
+      "E": null,
+      "F": 2.0,
+      "G": null,
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Dynasty Warriors 8: Xtreme Legends",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/139322-dynasty-warriors-8-xtreme-legends",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/139322-dynasty-warriors-8-xtreme-legends",
+        "imageURL": "https://images.launchbox-app.com//d4bafc47-ff72-485e-951b-f558d0a27ff8.jpg"
+      },
+      "D": null,
+      "E": null,
+      "F": 2.0,
+      "G": null,
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
       "H": "PLAYSTATION 3"
     },
     {
@@ -52341,6 +52515,62 @@
       "F": 1.0,
       "G": "RUNNING",
       "H": "PS VITA"
+    },
+    {
+      "A": "Asura's Wrath",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/11847-asuras-wrath",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/11847-asuras-wrath",
+        "imageURL": "https://images.launchbox-app.com//9207725b-7d1f-48fa-92b9-5d807e028625.jpg"
+      },
+      "D": "English",
+      "E": null,
+      "F": 1.0,
+      "G": "RUNNING",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Borderlands 2: Game of the Year Edition",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/154275-borderlands-2-game-of-the-year-edition",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/154275-borderlands-2-game-of-the-year-edition",
+        "imageURL": "https://images.launchbox-app.com//b534a441-df1f-4617-aa55-980a605d14f7.png"
+      },
+      "D": "English",
+      "E": null,
+      "F": 4.0,
+      "G": "RUNNING",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Borderlands: Game of the Year Edition",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/11914-borderlands-game-of-the-year-edition",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/11914-borderlands-game-of-the-year-edition",
+        "imageURL": "https://images.launchbox-app.com//8508fbbd-9480-4833-9b58-579748fc410c.png"
+      },
+      "D": "English",
+      "E": null,
+      "F": 4.0,
+      "G": "RUNNING",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Demon's Souls",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/830-demons-souls",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/830-demons-souls",
+        "imageURL": "https://images.launchbox-app.com//d5fff070-cb82-467c-840f-e3e2bc01e6de.jpg"
+      },
+      "D": "English",
+      "E": "Adventure, RPG, Hack and Slash",
+      "F": 3.0,
+      "G": "RUNNING",
+      "H": "PLAYSTATION 3"
     }
   ],
   "Systems": [
