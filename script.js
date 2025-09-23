@@ -114,7 +114,7 @@ async function loadGames(pageName) {
                 //Paint Unsupported Games
                 if ((game["G"] == "ISSUE") || (game["G"] == "REMOVED") || (game["G"] == "SKIPPED") || 
                     (game["G"] == "EPILEPSEY WARNING") || (game["G"] == "INACCESSIBLE") || 
-                    (game["G"] == "NOT WORKING")) {
+                    (game["G"] == "NOT WORKING") || (game["G"] == "HIDDEN")) {
                     gameCard.children[0].style.backgroundColor = "rgba(255, 0, 0, 0.5)"
                     gameCard.children[1].style.backgroundColor = "rgba(255, 0, 0, 0.5)"
                 }
