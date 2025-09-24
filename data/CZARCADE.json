@@ -4625,23 +4625,9 @@
         "imageURL": "https://images.launchbox-app.com//7209937d-99b0-4679-b90e-e661e28a12e7.jpg"
       },
       "D": "English",
-      "E": null,
+      "E": "Shooter, Adventure, RPG, Co-op",
       "F": 4.0,
       "G": "REMOVED",
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": "Call of Duty 4: Modern Warfare",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/10513-call-of-duty-4-modern-warfare",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/10513-call-of-duty-4-modern-warfare",
-        "imageURL": "https://images.launchbox-app.com//58841d8f-6898-4b01-9ec5-eb8933610fc0.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 18.0,
-      "G": null,
       "H": "PLAYSTATION 3"
     },
     {
@@ -4673,17 +4659,31 @@
       "H": "PLAYSTATION 3"
     },
     {
-      "A": "Dead or Alive 5: Last Round",
+      "A": "Call of Duty: Modern Warfare 2",
       "B": null,
       "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/24951-dead-or-alive-5-last-round",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/24951-dead-or-alive-5-last-round",
-        "imageURL": "https://images.launchbox-app.com//9cd6b3cd-8bff-4833-9de5-813fc4737731.jpg"
+        "text": "https://gamesdb.launchbox-app.com/games/details/6299-call-of-duty-modern-warfare-2",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/6299-call-of-duty-modern-warfare-2",
+        "imageURL": "https://images.launchbox-app.com//3744d12a-512b-474c-85eb-38b6b2d58ac7.jpg"
       },
-      "D": null,
-      "E": null,
-      "F": 16.0,
-      "G": null,
+      "D": "English",
+      "E": "Shooter, Co-op, Versus",
+      "F": 18.0,
+      "G": "REMOVED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Call of Duty: Modern Warfare 3",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/7986-call-of-duty-modern-warfare-3",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/7986-call-of-duty-modern-warfare-3",
+        "imageURL": "https://images.launchbox-app.com//1a2c2864-0cf1-49b4-b33f-00dfb1c4aedc.jpg"
+      },
+      "D": "English",
+      "E": "Shooter, Co-op, Versus",
+      "F": 18.0,
+      "G": "REMOVED",
       "H": "PLAYSTATION 3"
     },
     {
@@ -4694,10 +4694,24 @@
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/7995-dead-rising-2",
         "imageURL": "https://images.launchbox-app.com//24ad6c5e-08cc-44a3-a9a3-cd1678e11b12.jpg"
       },
-      "D": null,
-      "E": null,
+      "D": "English",
+      "E": "Adventure, Hack and Slash, Beat'em Up",
       "F": 4.0,
-      "G": null,
+      "G": "REMOVED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Dead Rising 2: Off the Record",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/11967-dead-rising-2-off-the-record",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/11967-dead-rising-2-off-the-record",
+        "imageURL": "https://images.launchbox-app.com//7dec9f8c-910a-4fcd-9894-a8e7ede5e8dd.jpg"
+      },
+      "D": "English",
+      "E": "Adventure, Hack and Slash, Beat'em Up",
+      "F": 2.0,
+      "G": "REMOVED",
       "H": "PLAYSTATION 3"
     },
     {
@@ -4792,10 +4806,10 @@
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/14966-dynasty-warriors-7-xtreme-legends",
         "imageURL": "https://images.launchbox-app.com//3db53684-62b0-4f3e-9ac7-b282ba4113b9.jpg"
       },
-      "D": null,
-      "E": null,
+      "D": "English",
+      "E": "Hack and Slash, Beat'em Up, Co-op",
       "F": 2.0,
-      "G": null,
+      "G": "REMOVED",
       "H": "PLAYSTATION 3"
     },
     {
@@ -4806,20 +4820,10 @@
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/139322-dynasty-warriors-8-xtreme-legends",
         "imageURL": "https://images.launchbox-app.com//d4bafc47-ff72-485e-951b-f558d0a27ff8.jpg"
       },
-      "D": null,
-      "E": null,
+      "D": "English",
+      "E": "Hack and Slash, Beat'em Up, Co-op",
       "F": 2.0,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
+      "G": "REMOVED",
       "H": "PLAYSTATION 3"
     },
     {
@@ -52525,7 +52529,7 @@
         "imageURL": "https://images.launchbox-app.com//9207725b-7d1f-48fa-92b9-5d807e028625.jpg"
       },
       "D": "English",
-      "E": null,
+      "E": "Beat'em Up",
       "F": 1.0,
       "G": "RUNNING",
       "H": "PLAYSTATION 3"
@@ -52539,7 +52543,7 @@
         "imageURL": "https://images.launchbox-app.com//b534a441-df1f-4617-aa55-980a605d14f7.png"
       },
       "D": "English",
-      "E": null,
+      "E": "Shooter, Adventure, RPG, Co-op",
       "F": 4.0,
       "G": "RUNNING",
       "H": "PLAYSTATION 3"
@@ -52553,8 +52557,36 @@
         "imageURL": "https://images.launchbox-app.com//8508fbbd-9480-4833-9b58-579748fc410c.png"
       },
       "D": "English",
-      "E": null,
+      "E": "Shooter, Adventure, RPG, Co-op",
       "F": 4.0,
+      "G": "RUNNING",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Call of Duty 4: Modern Warfare",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/10513-call-of-duty-4-modern-warfare",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/10513-call-of-duty-4-modern-warfare",
+        "imageURL": "https://images.launchbox-app.com//58841d8f-6898-4b01-9ec5-eb8933610fc0.jpg"
+      },
+      "D": "English",
+      "E": "Shooter, Co-op, Versus",
+      "F": 18.0,
+      "G": "RUNNING",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Dead or Alive 5: Last Round",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/24951-dead-or-alive-5-last-round",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/24951-dead-or-alive-5-last-round",
+        "imageURL": "https://images.launchbox-app.com//9cd6b3cd-8bff-4833-9de5-813fc4737731.jpg"
+      },
+      "D": "English",
+      "E": "3D Fighting, Versus",
+      "F": 16.0,
       "G": "RUNNING",
       "H": "PLAYSTATION 3"
     },
