@@ -4715,20 +4715,6 @@
       "H": "PLAYSTATION 3"
     },
     {
-      "A": "Dead Space 2",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/7853-dead-space-2",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/7853-dead-space-2",
-        "imageURL": "https://images.launchbox-app.com//84666aea-80f8-44d4-b0d8-6836b6d75d58.jpg"
-      },
-      "D": null,
-      "E": "Shooter, Adventure, Horror",
-      "F": 8.0,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
       "A": "Devil May Cry 4",
       "B": null,
       "C": {
@@ -52573,6 +52559,20 @@
       "D": "English",
       "E": "Shooter, Adventure, Horror",
       "F": 1.0,
+      "G": "RUNNING",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Dead Space 2",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/7853-dead-space-2",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/7853-dead-space-2",
+        "imageURL": "https://images.launchbox-app.com//84666aea-80f8-44d4-b0d8-6836b6d75d58.jpg"
+      },
+      "D": "English",
+      "E": "Shooter, Adventure, Horror",
+      "F": 8.0,
       "G": "RUNNING",
       "H": "PLAYSTATION 3"
     },
