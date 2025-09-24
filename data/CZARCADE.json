@@ -4715,20 +4715,6 @@
       "H": "PLAYSTATION 3"
     },
     {
-      "A": "Dead Space",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/11805-dead-space",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/11805-dead-space",
-        "imageURL": "https://images.launchbox-app.com//231fd49f-ab16-4e66-8e97-a4b6b21d5d1c.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 1.0,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
       "A": "Dead Space 2",
       "B": null,
       "C": {
@@ -4737,7 +4723,7 @@
         "imageURL": "https://images.launchbox-app.com//84666aea-80f8-44d4-b0d8-6836b6d75d58.jpg"
       },
       "D": null,
-      "E": null,
+      "E": "Shooter, Adventure, Horror",
       "F": 8.0,
       "G": null,
       "H": "PLAYSTATION 3"
@@ -4751,7 +4737,7 @@
         "imageURL": "https://images.launchbox-app.com//17aec529-70a4-425f-bc15-a485bccae289.jpg"
       },
       "D": null,
-      "E": null,
+      "E": "Shooter, Adventure, Horror, Co-op",
       "F": 2.0,
       "G": null,
       "H": "PLAYSTATION 3"
@@ -52587,6 +52573,20 @@
       "D": "English",
       "E": "3D Fighting, Versus",
       "F": 16.0,
+      "G": "RUNNING",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Dead Space",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/11805-dead-space",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/11805-dead-space",
+        "imageURL": "https://images.launchbox-app.com//231fd49f-ab16-4e66-8e97-a4b6b21d5d1c.jpg"
+      },
+      "D": "English",
+      "E": "Shooter, Adventure, Horror",
+      "F": 1.0,
       "G": "RUNNING",
       "H": "PLAYSTATION 3"
     },
