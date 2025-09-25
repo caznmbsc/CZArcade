@@ -4617,20 +4617,6 @@
       "H": "PS VITA"
     },
     {
-      "A": "Armored Core: For Answer",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/5653-armored-core-for-answer",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/5653-armored-core-for-answer",
-        "imageURL": "https://images.launchbox-app.com//1453a4c8-9927-43c4-b8ee-5d336a04dcdf.png"
-      },
-      "D": null,
-      "E": "Mech, RPG, Co-op, Versus",
-      "F": 8.0,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
       "A": "Battlefield 1943",
       "B": null,
       "C": {
@@ -4694,10 +4680,10 @@
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/7867-battlefield-bad-company-2",
         "imageURL": "https://images.launchbox-app.com//86d1bb3c-2dd9-490f-b936-b0b2b001bb2c.jpg"
       },
-      "D": null,
+      "D": "English",
       "E": "Shooter, Co-op, Versus",
       "F": 24.0,
-      "G": null,
+      "G": "REMOVED",
       "H": "PLAYSTATION 3"
     },
     {
@@ -4936,20 +4922,6 @@
       "E": "Hack and Slash, Beat'em Up, Co-op",
       "F": 2.0,
       "G": "SKIPPED",
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": "Bayonetta",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/618-bayonetta",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/618-bayonetta",
-        "imageURL": "https://images.launchbox-app.com//886dc44d-16f7-406c-9d7c-052e68226efc.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 1.0,
-      "G": null,
       "H": "PLAYSTATION 3"
     },
     {
@@ -52617,6 +52589,20 @@
       "H": "PS VITA"
     },
     {
+      "A": "Armored Core: For Answer",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/5653-armored-core-for-answer",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/5653-armored-core-for-answer",
+        "imageURL": "https://images.launchbox-app.com//1453a4c8-9927-43c4-b8ee-5d336a04dcdf.png"
+      },
+      "D": "English",
+      "E": "Mech, RPG, Co-op, Versus, Shooter",
+      "F": 8.0,
+      "G": "RUNNING",
+      "H": "PLAYSTATION 3"
+    },
+    {
       "A": "Asura's Wrath",
       "B": null,
       "C": {
@@ -52781,6 +52767,20 @@
       "D": "English",
       "E": "3D Fighting, Versus",
       "F": 8.0,
+      "G": "RUNNING",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Bayonetta",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/618-bayonetta",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/618-bayonetta",
+        "imageURL": "https://images.launchbox-app.com//886dc44d-16f7-406c-9d7c-052e68226efc.jpg"
+      },
+      "D": "English",
+      "E": "Beat'em Up",
+      "F": 1.0,
       "G": "RUNNING",
       "H": "PLAYSTATION 3"
     }
