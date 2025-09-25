@@ -4715,20 +4715,6 @@
       "H": "PLAYSTATION 3"
     },
     {
-      "A": "BlazBlue: Chrono Phantasma",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/20078-blazblue-chrono-phantasma",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/20078-blazblue-chrono-phantasma",
-        "imageURL": "https://images.launchbox-app.com//56641698-3001-49bb-a594-59306adf0fa1.jpg"
-      },
-      "D": null,
-      "E": "2D Fighting, Versus",
-      "F": 2.0,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
       "A": "BlazBlue: Chrono Phantasma Extend",
       "B": null,
       "C": {
@@ -52613,6 +52599,20 @@
       "D": "English",
       "E": "Beat'em Up",
       "F": 1.0,
+      "G": "RUNNING",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "BlazBlue: Chrono Phantasma",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/20078-blazblue-chrono-phantasma",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/20078-blazblue-chrono-phantasma",
+        "imageURL": "https://images.launchbox-app.com//56641698-3001-49bb-a594-59306adf0fa1.jpg"
+      },
+      "D": "English",
+      "E": "2D Fighting, Versus",
+      "F": 2.0,
       "G": "RUNNING",
       "H": "PLAYSTATION 3"
     },
