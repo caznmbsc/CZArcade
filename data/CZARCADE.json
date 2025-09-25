@@ -4625,7 +4625,7 @@
         "imageURL": "https://images.launchbox-app.com//1453a4c8-9927-43c4-b8ee-5d336a04dcdf.png"
       },
       "D": null,
-      "E": null,
+      "E": "Mech, RPG, Co-op, Versus",
       "F": 8.0,
       "G": null,
       "H": "PLAYSTATION 3"
@@ -4639,7 +4639,7 @@
         "imageURL": "https://images.launchbox-app.com//b0baaec4-05bf-4b97-b0c2-0ee4c187e74c.jpg"
       },
       "D": "English",
-      "E": null,
+      "E": "Shooter, Co-op, Versus",
       "F": 24.0,
       "G": "SKIPPED",
       "H": "PLAYSTATION 3"
@@ -4653,7 +4653,7 @@
         "imageURL": "https://images.launchbox-app.com//a239ef3b-b82b-461d-967b-ce58f1779985.jpg"
       },
       "D": "English",
-      "E": null,
+      "E": "Shooter, Co-op, Versus",
       "F": 24.0,
       "G": "SKIPPED",
       "H": "PLAYSTATION 3"
@@ -4667,7 +4667,7 @@
         "imageURL": "https://images.launchbox-app.com//e5835a98-f6ec-441a-94d8-3579bbc2ea26.png"
       },
       "D": "English",
-      "E": null,
+      "E": "Shooter, Co-op, Versus",
       "F": 24.0,
       "G": "SKIPPED",
       "H": "PLAYSTATION 3"
@@ -4681,7 +4681,7 @@
         "imageURL": "https://images.launchbox-app.com//144feb1e-da05-4659-bbf1-1dc30addc97b.jpg"
       },
       "D": "English",
-      "E": null,
+      "E": "Shooter, Co-op, Versus",
       "F": 24.0,
       "G": "SKIPPED",
       "H": "PLAYSTATION 3"
@@ -4695,7 +4695,7 @@
         "imageURL": "https://images.launchbox-app.com//86d1bb3c-2dd9-490f-b936-b0b2b001bb2c.jpg"
       },
       "D": null,
-      "E": null,
+      "E": "Shooter, Co-op, Versus",
       "F": 24.0,
       "G": null,
       "H": "PLAYSTATION 3"
@@ -4709,7 +4709,7 @@
         "imageURL": "https://images.launchbox-app.com//86f7e88b-6aec-40ba-aa5e-2fc2e349b3c2.jpg"
       },
       "D": null,
-      "E": null,
+      "E": "2D Fighting, Versus",
       "F": 2.0,
       "G": null,
       "H": "PLAYSTATION 3"
@@ -4723,7 +4723,21 @@
         "imageURL": "https://images.launchbox-app.com//33b4e332-ac92-4d25-bfe3-f20c8b501c39.jpg"
       },
       "D": null,
-      "E": null,
+      "E": "2D Fighting, Versus",
+      "F": 2.0,
+      "G": null,
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "BlazBlue: Chrono Phantasma",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/20078-blazblue-chrono-phantasma",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/20078-blazblue-chrono-phantasma",
+        "imageURL": "https://images.launchbox-app.com//56641698-3001-49bb-a594-59306adf0fa1.jpg"
+      },
+      "D": null,
+      "E": "2D Fighting, Versus",
       "F": 2.0,
       "G": null,
       "H": "PLAYSTATION 3"
@@ -4737,7 +4751,7 @@
         "imageURL": "https://images.launchbox-app.com//7acac65e-05c5-4972-90b7-f6dab55b87f8.jpg"
       },
       "D": null,
-      "E": null,
+      "E": "2D Fighting, Versus",
       "F": 8.0,
       "G": null,
       "H": "PLAYSTATION 3"
@@ -4751,7 +4765,7 @@
         "imageURL": "https://images.launchbox-app.com//306190a6-e45f-4d33-9510-1d8138cc7500.png"
       },
       "D": null,
-      "E": null,
+      "E": "2D Fighting, Versus",
       "F": 2.0,
       "G": null,
       "H": "PLAYSTATION 3"
@@ -4765,7 +4779,7 @@
         "imageURL": "https://images.launchbox-app.com//3b50219b-d2d9-4b9a-8efb-5f9a1bce36b6.jpg"
       },
       "D": null,
-      "E": null,
+      "E": "2D Fighting, Versus",
       "F": 6.0,
       "G": null,
       "H": "PLAYSTATION 3"
@@ -4821,7 +4835,7 @@
         "imageURL": "https://images.launchbox-app.com//bf5379a7-1489-4294-a0d5-80ff3692cfbe.jpg"
       },
       "D": "English",
-      "E": null,
+      "E": "Shooter, Co-op, Versus",
       "F": 18.0,
       "G": "SKIPPED",
       "H": "PLAYSTATION 3"
@@ -4863,7 +4877,7 @@
         "imageURL": "https://images.launchbox-app.com//8388411c-c25f-4237-a3f6-396d7f22dc37.jpg"
       },
       "D": "English",
-      "E": null,
+      "E": "Shooter, Co-op, Versus",
       "F": 32.0,
       "G": "SKIPPED",
       "H": "PLAYSTATION 3"
@@ -4925,22 +4939,16 @@
       "H": "PLAYSTATION 3"
     },
     {
-      "A": null,
+      "A": "Bayonetta",
       "B": null,
-      "C": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/618-bayonetta",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/618-bayonetta",
+        "imageURL": "https://images.launchbox-app.com//886dc44d-16f7-406c-9d7c-052e68226efc.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
+      "F": 1.0,
       "G": null,
       "H": "PLAYSTATION 3"
     },
