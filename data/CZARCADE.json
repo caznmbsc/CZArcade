@@ -4617,6 +4617,160 @@
       "H": "PS VITA"
     },
     {
+      "A": "Armored Core: For Answer",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/5653-armored-core-for-answer",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/5653-armored-core-for-answer",
+        "imageURL": "https://images.launchbox-app.com//1453a4c8-9927-43c4-b8ee-5d336a04dcdf.png"
+      },
+      "D": null,
+      "E": null,
+      "F": 8.0,
+      "G": null,
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Battlefield 1943",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/118050-battlefield-1943",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/118050-battlefield-1943",
+        "imageURL": "https://images.launchbox-app.com//b0baaec4-05bf-4b97-b0c2-0ee4c187e74c.jpg"
+      },
+      "D": "English",
+      "E": null,
+      "F": 24.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Battlefield 3",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/7984-battlefield-3",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/7984-battlefield-3",
+        "imageURL": "https://images.launchbox-app.com//a239ef3b-b82b-461d-967b-ce58f1779985.jpg"
+      },
+      "D": "English",
+      "E": null,
+      "F": 24.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Battlefield 4",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/17593-battlefield-4",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/17593-battlefield-4",
+        "imageURL": "https://images.launchbox-app.com//e5835a98-f6ec-441a-94d8-3579bbc2ea26.png"
+      },
+      "D": "English",
+      "E": null,
+      "F": 24.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Battlefield: Bad Company",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/10487-battlefield-bad-company",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/10487-battlefield-bad-company",
+        "imageURL": "https://images.launchbox-app.com//144feb1e-da05-4659-bbf1-1dc30addc97b.jpg"
+      },
+      "D": "English",
+      "E": null,
+      "F": 24.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Battlefield: Bad Company 2",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/7867-battlefield-bad-company-2",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/7867-battlefield-bad-company-2",
+        "imageURL": "https://images.launchbox-app.com//86d1bb3c-2dd9-490f-b936-b0b2b001bb2c.jpg"
+      },
+      "D": null,
+      "E": null,
+      "F": 24.0,
+      "G": null,
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "BlazBlue: Calamity Trigger",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/6171-blazblue-calamity-trigger",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/6171-blazblue-calamity-trigger",
+        "imageURL": "https://images.launchbox-app.com//86f7e88b-6aec-40ba-aa5e-2fc2e349b3c2.jpg"
+      },
+      "D": null,
+      "E": null,
+      "F": 2.0,
+      "G": null,
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "BlazBlue: Central Fiction",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/115127-blazblue-central-fiction",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/115127-blazblue-central-fiction",
+        "imageURL": "https://images.launchbox-app.com//33b4e332-ac92-4d25-bfe3-f20c8b501c39.jpg"
+      },
+      "D": null,
+      "E": null,
+      "F": 2.0,
+      "G": null,
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "BlazBlue: Chrono Phantasma Extend",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/34044-blazblue-chrono-phantasma-extend",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/34044-blazblue-chrono-phantasma-extend",
+        "imageURL": "https://images.launchbox-app.com//7acac65e-05c5-4972-90b7-f6dab55b87f8.jpg"
+      },
+      "D": null,
+      "E": null,
+      "F": 8.0,
+      "G": null,
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "BlazBlue: Continuum Shift",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/5659-blazblue-continuum-shift",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/5659-blazblue-continuum-shift",
+        "imageURL": "https://images.launchbox-app.com//306190a6-e45f-4d33-9510-1d8138cc7500.png"
+      },
+      "D": null,
+      "E": null,
+      "F": 2.0,
+      "G": null,
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "BlazBlue: Continuum Shift Extend",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/13516-blazblue-continuum-shift-extend",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/13516-blazblue-continuum-shift-extend",
+        "imageURL": "https://images.launchbox-app.com//3b50219b-d2d9-4b9a-8efb-5f9a1bce36b6.jpg"
+      },
+      "D": null,
+      "E": null,
+      "F": 6.0,
+      "G": null,
+      "H": "PLAYSTATION 3"
+    },
+    {
       "A": "Borderlands: The Pre-Sequel!",
       "B": null,
       "C": {
@@ -4641,7 +4795,7 @@
       "D": "English",
       "E": "Shooter, Co-op, Versus",
       "F": 18.0,
-      "G": "REMOVED",
+      "G": "SKIPPED",
       "H": "PLAYSTATION 3"
     },
     {
@@ -4659,6 +4813,20 @@
       "H": "PLAYSTATION 3"
     },
     {
+      "A": "Call of Duty: Ghosts",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/17646-call-of-duty-ghosts",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/17646-call-of-duty-ghosts",
+        "imageURL": "https://images.launchbox-app.com//bf5379a7-1489-4294-a0d5-80ff3692cfbe.jpg"
+      },
+      "D": "English",
+      "E": null,
+      "F": 18.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
       "A": "Call of Duty: Modern Warfare 2",
       "B": null,
       "C": {
@@ -4669,7 +4837,7 @@
       "D": "English",
       "E": "Shooter, Co-op, Versus",
       "F": 18.0,
-      "G": "REMOVED",
+      "G": "SKIPPED",
       "H": "PLAYSTATION 3"
     },
     {
@@ -4683,7 +4851,21 @@
       "D": "English",
       "E": "Shooter, Co-op, Versus",
       "F": 18.0,
-      "G": "REMOVED",
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Call of Duty: World at War",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/13396-call-of-duty-world-at-war",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/13396-call-of-duty-world-at-war",
+        "imageURL": "https://images.launchbox-app.com//8388411c-c25f-4237-a3f6-396d7f22dc37.jpg"
+      },
+      "D": "English",
+      "E": null,
+      "F": 32.0,
+      "G": "SKIPPED",
       "H": "PLAYSTATION 3"
     },
     {
@@ -4697,7 +4879,7 @@
       "D": "English",
       "E": "Adventure, Hack and Slash, Beat'em Up",
       "F": 4.0,
-      "G": "REMOVED",
+      "G": "SKIPPED",
       "H": "PLAYSTATION 3"
     },
     {
@@ -4711,7 +4893,7 @@
       "D": "English",
       "E": "Adventure, Hack and Slash, Beat'em Up",
       "F": 2.0,
-      "G": "REMOVED",
+      "G": "SKIPPED",
       "H": "PLAYSTATION 3"
     },
     {
@@ -4725,7 +4907,7 @@
       "D": "English",
       "E": "Hack and Slash, Beat'em Up, Co-op",
       "F": 2.0,
-      "G": "REMOVED",
+      "G": "SKIPPED",
       "H": "PLAYSTATION 3"
     },
     {
@@ -4739,17 +4921,7 @@
       "D": "English",
       "E": "Hack and Slash, Beat'em Up, Co-op",
       "F": 2.0,
-      "G": "REMOVED",
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
+      "G": "SKIPPED",
       "H": "PLAYSTATION 3"
     },
     {
