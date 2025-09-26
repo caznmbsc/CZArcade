@@ -4687,20 +4687,6 @@
       "H": "PLAYSTATION 3"
     },
     {
-      "A": "BlazBlue: Central Fiction",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/115127-blazblue-central-fiction",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/115127-blazblue-central-fiction",
-        "imageURL": "https://images.launchbox-app.com//33b4e332-ac92-4d25-bfe3-f20c8b501c39.jpg"
-      },
-      "D": null,
-      "E": "2D Fighting, Versus",
-      "F": 2.0,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
       "A": "Borderlands: The Pre-Sequel!",
       "B": null,
       "C": {
@@ -4855,13 +4841,13 @@
       "H": "PLAYSTATION 3"
     },
     {
-      "A": "PLAYSTATION 3 GAME",
-      "B": "Aliases",
-      "C": "Informational Page",
-      "D": "Language",
-      "E": "Genre",
-      "F": "Max Players",
-      "G": "Status",
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
       "H": "PLAYSTATION 3"
     },
     {
@@ -52529,6 +52515,20 @@
       "H": "PS VITA"
     },
     {
+      "A": "Armored Core: For Answer",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/5653-armored-core-for-answer",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/5653-armored-core-for-answer",
+        "imageURL": "https://images.launchbox-app.com//1453a4c8-9927-43c4-b8ee-5d336a04dcdf.png"
+      },
+      "D": "English",
+      "E": "Mech, RPG, Co-op, Versus, Shooter",
+      "F": 8.0,
+      "G": "RUNNING",
+      "H": "PLAYSTATION 3"
+    },
+    {
       "A": "Asura's Wrath",
       "B": null,
       "C": {
@@ -52563,6 +52563,20 @@
         "text": "https://gamesdb.launchbox-app.com/games/details/6171-blazblue-calamity-trigger",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/6171-blazblue-calamity-trigger",
         "imageURL": "https://images.launchbox-app.com//86f7e88b-6aec-40ba-aa5e-2fc2e349b3c2.jpg"
+      },
+      "D": "English",
+      "E": "2D Fighting, Versus",
+      "F": 2.0,
+      "G": "RUNNING",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "BlazBlue: Central Fiction",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/115127-blazblue-central-fiction",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/115127-blazblue-central-fiction",
+        "imageURL": "https://images.launchbox-app.com//33b4e332-ac92-4d25-bfe3-f20c8b501c39.jpg"
       },
       "D": "English",
       "E": "2D Fighting, Versus",
