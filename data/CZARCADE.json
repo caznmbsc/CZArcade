@@ -4687,20 +4687,6 @@
       "H": "PLAYSTATION 3"
     },
     {
-      "A": "BlazBlue: Calamity Trigger",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/6171-blazblue-calamity-trigger",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/6171-blazblue-calamity-trigger",
-        "imageURL": "https://images.launchbox-app.com//86f7e88b-6aec-40ba-aa5e-2fc2e349b3c2.jpg"
-      },
-      "D": null,
-      "E": "2D Fighting, Versus",
-      "F": 2.0,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
       "A": "BlazBlue: Central Fiction",
       "B": null,
       "C": {
@@ -4711,20 +4697,6 @@
       "D": null,
       "E": "2D Fighting, Versus",
       "F": 2.0,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": "BlazBlue: Chrono Phantasma Extend",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/34044-blazblue-chrono-phantasma-extend",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/34044-blazblue-chrono-phantasma-extend",
-        "imageURL": "https://images.launchbox-app.com//7acac65e-05c5-4972-90b7-f6dab55b87f8.jpg"
-      },
-      "D": null,
-      "E": "2D Fighting, Versus",
-      "F": 8.0,
       "G": null,
       "H": "PLAYSTATION 3"
     },
@@ -4880,6 +4852,16 @@
       "E": "Hack and Slash, Beat'em Up, Co-op",
       "F": 2.0,
       "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "PLAYSTATION 3 GAME",
+      "B": "Aliases",
+      "C": "Informational Page",
+      "D": "Language",
+      "E": "Genre",
+      "F": "Max Players",
+      "G": "Status",
       "H": "PLAYSTATION 3"
     },
     {
@@ -52547,20 +52529,6 @@
       "H": "PS VITA"
     },
     {
-      "A": "Armored Core: For Answer",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/5653-armored-core-for-answer",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/5653-armored-core-for-answer",
-        "imageURL": "https://images.launchbox-app.com//1453a4c8-9927-43c4-b8ee-5d336a04dcdf.png"
-      },
-      "D": "English",
-      "E": "Mech, RPG, Co-op, Versus, Shooter",
-      "F": 8.0,
-      "G": "RUNNING",
-      "H": "PLAYSTATION 3"
-    },
-    {
       "A": "Asura's Wrath",
       "B": null,
       "C": {
@@ -52575,6 +52543,34 @@
       "H": "PLAYSTATION 3"
     },
     {
+      "A": "Bayonetta",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/618-bayonetta",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/618-bayonetta",
+        "imageURL": "https://images.launchbox-app.com//886dc44d-16f7-406c-9d7c-052e68226efc.jpg"
+      },
+      "D": "English",
+      "E": "Beat'em Up",
+      "F": 1.0,
+      "G": "RUNNING",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "BlazBlue: Calamity Trigger",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/6171-blazblue-calamity-trigger",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/6171-blazblue-calamity-trigger",
+        "imageURL": "https://images.launchbox-app.com//86f7e88b-6aec-40ba-aa5e-2fc2e349b3c2.jpg"
+      },
+      "D": "English",
+      "E": "2D Fighting, Versus",
+      "F": 2.0,
+      "G": "RUNNING",
+      "H": "PLAYSTATION 3"
+    },
+    {
       "A": "BlazBlue: Chrono Phantasma",
       "B": null,
       "C": {
@@ -52585,6 +52581,20 @@
       "D": "English",
       "E": "2D Fighting, Versus",
       "F": 2.0,
+      "G": "RUNNING",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "BlazBlue: Chrono Phantasma Extend",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/34044-blazblue-chrono-phantasma-extend",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/34044-blazblue-chrono-phantasma-extend",
+        "imageURL": "https://images.launchbox-app.com//7acac65e-05c5-4972-90b7-f6dab55b87f8.jpg"
+      },
+      "D": "English",
+      "E": "2D Fighting, Versus",
+      "F": 8.0,
       "G": "RUNNING",
       "H": "PLAYSTATION 3"
     },
@@ -52767,20 +52777,6 @@
       "D": "English",
       "E": "3D Fighting, Versus",
       "F": 8.0,
-      "G": "RUNNING",
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": "Bayonetta",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/618-bayonetta",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/618-bayonetta",
-        "imageURL": "https://images.launchbox-app.com//886dc44d-16f7-406c-9d7c-052e68226efc.jpg"
-      },
-      "D": "English",
-      "E": "Beat'em Up",
-      "F": 1.0,
       "G": "RUNNING",
       "H": "PLAYSTATION 3"
     }
