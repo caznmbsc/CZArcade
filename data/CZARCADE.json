@@ -4729,34 +4729,6 @@
       "H": "PLAYSTATION 3"
     },
     {
-      "A": "BlazBlue: Continuum Shift",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/5659-blazblue-continuum-shift",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/5659-blazblue-continuum-shift",
-        "imageURL": "https://images.launchbox-app.com//306190a6-e45f-4d33-9510-1d8138cc7500.png"
-      },
-      "D": null,
-      "E": "2D Fighting, Versus",
-      "F": 2.0,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": "BlazBlue: Continuum Shift Extend",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/13516-blazblue-continuum-shift-extend",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/13516-blazblue-continuum-shift-extend",
-        "imageURL": "https://images.launchbox-app.com//3b50219b-d2d9-4b9a-8efb-5f9a1bce36b6.jpg"
-      },
-      "D": null,
-      "E": "2D Fighting, Versus",
-      "F": 6.0,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
       "A": "Borderlands: The Pre-Sequel!",
       "B": null,
       "C": {
@@ -52613,6 +52585,34 @@
       "D": "English",
       "E": "2D Fighting, Versus",
       "F": 2.0,
+      "G": "RUNNING",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "BlazBlue: Continuum Shift",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/5659-blazblue-continuum-shift",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/5659-blazblue-continuum-shift",
+        "imageURL": "https://images.launchbox-app.com//306190a6-e45f-4d33-9510-1d8138cc7500.png"
+      },
+      "D": "English",
+      "E": "2D Fighting, Versus",
+      "F": 2.0,
+      "G": "RUNNING",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "BlazBlue: Continuum Shift Extend",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/13516-blazblue-continuum-shift-extend",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/13516-blazblue-continuum-shift-extend",
+        "imageURL": "https://images.launchbox-app.com//3b50219b-d2d9-4b9a-8efb-5f9a1bce36b6.jpg"
+      },
+      "D": "English",
+      "E": "2D Fighting, Versus",
+      "F": 6.0,
       "G": "RUNNING",
       "H": "PLAYSTATION 3"
     },
