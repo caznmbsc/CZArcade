@@ -4687,6 +4687,34 @@
       "H": "PLAYSTATION 3"
     },
     {
+      "A": "BlazBlue: Chrono Phantasma",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/20078-blazblue-chrono-phantasma",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/20078-blazblue-chrono-phantasma",
+        "imageURL": "https://images.launchbox-app.com//56641698-3001-49bb-a594-59306adf0fa1.jpg"
+      },
+      "D": "English",
+      "E": "2D Fighting, Versus",
+      "F": 2.0,
+      "G": "REMOVED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "BlazBlue: Continuum Shift",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/5659-blazblue-continuum-shift",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/5659-blazblue-continuum-shift",
+        "imageURL": "https://images.launchbox-app.com//306190a6-e45f-4d33-9510-1d8138cc7500.png"
+      },
+      "D": "English",
+      "E": "2D Fighting, Versus",
+      "F": 2.0,
+      "G": "REMOVED",
+      "H": "PLAYSTATION 3"
+    },
+    {
       "A": "Borderlands: The Pre-Sequel!",
       "B": null,
       "C": {
@@ -5131,7 +5159,7 @@
       "D": "English",
       "E": "Adventure, RPG, Shooter",
       "F": 4.0,
-      "G": null,
+      "G": "REMOVED",
       "H": "PLAYSTATION 3"
     },
     {
@@ -53709,20 +53737,6 @@
       "H": "PLAYSTATION 3"
     },
     {
-      "A": "BlazBlue: Chrono Phantasma",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/20078-blazblue-chrono-phantasma",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/20078-blazblue-chrono-phantasma",
-        "imageURL": "https://images.launchbox-app.com//56641698-3001-49bb-a594-59306adf0fa1.jpg"
-      },
-      "D": "English",
-      "E": "2D Fighting, Versus",
-      "F": 2.0,
-      "G": "RUNNING",
-      "H": "PLAYSTATION 3"
-    },
-    {
       "A": "BlazBlue: Chrono Phantasma Extend",
       "B": null,
       "C": {
@@ -53733,20 +53747,6 @@
       "D": "English",
       "E": "2D Fighting, Versus",
       "F": 8.0,
-      "G": "RUNNING",
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": "BlazBlue: Continuum Shift",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/5659-blazblue-continuum-shift",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/5659-blazblue-continuum-shift",
-        "imageURL": "https://images.launchbox-app.com//306190a6-e45f-4d33-9510-1d8138cc7500.png"
-      },
-      "D": "English",
-      "E": "2D Fighting, Versus",
-      "F": 2.0,
       "G": "RUNNING",
       "H": "PLAYSTATION 3"
     },
