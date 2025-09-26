@@ -4893,7 +4893,7 @@
       "D": "English",
       "E": "Adventure, Stealth, Hack and Slash",
       "F": 1.0,
-      "G": "SKIPPED",
+      "G": null,
       "H": "PLAYSTATION 3"
     },
     {
@@ -4981,112 +4981,156 @@
       "H": "PLAYSTATION 3"
     },
     {
-      "A": null,
+      "A": "Far Cry 2",
       "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/6309-far-cry-2",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/6309-far-cry-2",
+        "imageURL": "https://images.launchbox-app.com//e296c7a3-612e-4e76-bc8d-3849181ae8f2.png"
+      },
+      "D": "English",
+      "E": "Adventure, Shooter",
+      "F": 16.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Far Cry 3: Blood Dragon",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/16378-far-cry-3-blood-dragon",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/16378-far-cry-3-blood-dragon",
+        "imageURL": "https://images.launchbox-app.com//1cfc3160-7066-4b39-8e89-9d34ff160c5e.jpg"
+      },
+      "D": "English",
+      "E": "Adventure, Shooter",
+      "F": 1.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Far Cry 3",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/11344-far-cry-3",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/11344-far-cry-3",
+        "imageURL": "https://images.launchbox-app.com//892a29c5-7d83-4f2d-9cb2-f8b6449e0e30.jpg"
+      },
+      "D": "English",
+      "E": "Adventure, Shooter",
+      "F": 2.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Far Cry 4",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/20185-far-cry-4",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/20185-far-cry-4",
+        "imageURL": "https://images.launchbox-app.com//1ebdab56-9eb0-4130-b5fc-0ac9041d6785.jpg"
+      },
+      "D": "English",
+      "E": "Adventure, Shooter",
+      "F": 1.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Far Cry Classic",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/92523-far-cry-classic",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/92523-far-cry-classic",
+        "imageURL": "https://images.launchbox-app.com//f0c100de-bb76-4d1e-a79a-21d17f6d1695.png"
+      },
+      "D": "English",
+      "E": "Adventure, Shooter",
+      "F": 1.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "God of War: Ascension",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/12909-god-of-war-ascension",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/12909-god-of-war-ascension",
+        "imageURL": "https://images.launchbox-app.com//8f3499e2-519f-445b-81ff-3534322aaebd.jpg"
+      },
+      "D": "English",
+      "E": "Beat'em Up, Hack and Slash",
+      "F": 8.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Grand Theft Auto IV",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/6315-grand-theft-auto-iv",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/6315-grand-theft-auto-iv",
+        "imageURL": "https://images.launchbox-app.com//cc6b47ba-bcdf-45aa-b604-7f9dd56287ef.jpg"
+      },
+      "D": "English",
+      "E": "Hack and Slash, Shooter, Driving",
+      "F": 1.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Heavy Rain",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/301-heavy-rain",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/301-heavy-rain",
+        "imageURL": "https://images.launchbox-app.com//68ca6e57-f698-495c-a2f4-db55b0d6aa6a.jpg"
+      },
+      "D": "English",
+      "E": "Visual Novel, RPG",
+      "F": 1.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Mass Effect 2",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/11807-mass-effect-2",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/11807-mass-effect-2",
+        "imageURL": "https://images.launchbox-app.com//2f0eb559-b707-4e25-bdc1-c0941179282e.png"
+      },
+      "D": "English",
+      "E": "Adventure, RPG, Shooter",
+      "F": 1.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Mass Effect",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/20566-mass-effect",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/20566-mass-effect",
+        "imageURL": "https://images.launchbox-app.com//5c0f0f6d-62c4-49c8-a307-5fc9a62e5487.jpg"
+      },
+      "D": "English",
+      "E": "Adventure, RPG, Shooter",
+      "F": 1.0,
       "G": null,
       "H": "PLAYSTATION 3"
     },
     {
-      "A": null,
+      "A": "Mass Effect 3",
       "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/7849-mass-effect-3",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/7849-mass-effect-3",
+        "imageURL": "https://images.launchbox-app.com//274505b0-c20a-4fb3-9685-ce69a9af1496.png"
+      },
+      "D": "English",
+      "E": "Adventure, RPG, Shooter",
+      "F": 4.0,
       "G": null,
       "H": "PLAYSTATION 3"
     },
@@ -56406,8 +56450,8 @@
         "hyperlink": null,
         "imageURL": "media/noImage.png"
       },
-      "B": "A game focusing on a textual narrative and illustrations used to convey an often choice-based story. ",
-      "C": null,
+      "B": "A game focusing on a textual narrative with illustrations or visuals used to convey an often choice-based story. ",
+      "C": "Including Narrative-Heavy games.",
       "D": null,
       "E": null,
       "F": null,
