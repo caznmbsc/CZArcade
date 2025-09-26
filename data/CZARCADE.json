@@ -4883,20 +4883,6 @@
       "H": "PLAYSTATION 3"
     },
     {
-      "A": "Assassin's Creed",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/5655-assassins-creed",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/5655-assassins-creed",
-        "imageURL": "https://images.launchbox-app.com//ac5b9aeb-3d8d-4aee-9b60-26d9357cfef0.jpg"
-      },
-      "D": "English",
-      "E": "Adventure, Stealth, Hack and Slash",
-      "F": 1.0,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
       "A": "Assassin's Creed IV: Black Flag",
       "B": null,
       "C": {
@@ -53929,6 +53915,20 @@
       "D": "English",
       "E": "3D Fighting, Versus",
       "F": 2.0,
+      "G": "RUNNING",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Assassin's Creed",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/5655-assassins-creed",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/5655-assassins-creed",
+        "imageURL": "https://images.launchbox-app.com//ac5b9aeb-3d8d-4aee-9b60-26d9357cfef0.jpg"
+      },
+      "D": "English",
+      "E": "Adventure, Stealth, Hack and Slash",
+      "F": 1.0,
       "G": "RUNNING",
       "H": "PLAYSTATION 3"
     }
