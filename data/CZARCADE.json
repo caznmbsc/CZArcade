@@ -4841,22 +4841,16 @@
       "H": "PLAYSTATION 3"
     },
     {
-      "A": null,
+      "A": "Dragon Ball Xenoverse",
       "B": null,
-      "C": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/24959-dragon-ball-xenoverse",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/24959-dragon-ball-xenoverse",
+        "imageURL": "https://images.launchbox-app.com//bd9ec839-2436-4b2d-bd86-348dffef52ca.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
+      "F": 6.0,
       "G": null,
       "H": "PLAYSTATION 3"
     },
@@ -52791,6 +52785,20 @@
       "D": "English",
       "E": "3D Fighting, Versus",
       "F": 8.0,
+      "G": "RUNNING",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Dragon Ball Z: Burst Limit",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/13563-dragon-ball-z-burst-limit",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/13563-dragon-ball-z-burst-limit",
+        "imageURL": "https://images.launchbox-app.com//87d664e0-8494-4310-90b1-e6c8ca4e4e66.png"
+      },
+      "D": "English",
+      "E": null,
+      "F": 2.0,
       "G": "RUNNING",
       "H": "PLAYSTATION 3"
     }
