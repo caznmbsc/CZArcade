@@ -5163,493 +5163,689 @@
       "H": "PLAYSTATION 3"
     },
     {
-      "A": null,
+      "A": "Sonic & SEGA All-Stars Racing",
       "B": null,
-      "C": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/12276-sonic-sega-all-stars-racing",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/12276-sonic-sega-all-stars-racing",
+        "imageURL": "https://images.launchbox-app.com//6fca60df-2c9d-4869-932c-44ac7c157d34.png"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 1.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Dragon's Lair",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/119097-dragons-lair",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/119097-dragons-lair",
+        "imageURL": "https://images.launchbox-app.com//8ee11c05-a1b8-4b56-b0f0-6bcd7c7f26ad.jpg"
+      },
+      "D": null,
+      "E": null,
+      "F": 2.0,
       "G": null,
       "H": "PLAYSTATION 3"
     },
     {
-      "A": null,
+      "A": "Dragon's Lair II: Time Warp",
       "B": null,
-      "C": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/168837-dragons-lair-ii-time-warp",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/168837-dragons-lair-ii-time-warp",
+        "imageURL": "https://images.launchbox-app.com//eaae05b6-ef23-49fa-9929-614ce50fe772.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": "No information available",
       "G": null,
       "H": "PLAYSTATION 3"
     },
     {
-      "A": null,
+      "A": "inFAMOUS",
       "B": null,
-      "C": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/791-infamous",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/791-infamous",
+        "imageURL": "https://images.launchbox-app.com//3576b022-ecf0-4e75-b99b-8eaa9b02a1ae.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 1.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Infamous 2",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/915-infamous-2",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/915-infamous-2",
+        "imageURL": "https://images.launchbox-app.com//0e7c735e-e8b4-4135-9f27-4f7bc9a7c871.jpg"
+      },
+      "D": null,
+      "E": null,
+      "F": 1.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "J-Stars Victory Vs+",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/158391-j-stars-victory-vs",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/158391-j-stars-victory-vs",
+        "imageURL": "https://images.launchbox-app.com//aee946d9-b449-4cba-a92f-dcfd87e9e0bf.jpg"
+      },
+      "D": null,
+      "E": null,
+      "F": 4.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "The Last of Us",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/10001-the-last-of-us",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/10001-the-last-of-us",
+        "imageURL": "https://images.launchbox-app.com//278399bd-9c18-4358-a468-e68ec9bb5b07.jpg"
+      },
+      "D": null,
+      "E": null,
+      "F": 1.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Metal Gear Solid 4: Guns of the Patriots",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/42-metal-gear-solid-4-guns-of-the-patriots",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/42-metal-gear-solid-4-guns-of-the-patriots",
+        "imageURL": "https://images.launchbox-app.com//55465407-515c-40ba-9ed4-d52d0383d94c.jpg"
+      },
+      "D": null,
+      "E": null,
+      "F": 16.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Mortal Kombat",
+      "B": "Mortal Kombat 9",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/6476-mortal-kombat",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/6476-mortal-kombat",
+        "imageURL": "https://images.launchbox-app.com//b43b036c-d124-4202-a1e3-94e51892de10.png"
+      },
+      "D": null,
+      "E": null,
+      "F": 8.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Ratchet & Clank Future: A Crack in Time",
+      "B": "Ratchet & Clank: A Crack in Time, Ratchet and Clank Future: A Crack in Time, Ratchet y Clank: Atrapados en el Tiempo",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/6334-ratchet-clank-future-a-crack-in-time",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/6334-ratchet-clank-future-a-crack-in-time",
+        "imageURL": "https://images.launchbox-app.com//1361f0ec-3c28-4417-a9f0-372ef7973777.jpg"
+      },
+      "D": null,
+      "E": null,
+      "F": 1.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Red Dead Redemption",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/8705-red-dead-redemption",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/8705-red-dead-redemption",
+        "imageURL": "https://images.launchbox-app.com//4047af11-61bd-4586-abdc-b7981332b420.jpg"
+      },
+      "D": null,
+      "E": null,
+      "F": 4.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Resident Evil 6",
+      "B": "Biohazard 6",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/11027-resident-evil-6",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/11027-resident-evil-6",
+        "imageURL": "https://images.launchbox-app.com//cae2069d-2ec4-4467-a255-f3e9b683fb02.jpg"
+      },
+      "D": null,
+      "E": null,
+      "F": 4.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Resident Evil: Revelations",
+      "B": "Biohazard: Revelations: Unveiled Edition",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/14686-resident-evil-revelations",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/14686-resident-evil-revelations",
+        "imageURL": "https://images.launchbox-app.com//7d09d895-feba-4fd3-a725-7388a2429968.png"
+      },
+      "D": null,
+      "E": null,
+      "F": 2.0,
       "G": null,
       "H": "PLAYSTATION 3"
     },
     {
-      "A": null,
-      "B": null,
-      "C": null,
+      "A": "Resident Evil: Revelations 2",
+      "B": "Biohazard: Revelations 2",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/26016-resident-evil-revelations-2",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/26016-resident-evil-revelations-2",
+        "imageURL": "https://images.launchbox-app.com//e15bea08-9810-46a6-ad08-7c7e3b71af55.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 2.0,
       "G": null,
       "H": "PLAYSTATION 3"
     },
     {
-      "A": null,
-      "B": null,
-      "C": null,
+      "A": "Resident Evil 5",
+      "B": "Biohazard 5",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/11950-resident-evil-5",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/11950-resident-evil-5",
+        "imageURL": "https://images.launchbox-app.com//966282e1-fd69-4393-8c44-3198730fdfdc.png"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 2.0,
       "G": null,
       "H": "PLAYSTATION 3"
     },
     {
-      "A": null,
+      "A": "Shovel Knight",
       "B": null,
-      "C": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/79454-shovel-knight",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/79454-shovel-knight",
+        "imageURL": "https://images.launchbox-app.com//9b0c742d-7641-4f42-a029-e304d4c2ae45.png"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 4.0,
       "G": null,
       "H": "PLAYSTATION 3"
     },
     {
-      "A": null,
-      "B": null,
-      "C": null,
+      "A": "Sonic the Hedgehog",
+      "B": "Sonic the Hedgehog (2006), Sonic '06",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/31659-sonic-the-hedgehog",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/31659-sonic-the-hedgehog",
+        "imageURL": "https://images.launchbox-app.com//cf128f7d-1c36-4b55-8d01-da1e49afdcab.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 2.0,
       "G": null,
       "H": "PLAYSTATION 3"
     },
     {
-      "A": null,
+      "A": "Sonic the Fighters",
       "B": null,
-      "C": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/16133-sonic-the-fighters",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/16133-sonic-the-fighters",
+        "imageURL": "https://images.launchbox-app.com//f1aabea4-d4f0-4805-aa04-6fca114851bd.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 2.0,
       "G": null,
       "H": "PLAYSTATION 3"
     },
     {
-      "A": null,
-      "B": null,
-      "C": null,
+      "A": "Sonic the Hedgehog 4: Episode I",
+      "B": "Sonic 4: Episode 1",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/16127-sonic-the-hedgehog-4-episode-i",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/16127-sonic-the-hedgehog-4-episode-i",
+        "imageURL": "https://images.launchbox-app.com//53ce72f5-a69e-4eac-94e0-b88558a97a35.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": "No information available",
       "G": null,
       "H": "PLAYSTATION 3"
     },
     {
-      "A": null,
-      "B": null,
-      "C": null,
+      "A": "Sonic the Hedgehog 4: Episode II",
+      "B": "Sonic 4: Episode 2",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/16125-sonic-the-hedgehog-4-episode-ii",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/16125-sonic-the-hedgehog-4-episode-ii",
+        "imageURL": "https://images.launchbox-app.com//8d984cb9-3669-49b6-ab2e-ea222f38cd90.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 2.0,
       "G": null,
       "H": "PLAYSTATION 3"
     },
     {
-      "A": null,
+      "A": "Space Channel 5: Part 2",
       "B": null,
-      "C": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/16158-space-channel-5-part-2",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/16158-space-channel-5-part-2",
+        "imageURL": "https://images.launchbox-app.com//37224ca2-1c12-4874-ae80-6ae837eb212f.png"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": "No information available",
       "G": null,
       "H": "PLAYSTATION 3"
     },
     {
-      "A": null,
+      "A": "Hatsune Miku: Project DIVA F",
       "B": null,
-      "C": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/15154-hatsune-miku-project-diva-f",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/15154-hatsune-miku-project-diva-f",
+        "imageURL": "https://images.launchbox-app.com//f55bc65b-5ac8-4343-8041-6bb5aa2ce411.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 1.0,
       "G": null,
       "H": "PLAYSTATION 3"
     },
     {
-      "A": null,
+      "A": "Hatsune Miku: Project DIVA F 2nd",
       "B": null,
-      "C": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/33880-hatsune-miku-project-diva-f-2nd",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/33880-hatsune-miku-project-diva-f-2nd",
+        "imageURL": "https://images.launchbox-app.com//792fc6ac-d65f-4959-84f1-53c8221ba4f2.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 1.0,
       "G": null,
       "H": "PLAYSTATION 3"
     },
     {
-      "A": null,
-      "B": null,
-      "C": null,
+      "A": "JoJo's Bizarre Adventure: Eyes of Heaven",
+      "B": "JoJo no Kimyou na Bouken: Eyes of Heaven",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/83430-jojos-bizarre-adventure-eyes-of-heaven",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/83430-jojos-bizarre-adventure-eyes-of-heaven",
+        "imageURL": "https://images.launchbox-app.com//4efbe6a4-4e0b-4607-a635-a26f1cb3eab9.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 2.0,
       "G": null,
       "H": "PLAYSTATION 3"
     },
     {
-      "A": null,
+      "A": "JoJo's Bizarre Adventure: All Star Battle",
       "B": null,
-      "C": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/19662-jojos-bizarre-adventure-all-star-battle",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/19662-jojos-bizarre-adventure-all-star-battle",
+        "imageURL": "https://images.launchbox-app.com//b0f7d187-dd35-462b-84f9-bef8a674b252.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 2.0,
       "G": null,
       "H": "PLAYSTATION 3"
     },
     {
-      "A": null,
-      "B": null,
-      "C": null,
+      "A": "Katamari Forever",
+      "B": "Katamari Damacy Tribute",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/6320-katamari-forever",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/6320-katamari-forever",
+        "imageURL": "https://images.launchbox-app.com//9ee8dc27-6d39-41d2-8aa2-a5ed504905b6.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 2.0,
       "G": null,
       "H": "PLAYSTATION 3"
     },
     {
-      "A": null,
-      "B": null,
-      "C": null,
+      "A": "LEGO Batman: The Videogame",
+      "B": "LEGO Batman: El Videojuego",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/12189-lego-batman-the-videogame",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/12189-lego-batman-the-videogame",
+        "imageURL": "https://images.launchbox-app.com//118afc6b-8079-4a91-8af4-429892a3fdfb.png"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 2.0,
       "G": null,
       "H": "PLAYSTATION 3"
     },
     {
-      "A": null,
+      "A": "LEGO Batman 2: DC Super Heroes",
       "B": null,
-      "C": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/12121-lego-batman-2-dc-super-heroes",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/12121-lego-batman-2-dc-super-heroes",
+        "imageURL": "https://images.launchbox-app.com//77309e71-6cd9-4cad-9573-54e33669c1c0.png"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 2.0,
       "G": null,
       "H": "PLAYSTATION 3"
     },
     {
-      "A": null,
+      "A": "LEGO Batman 3: Beyond Gotham",
       "B": null,
-      "C": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/24282-lego-batman-3-beyond-gotham",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/24282-lego-batman-3-beyond-gotham",
+        "imageURL": "https://images.launchbox-app.com//7f666d6c-c36c-4799-b2d2-3e588df56fe9.png"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 2.0,
       "G": null,
       "H": "PLAYSTATION 3"
     },
     {
-      "A": null,
+      "A": "Mortal Kombat vs. DC Universe",
       "B": null,
-      "C": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/852-mortal-kombat-vs-dc-universe",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/852-mortal-kombat-vs-dc-universe",
+        "imageURL": "https://images.launchbox-app.com//fe4c27d5-8091-4500-b2c0-8fc4dbd1a461.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 2.0,
       "G": null,
       "H": "PLAYSTATION 3"
     },
     {
-      "A": null,
+      "A": "Persona 4: Arena Ultimax",
       "B": null,
-      "C": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/20083-persona-4-arena-ultimax",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/20083-persona-4-arena-ultimax",
+        "imageURL": "https://images.launchbox-app.com//469c85db-ec87-4afa-b6e8-f4ca85bd7e7e.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 2.0,
       "G": null,
       "H": "PLAYSTATION 3"
     },
     {
-      "A": null,
+      "A": "Rayman Legends",
       "B": null,
-      "C": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/15799-rayman-legends",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/15799-rayman-legends",
+        "imageURL": "https://images.launchbox-app.com//69213d64-0138-4d16-baaa-9ad1988f34a2.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 2.0,
       "G": null,
       "H": "PLAYSTATION 3"
     },
     {
-      "A": null,
+      "A": "Sonic & All-Stars Racing Transformed",
       "B": null,
-      "C": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/12425-sonic-all-stars-racing-transformed",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/12425-sonic-all-stars-racing-transformed",
+        "imageURL": "https://images.launchbox-app.com//b5ad373c-2966-47f1-a3a6-4d9df293cef4.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": "No information available",
       "G": null,
       "H": "PLAYSTATION 3"
     },
     {
-      "A": null,
+      "A": "SoulCalibur IV",
       "B": null,
-      "C": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/6338-soulcalibur-iv",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/6338-soulcalibur-iv",
+        "imageURL": "https://images.launchbox-app.com//9fc75738-cb82-4d6e-ad7c-31c9820bc3dc.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 2.0,
       "G": null,
       "H": "PLAYSTATION 3"
     },
     {
-      "A": null,
+      "A": "SoulCalibur V",
       "B": null,
-      "C": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/11643-soulcalibur-v",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/11643-soulcalibur-v",
+        "imageURL": "https://images.launchbox-app.com//63f3db2d-ff77-4902-bc27-c0d376628014.png"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 2.0,
       "G": null,
       "H": "PLAYSTATION 3"
     },
     {
-      "A": null,
-      "B": null,
-      "C": null,
+      "A": "South Park: The Stick of Truth",
+      "B": "South Park: La Vara De La Verdad",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/19167-south-park-the-stick-of-truth",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/19167-south-park-the-stick-of-truth",
+        "imageURL": "https://images.launchbox-app.com//f07240a8-4b0c-4226-a90c-7d83e6169b54.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": "No information available",
       "G": null,
       "H": "PLAYSTATION 3"
     },
     {
-      "A": null,
+      "A": "Street Fighter X Tekken",
       "B": null,
-      "C": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/9237-street-fighter-x-tekken",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/9237-street-fighter-x-tekken",
+        "imageURL": "https://images.launchbox-app.com//5e1a2e57-7d39-4e35-9d41-f393cb71ef9d.png"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 2.0,
       "G": null,
       "H": "PLAYSTATION 3"
     },
     {
-      "A": null,
+      "A": "Tekken 5: Dark Resurrection",
       "B": null,
-      "C": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/6340-tekken-5-dark-resurrection",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/6340-tekken-5-dark-resurrection",
+        "imageURL": "https://images.launchbox-app.com//851e141c-7556-45a9-9983-5107b8327150.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 2.0,
       "G": null,
       "H": "PLAYSTATION 3"
     },
     {
-      "A": null,
+      "A": "Tekken 6",
       "B": null,
-      "C": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/824-tekken-6",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/824-tekken-6",
+        "imageURL": "https://images.launchbox-app.com//28b61812-259b-4c29-9bd5-35555003ff2a.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 2.0,
       "G": null,
       "H": "PLAYSTATION 3"
     },
     {
-      "A": null,
+      "A": "Tekken Tag Tournament 2",
       "B": null,
-      "C": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/11060-tekken-tag-tournament-2",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/11060-tekken-tag-tournament-2",
+        "imageURL": "https://images.launchbox-app.com//6cf63323-9b65-4d59-bcf0-33b61243772b.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 4.0,
       "G": null,
       "H": "PLAYSTATION 3"
     },
     {
-      "A": null,
-      "B": null,
-      "C": null,
+      "A": "Uncharted 2: Among Thieves",
+      "B": "Uncharted 2: El reino de los ladrones",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/191-uncharted-2-among-thieves",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/191-uncharted-2-among-thieves",
+        "imageURL": "https://images.launchbox-app.com//6988389d-c372-42c8-9727-bb3cd0c57db2.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 10.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Uncharted 3: Drake's Deception",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/2152-uncharted-3-drakes-deception",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/2152-uncharted-3-drakes-deception",
+        "imageURL": "https://images.launchbox-app.com//8d290d3a-f64a-4417-92cc-cbc777f0fe8b.jpg"
+      },
+      "D": null,
+      "E": null,
+      "F": 10.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Uncharted: Drake's Fortune",
+      "B": "Uncharted: El tesoro de Drake",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/67-uncharted-drakes-fortune",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/67-uncharted-drakes-fortune",
+        "imageURL": "https://images.launchbox-app.com//33593ddc-1bf4-41a1-9b3e-9030eb3a14ae.jpg"
+      },
+      "D": null,
+      "E": null,
+      "F": 1.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "The Walking Dead: Game of the Year Edition",
+      "B": "The Walking Dead: A Telltale Games Series: Game of the Year Edition",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/139489-the-walking-dead-game-of-the-year-edition",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/139489-the-walking-dead-game-of-the-year-edition",
+        "imageURL": "https://images.launchbox-app.com//ab89670a-7bf0-41fe-b62a-d5e0f4370491.jpg"
+      },
+      "D": null,
+      "E": null,
+      "F": "No information available",
       "G": null,
       "H": "PLAYSTATION 3"
     },
     {
-      "A": null,
-      "B": null,
-      "C": null,
+      "A": "The Walking Dead: Season Two",
+      "B": "The Walking Dead: Season Two: A Telltale Games Series",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/31908-the-walking-dead-season-two",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/31908-the-walking-dead-season-two",
+        "imageURL": "https://images.launchbox-app.com//2a83e265-68eb-4c67-b504-a44629fc724f.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 1.0,
       "G": null,
       "H": "PLAYSTATION 3"
     },
     {
-      "A": null,
-      "B": null,
-      "C": null,
+      "A": "The Wolf Among Us",
+      "B": "The Wolf Among Us: A Telltale Games Series",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/32192-the-wolf-among-us",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/32192-the-wolf-among-us",
+        "imageURL": "https://images.launchbox-app.com//6e5439d1-1e19-49c8-9e35-78efc6838b51.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 1.0,
       "G": null,
       "H": "PLAYSTATION 3"
     },
     {
-      "A": null,
-      "B": null,
-      "C": null,
+      "A": "Yakuza 3",
+      "B": "Ryu ga Gotoku 3",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/3706-yakuza-3",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/3706-yakuza-3",
+        "imageURL": "https://images.launchbox-app.com//d2f9bf83-dffd-498e-be0a-f70eca93f206.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
-      "G": null,
+      "F": 1.0,
+      "G": "SKIPPED",
       "H": "PLAYSTATION 3"
     },
     {
-      "A": null,
-      "B": null,
-      "C": null,
+      "A": "Yakuza 4",
+      "B": "Ryu ga Gotoku 4: Densetsu o Tsugumono",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/3707-yakuza-4",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/3707-yakuza-4",
+        "imageURL": "https://images.launchbox-app.com//5b4a4132-d2c4-4111-b0b4-46c2bc6dc89b.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
-      "G": null,
+      "F": 1.0,
+      "G": "SKIPPED",
       "H": "PLAYSTATION 3"
     },
     {
-      "A": null,
-      "B": null,
-      "C": null,
+      "A": "Yakuza 5",
+      "B": "Ryu ga Gotoku 5: Yume Kanaeshi Mono",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/12520-yakuza-5",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/12520-yakuza-5",
+        "imageURL": "https://images.launchbox-app.com//e6c022cc-f044-468d-b943-3f4c09598a45.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
+      "F": 1.0,
+      "G": "SKIPPED",
       "H": "PLAYSTATION 3"
     },
     {
@@ -49312,7 +49508,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1104-mario-golf",
-        "imageURL": "https://images.launchbox-app.com//a7bf33b2-509f-4607-a09d-d180adb9b68c.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Golf, Sports, Versus",
