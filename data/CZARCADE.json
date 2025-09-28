@@ -5191,71 +5191,15 @@
       "H": "PLAYSTATION 3"
     },
     {
-      "A": "JoJo's Bizarre Adventure: Eyes of Heaven",
-      "B": "JoJo no Kimyou na Bouken: Eyes of Heaven",
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/83430-jojos-bizarre-adventure-eyes-of-heaven",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/83430-jojos-bizarre-adventure-eyes-of-heaven",
-        "imageURL": "https://images.launchbox-app.com//4efbe6a4-4e0b-4607-a635-a26f1cb3eab9.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 2.0,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": "Katamari Forever",
-      "B": "Katamari Damacy Tribute",
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/6320-katamari-forever",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/6320-katamari-forever",
-        "imageURL": "https://images.launchbox-app.com//9ee8dc27-6d39-41d2-8aa2-a5ed504905b6.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 2.0,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": "LEGO Batman 2: DC Super Heroes",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/12121-lego-batman-2-dc-super-heroes",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/12121-lego-batman-2-dc-super-heroes",
-        "imageURL": "https://images.launchbox-app.com//77309e71-6cd9-4cad-9573-54e33669c1c0.png"
-      },
-      "D": null,
-      "E": null,
-      "F": 2.0,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": "LEGO Batman 3: Beyond Gotham",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/24282-lego-batman-3-beyond-gotham",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/24282-lego-batman-3-beyond-gotham",
-        "imageURL": "https://images.launchbox-app.com//7f666d6c-c36c-4799-b2d2-3e588df56fe9.png"
-      },
-      "D": null,
-      "E": null,
-      "F": 2.0,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
       "A": "LEGO Batman: The Videogame",
-      "B": "LEGO Batman: El Videojuego",
+      "B": null,
       "C": {
         "text": "https://gamesdb.launchbox-app.com/games/details/12189-lego-batman-the-videogame",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/12189-lego-batman-the-videogame",
         "imageURL": "https://images.launchbox-app.com//118afc6b-8079-4a91-8af4-429892a3fdfb.png"
       },
       "D": null,
-      "E": null,
+      "E": "Platform, Beat'em Up, Co-op, Adventure",
       "F": 2.0,
       "G": null,
       "H": "PLAYSTATION 3"
@@ -54124,6 +54068,48 @@
       },
       "D": "English",
       "E": "3D Fighting, Versus",
+      "F": 2.0,
+      "G": "RUNNING",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Katamari Forever",
+      "B": "Katamari Damacy Tribute",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/6320-katamari-forever",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/6320-katamari-forever",
+        "imageURL": "https://images.launchbox-app.com//9ee8dc27-6d39-41d2-8aa2-a5ed504905b6.jpg"
+      },
+      "D": "English",
+      "E": "Party, Puzzle, Versus",
+      "F": 2.0,
+      "G": "RUNNING",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "LEGO Batman 2: DC Super Heroes",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/12121-lego-batman-2-dc-super-heroes",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/12121-lego-batman-2-dc-super-heroes",
+        "imageURL": "https://images.launchbox-app.com//77309e71-6cd9-4cad-9573-54e33669c1c0.png"
+      },
+      "D": "English",
+      "E": "Platform, Beat'em Up, Co-op, Adventure",
+      "F": 2.0,
+      "G": "RUNNING",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "LEGO Batman 3: Beyond Gotham",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/24282-lego-batman-3-beyond-gotham",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/24282-lego-batman-3-beyond-gotham",
+        "imageURL": "https://images.launchbox-app.com//7f666d6c-c36c-4799-b2d2-3e588df56fe9.png"
+      },
+      "D": null,
+      "E": "Platform, Beat'em Up, Co-op, Adventure",
       "F": 2.0,
       "G": "RUNNING",
       "H": "PLAYSTATION 3"
