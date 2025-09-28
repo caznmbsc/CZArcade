@@ -5276,7 +5276,7 @@
     },
     {
       "A": "Ratchet & Clank Future: A Crack in Time",
-      "B": "Ratchet & Clank: A Crack in Time, Ratchet and Clank Future: A Crack in Time, Ratchet y Clank: Atrapados en el Tiempo",
+      "B": null,
       "C": {
         "text": "https://gamesdb.launchbox-app.com/games/details/6334-ratchet-clank-future-a-crack-in-time",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/6334-ratchet-clank-future-a-crack-in-time",
@@ -5370,62 +5370,6 @@
       "E": "Adventure, Platform, Co-op, Versus",
       "F": 2.0,
       "G": "SKIPPED",
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": "SoulCalibur IV",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/6338-soulcalibur-iv",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/6338-soulcalibur-iv",
-        "imageURL": "https://images.launchbox-app.com//9fc75738-cb82-4d6e-ad7c-31c9820bc3dc.jpg"
-      },
-      "D": null,
-      "E": "3D Fighting, Versus, Hack and Slash",
-      "F": 2.0,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": "SoulCalibur V",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/11643-soulcalibur-v",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/11643-soulcalibur-v",
-        "imageURL": "https://images.launchbox-app.com//63f3db2d-ff77-4902-bc27-c0d376628014.png"
-      },
-      "D": null,
-      "E": "3D Fighting, Versus, Hack and Slash",
-      "F": 2.0,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": "South Park: The Stick of Truth",
-      "B": "South Park: La Vara De La Verdad",
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/19167-south-park-the-stick-of-truth",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/19167-south-park-the-stick-of-truth",
-        "imageURL": "https://images.launchbox-app.com//f07240a8-4b0c-4226-a90c-7d83e6169b54.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": "No information available",
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": "Space Channel 5: Part 2",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/16158-space-channel-5-part-2",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/16158-space-channel-5-part-2",
-        "imageURL": "https://images.launchbox-app.com//37224ca2-1c12-4874-ae80-6ae837eb212f.png"
-      },
-      "D": null,
-      "E": null,
-      "F": "No information available",
-      "G": null,
       "H": "PLAYSTATION 3"
     },
     {
@@ -5542,7 +5486,7 @@
     },
     {
       "A": "Uncharted 2: Among Thieves",
-      "B": "Uncharted 2: El reino de los ladrones",
+      "B": null,
       "C": {
         "text": "https://gamesdb.launchbox-app.com/games/details/191-uncharted-2-among-thieves",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/191-uncharted-2-among-thieves",
@@ -5570,7 +5514,7 @@
     },
     {
       "A": "Uncharted: Drake's Fortune",
-      "B": "Uncharted: El tesoro de Drake",
+      "B": null,
       "C": {
         "text": "https://gamesdb.launchbox-app.com/games/details/67-uncharted-drakes-fortune",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/67-uncharted-drakes-fortune",
@@ -54110,6 +54054,62 @@
       },
       "D": "English",
       "E": "Platform, Co-op",
+      "F": 2.0,
+      "G": "RUNNING",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "SoulCalibur IV",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/6338-soulcalibur-iv",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/6338-soulcalibur-iv",
+        "imageURL": "https://images.launchbox-app.com//9fc75738-cb82-4d6e-ad7c-31c9820bc3dc.jpg"
+      },
+      "D": "English",
+      "E": "3D Fighting, Versus, Hack and Slash",
+      "F": 2.0,
+      "G": "RUNNING",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "SoulCalibur V",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/11643-soulcalibur-v",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/11643-soulcalibur-v",
+        "imageURL": "https://images.launchbox-app.com//63f3db2d-ff77-4902-bc27-c0d376628014.png"
+      },
+      "D": "English",
+      "E": "3D Fighting, Versus, Hack and Slash",
+      "F": 2.0,
+      "G": "RUNNING",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "South Park: The Stick of Truth",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/19167-south-park-the-stick-of-truth",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/19167-south-park-the-stick-of-truth",
+        "imageURL": "https://images.launchbox-app.com//f07240a8-4b0c-4226-a90c-7d83e6169b54.jpg"
+      },
+      "D": "English",
+      "E": "Adventure, RPG",
+      "F": 1.0,
+      "G": "RUNNING",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Space Channel 5: Part 2",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/16158-space-channel-5-part-2",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/16158-space-channel-5-part-2",
+        "imageURL": "https://images.launchbox-app.com//37224ca2-1c12-4874-ae80-6ae837eb212f.png"
+      },
+      "D": "English",
+      "E": "Music, Co-op",
       "F": 2.0,
       "G": "RUNNING",
       "H": "PLAYSTATION 3"
