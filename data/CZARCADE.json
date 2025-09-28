@@ -5191,20 +5191,6 @@
       "H": "PLAYSTATION 3"
     },
     {
-      "A": "LEGO Batman: The Videogame",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/12189-lego-batman-the-videogame",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/12189-lego-batman-the-videogame",
-        "imageURL": "https://images.launchbox-app.com//118afc6b-8079-4a91-8af4-429892a3fdfb.png"
-      },
-      "D": null,
-      "E": "Platform, Beat'em Up, Co-op, Adventure",
-      "F": 2.0,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
       "A": "Mass Effect",
       "B": null,
       "C": {
@@ -5254,8 +5240,8 @@
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/42-metal-gear-solid-4-guns-of-the-patriots",
         "imageURL": "https://images.launchbox-app.com//55465407-515c-40ba-9ed4-d52d0383d94c.jpg"
       },
-      "D": null,
-      "E": null,
+      "D": "English",
+      "E": "Adventure, Shooter, Stealth",
       "F": 16.0,
       "G": "SKIPPED",
       "H": "PLAYSTATION 3"
@@ -5268,7 +5254,7 @@
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/6476-mortal-kombat",
         "imageURL": "https://images.launchbox-app.com//b43b036c-d124-4202-a1e3-94e51892de10.png"
       },
-      "D": null,
+      "D": "English",
       "E": null,
       "F": 8.0,
       "G": "SKIPPED",
@@ -5282,10 +5268,10 @@
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/852-mortal-kombat-vs-dc-universe",
         "imageURL": "https://images.launchbox-app.com//fe4c27d5-8091-4500-b2c0-8fc4dbd1a461.jpg"
       },
-      "D": null,
+      "D": "English",
       "E": null,
       "F": 2.0,
-      "G": null,
+      "G": "REMOVED",
       "H": "PLAYSTATION 3"
     },
     {
@@ -54108,7 +54094,21 @@
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/24282-lego-batman-3-beyond-gotham",
         "imageURL": "https://images.launchbox-app.com//7f666d6c-c36c-4799-b2d2-3e588df56fe9.png"
       },
-      "D": null,
+      "D": "English",
+      "E": "Platform, Beat'em Up, Co-op, Adventure",
+      "F": 2.0,
+      "G": "RUNNING",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "LEGO Batman: The Videogame",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/12189-lego-batman-the-videogame",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/12189-lego-batman-the-videogame",
+        "imageURL": "https://images.launchbox-app.com//118afc6b-8079-4a91-8af4-429892a3fdfb.png"
+      },
+      "D": "English",
       "E": "Platform, Beat'em Up, Co-op, Adventure",
       "F": 2.0,
       "G": "RUNNING",
