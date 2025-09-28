@@ -5296,7 +5296,7 @@
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/8705-red-dead-redemption",
         "imageURL": "https://images.launchbox-app.com//4047af11-61bd-4586-abdc-b7981332b420.jpg"
       },
-      "D": null,
+      "D": "English",
       "E": null,
       "F": 4.0,
       "G": "SKIPPED",
@@ -5310,10 +5310,10 @@
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/11950-resident-evil-5",
         "imageURL": "https://images.launchbox-app.com//966282e1-fd69-4393-8c44-3198730fdfdc.png"
       },
-      "D": null,
-      "E": null,
+      "D": "English",
+      "E": "Shooter, Co-op, Versus",
       "F": 2.0,
-      "G": null,
+      "G": "REMOVED",
       "H": "PLAYSTATION 3"
     },
     {
@@ -5324,38 +5324,10 @@
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/11027-resident-evil-6",
         "imageURL": "https://images.launchbox-app.com//cae2069d-2ec4-4467-a255-f3e9b683fb02.jpg"
       },
-      "D": null,
-      "E": null,
+      "D": "English",
+      "E": "Shooter, Co-op, Versus",
       "F": 4.0,
       "G": "SKIPPED",
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": "Resident Evil: Revelations",
-      "B": "Biohazard: Revelations: Unveiled Edition",
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/14686-resident-evil-revelations",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/14686-resident-evil-revelations",
-        "imageURL": "https://images.launchbox-app.com//7d09d895-feba-4fd3-a725-7388a2429968.png"
-      },
-      "D": null,
-      "E": null,
-      "F": 2.0,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": "Resident Evil: Revelations 2",
-      "B": "Biohazard: Revelations 2",
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/26016-resident-evil-revelations-2",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/26016-resident-evil-revelations-2",
-        "imageURL": "https://images.launchbox-app.com//e15bea08-9810-46a6-ad08-7c7e3b71af55.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 2.0,
-      "G": null,
       "H": "PLAYSTATION 3"
     },
     {
@@ -5366,7 +5338,7 @@
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/79454-shovel-knight",
         "imageURL": "https://images.launchbox-app.com//9b0c742d-7641-4f42-a029-e304d4c2ae45.png"
       },
-      "D": null,
+      "D": "English",
       "E": null,
       "F": 4.0,
       "G": null,
@@ -54110,6 +54082,34 @@
       },
       "D": "English",
       "E": "Platform, Versus",
+      "F": 2.0,
+      "G": "RUNNING",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Resident Evil: Revelations",
+      "B": "Biohazard: Revelations: Unveiled Edition",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/14686-resident-evil-revelations",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/14686-resident-evil-revelations",
+        "imageURL": "https://images.launchbox-app.com//7d09d895-feba-4fd3-a725-7388a2429968.png"
+      },
+      "D": "English",
+      "E": "Shooter, Co-op",
+      "F": 2.0,
+      "G": "RUNNING",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Resident Evil: Revelations 2",
+      "B": "Biohazard: Revelations 2",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/26016-resident-evil-revelations-2",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/26016-resident-evil-revelations-2",
+        "imageURL": "https://images.launchbox-app.com//e15bea08-9810-46a6-ad08-7c7e3b71af55.jpg"
+      },
+      "D": "English",
+      "E": "Shooter, Co-op",
       "F": 2.0,
       "G": "RUNNING",
       "H": "PLAYSTATION 3"
