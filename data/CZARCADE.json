@@ -5128,24 +5128,10 @@
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/15154-hatsune-miku-project-diva-f",
         "imageURL": "https://images.launchbox-app.com//f55bc65b-5ac8-4343-8041-6bb5aa2ce411.jpg"
       },
-      "D": null,
-      "E": null,
+      "D": "English",
+      "E": "Music",
       "F": 1.0,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": "Hatsune Miku: Project DIVA F 2nd",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/33880-hatsune-miku-project-diva-f-2nd",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/33880-hatsune-miku-project-diva-f-2nd",
-        "imageURL": "https://images.launchbox-app.com//792fc6ac-d65f-4959-84f1-53c8221ba4f2.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 1.0,
-      "G": null,
+      "G": "REMOVED",
       "H": "PLAYSTATION 3"
     },
     {
@@ -5213,7 +5199,7 @@
         "imageURL": "https://images.launchbox-app.com//b0f7d187-dd35-462b-84f9-bef8a674b252.jpg"
       },
       "D": null,
-      "E": null,
+      "E": "3D Fighting, Versus",
       "F": 2.0,
       "G": null,
       "H": "PLAYSTATION 3"
@@ -54124,6 +54110,20 @@
       },
       "D": null,
       "E": "Party",
+      "F": 1.0,
+      "G": "RUNNING",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Hatsune Miku: Project DIVA F 2nd",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/33880-hatsune-miku-project-diva-f-2nd",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/33880-hatsune-miku-project-diva-f-2nd",
+        "imageURL": "https://images.launchbox-app.com//792fc6ac-d65f-4959-84f1-53c8221ba4f2.jpg"
+      },
+      "D": "English",
+      "E": "Music",
       "F": 1.0,
       "G": "RUNNING",
       "H": "PLAYSTATION 3"
