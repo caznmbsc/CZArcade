@@ -4988,7 +4988,7 @@
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/119097-dragons-lair",
         "imageURL": "https://images.launchbox-app.com//8ee11c05-a1b8-4b56-b0f0-6bcd7c7f26ad.jpg"
       },
-      "D": null,
+      "D": "English",
       "E": "Party",
       "F": 1.0,
       "G": "REMOVED",
@@ -5156,7 +5156,7 @@
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/791-infamous",
         "imageURL": "https://images.launchbox-app.com//3576b022-ecf0-4e75-b99b-8eaa9b02a1ae.jpg"
       },
-      "D": null,
+      "D": "English",
       "E": null,
       "F": 1.0,
       "G": "SKIPPED",
@@ -5170,7 +5170,7 @@
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/915-infamous-2",
         "imageURL": "https://images.launchbox-app.com//0e7c735e-e8b4-4135-9f27-4f7bc9a7c871.jpg"
       },
-      "D": null,
+      "D": "English",
       "E": null,
       "F": 1.0,
       "G": "SKIPPED",
@@ -5184,24 +5184,10 @@
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/158391-j-stars-victory-vs",
         "imageURL": "https://images.launchbox-app.com//aee946d9-b449-4cba-a92f-dcfd87e9e0bf.jpg"
       },
-      "D": null,
+      "D": "English",
       "E": null,
       "F": 4.0,
       "G": "SKIPPED",
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": "JoJo's Bizarre Adventure: All Star Battle",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/19662-jojos-bizarre-adventure-all-star-battle",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/19662-jojos-bizarre-adventure-all-star-battle",
-        "imageURL": "https://images.launchbox-app.com//b0f7d187-dd35-462b-84f9-bef8a674b252.jpg"
-      },
-      "D": null,
-      "E": "3D Fighting, Versus",
-      "F": 2.0,
-      "G": null,
       "H": "PLAYSTATION 3"
     },
     {
@@ -54108,7 +54094,7 @@
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/168837-dragons-lair-ii-time-warp",
         "imageURL": "https://images.launchbox-app.com//eaae05b6-ef23-49fa-9929-614ce50fe772.jpg"
       },
-      "D": null,
+      "D": "English",
       "E": "Party",
       "F": 1.0,
       "G": "RUNNING",
@@ -54125,6 +54111,20 @@
       "D": "English",
       "E": "Music",
       "F": 1.0,
+      "G": "RUNNING",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "JoJo's Bizarre Adventure: All Star Battle",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/19662-jojos-bizarre-adventure-all-star-battle",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/19662-jojos-bizarre-adventure-all-star-battle",
+        "imageURL": "https://images.launchbox-app.com//b0f7d187-dd35-462b-84f9-bef8a674b252.jpg"
+      },
+      "D": "English",
+      "E": "3D Fighting, Versus",
+      "F": 2.0,
       "G": "RUNNING",
       "H": "PLAYSTATION 3"
     }
