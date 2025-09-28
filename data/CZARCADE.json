@@ -5373,48 +5373,6 @@
       "H": "PLAYSTATION 3"
     },
     {
-      "A": "Street Fighter X Tekken",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/9237-street-fighter-x-tekken",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/9237-street-fighter-x-tekken",
-        "imageURL": "https://images.launchbox-app.com//5e1a2e57-7d39-4e35-9d41-f393cb71ef9d.png"
-      },
-      "D": null,
-      "E": null,
-      "F": 2.0,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": "Tekken 5: Dark Resurrection",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/6340-tekken-5-dark-resurrection",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/6340-tekken-5-dark-resurrection",
-        "imageURL": "https://images.launchbox-app.com//851e141c-7556-45a9-9983-5107b8327150.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 2.0,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": "Tekken 6",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/824-tekken-6",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/824-tekken-6",
-        "imageURL": "https://images.launchbox-app.com//28b61812-259b-4c29-9bd5-35555003ff2a.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 2.0,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
       "A": "Tekken Tag Tournament 2",
       "B": null,
       "C": {
@@ -5422,7 +5380,7 @@
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/11060-tekken-tag-tournament-2",
         "imageURL": "https://images.launchbox-app.com//6cf63323-9b65-4d59-bcf0-33b61243772b.jpg"
       },
-      "D": null,
+      "D": "English",
       "E": null,
       "F": 4.0,
       "G": null,
@@ -54110,6 +54068,48 @@
       },
       "D": "English",
       "E": "Music, Co-op",
+      "F": 2.0,
+      "G": "RUNNING",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Street Fighter X Tekken",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/9237-street-fighter-x-tekken",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/9237-street-fighter-x-tekken",
+        "imageURL": "https://images.launchbox-app.com//5e1a2e57-7d39-4e35-9d41-f393cb71ef9d.png"
+      },
+      "D": "English",
+      "E": "2D Fighting, Versus, Co-op",
+      "F": 2.0,
+      "G": "RUNNING",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Tekken 5: Dark Resurrection",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/6340-tekken-5-dark-resurrection",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/6340-tekken-5-dark-resurrection",
+        "imageURL": "https://images.launchbox-app.com//851e141c-7556-45a9-9983-5107b8327150.jpg"
+      },
+      "D": "English",
+      "E": "3D Fighting, Versus",
+      "F": 2.0,
+      "G": "RUNNING",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Tekken 6",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/824-tekken-6",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/824-tekken-6",
+        "imageURL": "https://images.launchbox-app.com//28b61812-259b-4c29-9bd5-35555003ff2a.jpg"
+      },
+      "D": "English",
+      "E": "3D Fighting, Versus",
       "F": 2.0,
       "G": "RUNNING",
       "H": "PLAYSTATION 3"
