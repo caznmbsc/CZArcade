@@ -5331,31 +5331,17 @@
       "H": "PLAYSTATION 3"
     },
     {
-      "A": "Shovel Knight",
-      "B": null,
+      "A": "Resident Evil: Revelations 2",
+      "B": "Biohazard: Revelations 2",
       "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/79454-shovel-knight",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/79454-shovel-knight",
-        "imageURL": "https://images.launchbox-app.com//9b0c742d-7641-4f42-a029-e304d4c2ae45.png"
+        "text": "https://gamesdb.launchbox-app.com/games/details/26016-resident-evil-revelations-2",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/26016-resident-evil-revelations-2",
+        "imageURL": "https://images.launchbox-app.com//e15bea08-9810-46a6-ad08-7c7e3b71af55.jpg"
       },
       "D": "English",
-      "E": null,
-      "F": 4.0,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": "Sonic & All-Stars Racing Transformed",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/12425-sonic-all-stars-racing-transformed",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/12425-sonic-all-stars-racing-transformed",
-        "imageURL": "https://images.launchbox-app.com//b5ad373c-2966-47f1-a3a6-4d9df293cef4.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": "No information available",
-      "G": null,
+      "E": "Shooter, Co-op",
+      "F": 2.0,
+      "G": "REMOVED",
       "H": "PLAYSTATION 3"
     },
     {
@@ -5366,24 +5352,10 @@
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/12276-sonic-sega-all-stars-racing",
         "imageURL": "https://images.launchbox-app.com//6fca60df-2c9d-4869-932c-44ac7c157d34.png"
       },
-      "D": null,
-      "E": null,
+      "D": "English",
+      "E": "Driving, Racing, Versus",
       "F": 1.0,
       "G": "SKIPPED",
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": "Sonic the Fighters",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/16133-sonic-the-fighters",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/16133-sonic-the-fighters",
-        "imageURL": "https://images.launchbox-app.com//f1aabea4-d4f0-4805-aa04-6fca114851bd.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 2.0,
-      "G": null,
       "H": "PLAYSTATION 3"
     },
     {
@@ -5394,38 +5366,10 @@
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/31659-sonic-the-hedgehog",
         "imageURL": "https://images.launchbox-app.com//cf128f7d-1c36-4b55-8d01-da1e49afdcab.jpg"
       },
-      "D": null,
-      "E": null,
+      "D": "English",
+      "E": "Adventure, Platform, Co-op, Versus",
       "F": 2.0,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": "Sonic the Hedgehog 4: Episode I",
-      "B": "Sonic 4: Episode 1",
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/16127-sonic-the-hedgehog-4-episode-i",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/16127-sonic-the-hedgehog-4-episode-i",
-        "imageURL": "https://images.launchbox-app.com//53ce72f5-a69e-4eac-94e0-b88558a97a35.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": "No information available",
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": "Sonic the Hedgehog 4: Episode II",
-      "B": "Sonic 4: Episode 2",
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/16125-sonic-the-hedgehog-4-episode-ii",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/16125-sonic-the-hedgehog-4-episode-ii",
-        "imageURL": "https://images.launchbox-app.com//8d984cb9-3669-49b6-ab2e-ea222f38cd90.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 2.0,
-      "G": null,
+      "G": "SKIPPED",
       "H": "PLAYSTATION 3"
     },
     {
@@ -5437,7 +5381,7 @@
         "imageURL": "https://images.launchbox-app.com//9fc75738-cb82-4d6e-ad7c-31c9820bc3dc.jpg"
       },
       "D": null,
-      "E": null,
+      "E": "3D Fighting, Versus, Hack and Slash",
       "F": 2.0,
       "G": null,
       "H": "PLAYSTATION 3"
@@ -5451,7 +5395,7 @@
         "imageURL": "https://images.launchbox-app.com//63f3db2d-ff77-4902-bc27-c0d376628014.png"
       },
       "D": null,
-      "E": null,
+      "E": "3D Fighting, Versus, Hack and Slash",
       "F": 2.0,
       "G": null,
       "H": "PLAYSTATION 3"
@@ -54101,15 +54045,71 @@
       "H": "PLAYSTATION 3"
     },
     {
-      "A": "Resident Evil: Revelations 2",
-      "B": "Biohazard: Revelations 2",
+      "A": "Shovel Knight",
+      "B": null,
       "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/26016-resident-evil-revelations-2",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/26016-resident-evil-revelations-2",
-        "imageURL": "https://images.launchbox-app.com//e15bea08-9810-46a6-ad08-7c7e3b71af55.jpg"
+        "text": "https://gamesdb.launchbox-app.com/games/details/79454-shovel-knight",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/79454-shovel-knight",
+        "imageURL": "https://images.launchbox-app.com//9b0c742d-7641-4f42-a029-e304d4c2ae45.png"
       },
       "D": "English",
-      "E": "Shooter, Co-op",
+      "E": "Platform, Co-op, Versus, 2D Fighting",
+      "F": 4.0,
+      "G": "RUNNING",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Sonic & All-Stars Racing Transformed",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/12425-sonic-all-stars-racing-transformed",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/12425-sonic-all-stars-racing-transformed",
+        "imageURL": "https://images.launchbox-app.com//b5ad373c-2966-47f1-a3a6-4d9df293cef4.jpg"
+      },
+      "D": "English",
+      "E": "Driving, Racing, Versus",
+      "F": 4.0,
+      "G": "RUNNING",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Sonic the Fighters",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/16133-sonic-the-fighters",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/16133-sonic-the-fighters",
+        "imageURL": "https://images.launchbox-app.com//f1aabea4-d4f0-4805-aa04-6fca114851bd.jpg"
+      },
+      "D": "English",
+      "E": "3D Fighting, Versus",
+      "F": 2.0,
+      "G": "RUNNING",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Sonic the Hedgehog 4: Episode I",
+      "B": "Sonic 4: Episode 1",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/16127-sonic-the-hedgehog-4-episode-i",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/16127-sonic-the-hedgehog-4-episode-i",
+        "imageURL": "https://images.launchbox-app.com//53ce72f5-a69e-4eac-94e0-b88558a97a35.jpg"
+      },
+      "D": "English",
+      "E": "Platform",
+      "F": 1.0,
+      "G": "RUNNING",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Sonic the Hedgehog 4: Episode II",
+      "B": "Sonic 4: Episode 2",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/16125-sonic-the-hedgehog-4-episode-ii",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/16125-sonic-the-hedgehog-4-episode-ii",
+        "imageURL": "https://images.launchbox-app.com//8d984cb9-3669-49b6-ab2e-ea222f38cd90.jpg"
+      },
+      "D": "English",
+      "E": "Platform, Co-op",
       "F": 2.0,
       "G": "RUNNING",
       "H": "PLAYSTATION 3"
