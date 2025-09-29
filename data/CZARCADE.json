@@ -5283,7 +5283,7 @@
         "imageURL": "https://images.launchbox-app.com//1361f0ec-3c28-4417-a9f0-372ef7973777.jpg"
       },
       "D": "English",
-      "E": null,
+      "E": "Adventure, Shooter",
       "F": 1.0,
       "G": "SKIPPED",
       "H": "PLAYSTATION 3"
@@ -5297,7 +5297,7 @@
         "imageURL": "https://images.launchbox-app.com//4047af11-61bd-4586-abdc-b7981332b420.jpg"
       },
       "D": "English",
-      "E": null,
+      "E": "Adventure, Shooter",
       "F": 4.0,
       "G": "SKIPPED",
       "H": "PLAYSTATION 3"
@@ -5394,52 +5394,10 @@
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/10001-the-last-of-us",
         "imageURL": "https://images.launchbox-app.com//278399bd-9c18-4358-a468-e68ec9bb5b07.jpg"
       },
-      "D": null,
-      "E": null,
+      "D": "English",
+      "E": "Adventure, Shooter, Stealth",
       "F": 1.0,
       "G": "SKIPPED",
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": "The Walking Dead: Game of the Year Edition",
-      "B": "The Walking Dead: A Telltale Games Series: Game of the Year Edition",
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/139489-the-walking-dead-game-of-the-year-edition",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/139489-the-walking-dead-game-of-the-year-edition",
-        "imageURL": "https://images.launchbox-app.com//ab89670a-7bf0-41fe-b62a-d5e0f4370491.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 1.0,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": "The Walking Dead: Season Two",
-      "B": "The Walking Dead: Season Two: A Telltale Games Series",
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/31908-the-walking-dead-season-two",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/31908-the-walking-dead-season-two",
-        "imageURL": "https://images.launchbox-app.com//2a83e265-68eb-4c67-b504-a44629fc724f.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 1.0,
-      "G": null,
-      "H": "PLAYSTATION 3"
-    },
-    {
-      "A": "The Wolf Among Us",
-      "B": "The Wolf Among Us: A Telltale Games Series",
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/32192-the-wolf-among-us",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/32192-the-wolf-among-us",
-        "imageURL": "https://images.launchbox-app.com//6e5439d1-1e19-49c8-9e35-78efc6838b51.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 1.0,
-      "G": null,
       "H": "PLAYSTATION 3"
     },
     {
@@ -5450,8 +5408,8 @@
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/191-uncharted-2-among-thieves",
         "imageURL": "https://images.launchbox-app.com//6988389d-c372-42c8-9727-bb3cd0c57db2.jpg"
       },
-      "D": null,
-      "E": null,
+      "D": "English",
+      "E": "Adventure, Shooter",
       "F": 10.0,
       "G": "SKIPPED",
       "H": "PLAYSTATION 3"
@@ -5464,8 +5422,8 @@
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/2152-uncharted-3-drakes-deception",
         "imageURL": "https://images.launchbox-app.com//8d290d3a-f64a-4417-92cc-cbc777f0fe8b.jpg"
       },
-      "D": null,
-      "E": null,
+      "D": "English",
+      "E": "Adventure, Shooter",
       "F": 10.0,
       "G": "SKIPPED",
       "H": "PLAYSTATION 3"
@@ -5478,8 +5436,8 @@
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/67-uncharted-drakes-fortune",
         "imageURL": "https://images.launchbox-app.com//33593ddc-1bf4-41a1-9b3e-9030eb3a14ae.jpg"
       },
-      "D": null,
-      "E": null,
+      "D": "English",
+      "E": "Adventure, Shooter",
       "F": 1.0,
       "G": "SKIPPED",
       "H": "PLAYSTATION 3"
@@ -5492,8 +5450,8 @@
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/3706-yakuza-3",
         "imageURL": "https://images.launchbox-app.com//d2f9bf83-dffd-498e-be0a-f70eca93f206.jpg"
       },
-      "D": null,
-      "E": null,
+      "D": "English",
+      "E": "Beat'em Up, RPG",
       "F": 1.0,
       "G": "SKIPPED",
       "H": "PLAYSTATION 3"
@@ -5506,8 +5464,8 @@
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/3707-yakuza-4",
         "imageURL": "https://images.launchbox-app.com//5b4a4132-d2c4-4111-b0b4-46c2bc6dc89b.jpg"
       },
-      "D": null,
-      "E": null,
+      "D": "English",
+      "E": "Beat'em Up, RPG",
       "F": 1.0,
       "G": "SKIPPED",
       "H": "PLAYSTATION 3"
@@ -5520,8 +5478,8 @@
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/12520-yakuza-5",
         "imageURL": "https://images.launchbox-app.com//e6c022cc-f044-468d-b943-3f4c09598a45.jpg"
       },
-      "D": null,
-      "E": null,
+      "D": "English",
+      "E": "Beat'em Up, RPG",
       "F": 1.0,
       "G": "SKIPPED",
       "H": "PLAYSTATION 3"
@@ -54111,6 +54069,48 @@
       "D": "English",
       "E": "3D Fighting, Versus, Beat'em Up",
       "F": 2.0,
+      "G": "RUNNING",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "The Walking Dead: Game of the Year Edition",
+      "B": "The Walking Dead: A Telltale Games Series: Game of the Year Edition",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/139489-the-walking-dead-game-of-the-year-edition",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/139489-the-walking-dead-game-of-the-year-edition",
+        "imageURL": "https://images.launchbox-app.com//ab89670a-7bf0-41fe-b62a-d5e0f4370491.jpg"
+      },
+      "D": "English",
+      "E": "Visual Novel, RPG",
+      "F": 1.0,
+      "G": "RUNNING",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "The Walking Dead: Season Two",
+      "B": "The Walking Dead: Season Two: A Telltale Games Series",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/31908-the-walking-dead-season-two",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/31908-the-walking-dead-season-two",
+        "imageURL": "https://images.launchbox-app.com//2a83e265-68eb-4c67-b504-a44629fc724f.jpg"
+      },
+      "D": "English",
+      "E": "Visual Novel, RPG",
+      "F": 1.0,
+      "G": "RUNNING",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "The Wolf Among Us",
+      "B": "The Wolf Among Us: A Telltale Games Series",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/32192-the-wolf-among-us",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/32192-the-wolf-among-us",
+        "imageURL": "https://images.launchbox-app.com//6e5439d1-1e19-49c8-9e35-78efc6838b51.jpg"
+      },
+      "D": "English",
+      "E": "Visual Novel, RPG",
+      "F": 1.0,
       "G": "RUNNING",
       "H": "PLAYSTATION 3"
     }
