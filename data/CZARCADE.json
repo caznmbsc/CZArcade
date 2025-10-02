@@ -5471,6 +5471,20 @@
       "H": "PLAYSTATION 3"
     },
     {
+      "A": "Watch_Dogs",
+      "B": "Watch Dogs",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/19867-watchdogs",
+        "imageURL": "https://images.launchbox-app.com//27406167-0c87-425b-9deb-6f37995624a8.jpg"
+      },
+      "D": null,
+      "E": "Adventure, Shooter",
+      "F": 1.0,
+      "G": null,
+      "H": "PLAYSTATION 3"
+    },
+    {
       "A": null,
       "B": null,
       "C": null,
