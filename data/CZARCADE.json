@@ -5499,20 +5499,6 @@
       "H": "XBOX 360"
     },
     {
-      "A": "Mortal Kombat vs. DC Universe",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/2981-mortal-kombat-vs-dc-universe",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/2981-mortal-kombat-vs-dc-universe",
-        "imageURL": "https://images.launchbox-app.com//f775dd52-e78c-489c-a63b-763162c1d70c.png"
-      },
-      "D": "English",
-      "E": "3D Fighting, Versus",
-      "F": 2.0,
-      "G": null,
-      "H": "XBOX 360"
-    },
-    {
       "A": "Red Dead Redemption",
       "B": null,
       "C": {
@@ -54821,6 +54807,20 @@
       "D": "English",
       "E": "Adventure, Shooter, Driving",
       "F": 16.0,
+      "G": "RUNNING",
+      "H": "XBOX 360"
+    },
+    {
+      "A": "Mortal Kombat vs. DC Universe",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/2981-mortal-kombat-vs-dc-universe",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/2981-mortal-kombat-vs-dc-universe",
+        "imageURL": "https://images.launchbox-app.com//f775dd52-e78c-489c-a63b-763162c1d70c.png"
+      },
+      "D": "English",
+      "E": "3D Fighting, Versus",
+      "F": 2.0,
       "G": "RUNNING",
       "H": "XBOX 360"
     },
