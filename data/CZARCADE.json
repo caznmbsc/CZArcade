@@ -5534,24 +5534,10 @@
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/11310-resident-evil-6",
         "imageURL": "https://images.launchbox-app.com//c8d0d4c7-34a0-4b13-8707-69fb77e7d305.png"
       },
-      "D": null,
+      "D": "English",
       "E": "Shooter, Horror, Versus",
       "F": 2.0,
-      "G": null,
-      "H": "XBOX 360"
-    },
-    {
-      "A": "Sonic the Hedgehog (2006)",
-      "B": "Sonic 2006",
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/7283-sonic-the-hedgehog-2006",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/7283-sonic-the-hedgehog-2006",
-        "imageURL": "https://images.launchbox-app.com//08103847-38c0-432f-9fb9-1973cee7fe2e.jpg"
-      },
-      "D": null,
-      "E": "Platform, Versus, Co-op",
-      "F": 2.0,
-      "G": null,
+      "G": "REMOVED",
       "H": "XBOX 360"
     },
     {
@@ -54834,6 +54820,20 @@
       },
       "D": "English",
       "E": "2D Fighting, Versus",
+      "F": 2.0,
+      "G": "RUNNING",
+      "H": "XBOX 360"
+    },
+    {
+      "A": "Sonic the Hedgehog (2006)",
+      "B": "Sonic 2006",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/7283-sonic-the-hedgehog-2006",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/7283-sonic-the-hedgehog-2006",
+        "imageURL": "https://images.launchbox-app.com//08103847-38c0-432f-9fb9-1973cee7fe2e.jpg"
+      },
+      "D": "English",
+      "E": "Platform, Versus, Co-op",
       "F": 2.0,
       "G": "RUNNING",
       "H": "XBOX 360"
