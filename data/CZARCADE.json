@@ -5583,32 +5583,44 @@
       "H": "XBOX 360"
     },
     {
-      "A": null,
+      "A": "Grand Theft Auto IV",
       "B": null,
-      "C": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/7187-grand-theft-auto-iv",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/7187-grand-theft-auto-iv",
+        "imageURL": "https://images.launchbox-app.com//7aac09c5-a170-43f6-b3a5-eb3d5323270f.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 16.0,
       "G": null,
       "H": "XBOX 360"
     },
     {
-      "A": null,
+      "A": "Mortal Kombat: Komplete Edition",
       "B": null,
-      "C": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/13959-mortal-kombat-komplete-edition",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/13959-mortal-kombat-komplete-edition",
+        "imageURL": "https://images.launchbox-app.com//8b3d6292-1605-4e6a-ba18-5e515986c672.png"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": "No information available",
       "G": null,
       "H": "XBOX 360"
     },
     {
-      "A": null,
+      "A": "Mortal Kombat vs. DC Universe",
       "B": null,
-      "C": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/2981-mortal-kombat-vs-dc-universe",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/2981-mortal-kombat-vs-dc-universe",
+        "imageURL": "https://images.launchbox-app.com//f775dd52-e78c-489c-a63b-763162c1d70c.png"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 2.0,
       "G": null,
       "H": "XBOX 360"
     },
