@@ -5488,35 +5488,35 @@
       "A": "Call of Duty: Modern Warfare 2",
       "B": null,
       "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/10503-call-of-duty-modern-warfare-2",
+        "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/10503-call-of-duty-modern-warfare-2",
         "imageURL": "https://images.launchbox-app.com//59dbd1ad-efa2-4782-b6c9-c3fc3ef5b400.jpg"
       },
       "D": "English",
       "E": "Shooter, Versus, Co-op",
       "F": 16.0,
-      "G": "ISSUE",
+      "G": "HIDDEN",
       "H": "XBOX 360"
     },
     {
       "A": "Mortal Kombat vs. DC Universe",
       "B": null,
       "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/2981-mortal-kombat-vs-dc-universe",
+        "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/2981-mortal-kombat-vs-dc-universe",
         "imageURL": "https://images.launchbox-app.com//f775dd52-e78c-489c-a63b-763162c1d70c.png"
       },
       "D": "English",
       "E": "3D Fighting, Versus",
       "F": 2.0,
-      "G": "ISSUE",
+      "G": "HIDDEN",
       "H": "XBOX 360"
     },
     {
       "A": "Resident Evil 5",
       "B": "Biohazard 5",
       "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/11476-resident-evil-5",
+        "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/11476-resident-evil-5",
         "imageURL": "https://images.launchbox-app.com//ace8238d-71da-4866-a5e9-be4c1addc1ab.png"
       },
@@ -5530,7 +5530,7 @@
       "A": "Resident Evil 6",
       "B": "Biohazard 6",
       "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/11310-resident-evil-6",
+        "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/11310-resident-evil-6",
         "imageURL": "https://images.launchbox-app.com//c8d0d4c7-34a0-4b13-8707-69fb77e7d305.png"
       },
@@ -5539,6 +5539,340 @@
       "F": 2.0,
       "G": "REMOVED",
       "H": "XBOX 360"
+    },
+    {
+      "A": "Chaos Code",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/106381-chaos-code",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/106381-chaos-code",
+        "imageURL": "https://images.launchbox-app.com//2a9924cf-3b0a-4f1c-a7f4-fc7605f1fb09.jpg"
+      },
+      "D": null,
+      "E": null,
+      "F": 2.0,
+      "G": null,
+      "H": "PC-BASED ARCADE"
+    },
+    {
+      "A": "Chaos Code: New Sign of Catastrophe",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/77549-chaos-code-new-sign-of-catastrophe",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/77549-chaos-code-new-sign-of-catastrophe",
+        "imageURL": "https://images.launchbox-app.com//4f93e34f-dbf2-49ee-81d4-41866e49ea9c.png"
+      },
+      "D": null,
+      "E": null,
+      "F": 2.0,
+      "G": null,
+      "H": "PC-BASED ARCADE"
+    },
+    {
+      "A": "Melty Blood: Actress Again: Current Code",
+      "B": "Melty Blood Actress Again Current Code",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/106385-melty-blood-actress-again-current-code",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/106385-melty-blood-actress-again-current-code",
+        "imageURL": "https://images.launchbox-app.com//b8d6a105-aab9-42af-8f5a-025f0d72a25c.jpg"
+      },
+      "D": null,
+      "E": null,
+      "F": 2.0,
+      "G": null,
+      "H": "PC-BASED ARCADE"
+    },
+    {
+      "A": "Fighting EX Layer",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/135886-fighting-ex-layer",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/135886-fighting-ex-layer",
+        "imageURL": "https://images.launchbox-app.com//5a11eba2-83d0-4e0c-aadd-07c81499e02b.png"
+      },
+      "D": null,
+      "E": null,
+      "F": 2.0,
+      "G": null,
+      "H": "PC-BASED ARCADE"
+    },
+    {
+      "A": "The King of Fighters XIII Climax",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/72532-the-king-of-fighters-xiii-climax",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/72532-the-king-of-fighters-xiii-climax",
+        "imageURL": "https://images.launchbox-app.com//c1a11df1-54ac-4695-9db8-b84c0cd8b0a4.jpg"
+      },
+      "D": null,
+      "E": null,
+      "F": 2.0,
+      "G": null,
+      "H": "PC-BASED ARCADE"
+    },
+    {
+      "A": "Mario Kart Arcade GP DX",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/93629-mario-kart-arcade-gp-dx",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/93629-mario-kart-arcade-gp-dx",
+        "imageURL": "https://images.launchbox-app.com//4bdb42ad-9f1c-4c4b-ab66-4e4e8fd184f3.png"
+      },
+      "D": null,
+      "E": null,
+      "F": 4.0,
+      "G": null,
+      "H": "PC-BASED ARCADE"
+    },
+    {
+      "A": "Pokkén Tournament",
+      "B": "Pokken Tournament",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/105649-pokkn-tournament",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/105649-pokkn-tournament",
+        "imageURL": "https://images.launchbox-app.com//058df631-bbce-462f-95dd-c8dd4a669ace.jpg"
+      },
+      "D": null,
+      "E": null,
+      "F": 2.0,
+      "G": null,
+      "H": "PC-BASED ARCADE"
+    },
+    {
+      "A": "School of Ragnarok",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/106388-school-of-ragnarok",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/106388-school-of-ragnarok",
+        "imageURL": "https://images.launchbox-app.com//3435d423-3718-483b-9c06-991f0d110772.jpg"
+      },
+      "D": null,
+      "E": null,
+      "F": 2.0,
+      "G": null,
+      "H": "PC-BASED ARCADE"
+    },
+    {
+      "A": "SNK Heroines AC: Tag Team Frenzy",
+      "B": "SNK Heroines: Tag Team Frenzy",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/141511-snk-heroines-ac-tag-team-frenzy",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/141511-snk-heroines-ac-tag-team-frenzy",
+        "imageURL": "https://images.launchbox-app.com//e05ddd3b-8663-43a4-a962-b5bbc0e2007d.jpg"
+      },
+      "D": null,
+      "E": null,
+      "F": 2.0,
+      "G": null,
+      "H": "PC-BASED ARCADE"
+    },
+    {
+      "A": "Tekken 7: Fated Retribution Round 2",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/161336-tekken-7-fated-retribution-round-2",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/161336-tekken-7-fated-retribution-round-2",
+        "imageURL": "https://images.launchbox-app.com//50a1860e-6a78-4e94-ac34-82519a2db5a0.jpg"
+      },
+      "D": null,
+      "E": null,
+      "F": 2.0,
+      "G": null,
+      "H": "PC-BASED ARCADE"
+    },
+    {
+      "A": "Under Night In-Birth ExeLate[cl-r]",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/158589-under-night-in-birth-exelatecl-r",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/158589-under-night-in-birth-exelatecl-r",
+        "imageURL": "https://images.launchbox-app.com//c933336e-a438-4508-986f-9367e9bd4b01.jpg"
+      },
+      "D": null,
+      "E": null,
+      "F": 2.0,
+      "G": null,
+      "H": "PC-BASED ARCADE"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PC-BASED ARCADE"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PC-BASED ARCADE"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PC-BASED ARCADE"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PC-BASED ARCADE"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PC-BASED ARCADE"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PC-BASED ARCADE"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PC-BASED ARCADE"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PC-BASED ARCADE"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PC-BASED ARCADE"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PC-BASED ARCADE"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PC-BASED ARCADE"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PC-BASED ARCADE"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PC-BASED ARCADE"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PC-BASED ARCADE"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PC-BASED ARCADE"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PC-BASED ARCADE"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PC-BASED ARCADE"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PC-BASED ARCADE"
     },
     {
       "A": null,
@@ -53788,7 +54122,7 @@
       "A": "Borderlands: The Pre-Sequel!",
       "B": null,
       "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/20783-borderlands-the-pre-sequel",
+        "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/20783-borderlands-the-pre-sequel",
         "imageURL": "https://images.launchbox-app.com//c9229ebc-f7cf-48b1-b6a4-fa43464c6900.jpg"
       },
@@ -53802,7 +54136,7 @@
       "A": "Dead or Alive 4",
       "B": null,
       "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/6877-dead-or-alive-4",
+        "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/6877-dead-or-alive-4",
         "imageURL": "https://images.launchbox-app.com//9f875ed3-e0ec-4a03-91f5-2e7330744b22.jpg"
       },
@@ -53816,7 +54150,7 @@
       "A": "Grand Theft Auto IV",
       "B": null,
       "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/7187-grand-theft-auto-iv",
+        "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/7187-grand-theft-auto-iv",
         "imageURL": "https://images.launchbox-app.com//7aac09c5-a170-43f6-b3a5-eb3d5323270f.jpg"
       },
@@ -53830,7 +54164,7 @@
       "A": "Mortal Kombat: Komplete Edition",
       "B": null,
       "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/13959-mortal-kombat-komplete-edition",
+        "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/13959-mortal-kombat-komplete-edition",
         "imageURL": "https://images.launchbox-app.com//8b3d6292-1605-4e6a-ba18-5e515986c672.png"
       },
@@ -53844,7 +54178,7 @@
       "A": "Red Dead Redemption",
       "B": null,
       "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/182-red-dead-redemption",
+        "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/182-red-dead-redemption",
         "imageURL": "https://images.launchbox-app.com//e04036d3-8461-4c72-a854-957d7dc82327.jpg"
       },
@@ -53858,7 +54192,7 @@
       "A": "Sonic the Hedgehog (2006)",
       "B": "Sonic 2006",
       "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/7283-sonic-the-hedgehog-2006",
+        "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/7283-sonic-the-hedgehog-2006",
         "imageURL": "https://images.launchbox-app.com//08103847-38c0-432f-9fb9-1973cee7fe2e.jpg"
       },
@@ -53867,6 +54201,20 @@
       "F": 2.0,
       "G": "RUNNING",
       "H": "XBOX 360"
+    },
+    {
+      "A": "BlazBlue: Cross Tag Battle",
+      "B": "BlazBlue Cross Tag Battle",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/149651-blazblue-cross-tag-battle",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/149651-blazblue-cross-tag-battle",
+        "imageURL": "https://images.launchbox-app.com//b4a4a449-919a-4119-a2b9-48e117ea77e4.jpg"
+      },
+      "D": "Japanese",
+      "E": "2D Fighting, Versus",
+      "F": 2.0,
+      "G": "RUNNING",
+      "H": "PC-BASED ARCADE"
     }
   ],
   "Systems": [
@@ -54773,6 +55121,38 @@
         "imageURL": "media/noImage.png"
       },
       "B": "\"Seventh generation (2005–2017) home video game console developed and distributed by Microsoft\"",
+      "C": "2D/3D",
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": null,
+      "I": null,
+      "J": null,
+      "K": null,
+      "L": null,
+      "M": null,
+      "N": null,
+      "O": null,
+      "P": null,
+      "Q": null,
+      "R": null,
+      "S": null,
+      "T": null,
+      "U": null,
+      "V": null,
+      "W": null,
+      "X": null,
+      "Y": null,
+      "Z": null
+    },
+    {
+      "A": {
+        "text": "PC-BASED ARCADE",
+        "hyperlink": null,
+        "imageURL": "media/noImage.png"
+      },
+      "B": "PC-Based Arcade Boards are arcade machines built upon normal computer components and Windows OS, but are still made to run specific games exclusively like other machines.",
       "C": "2D/3D",
       "D": null,
       "E": null,
