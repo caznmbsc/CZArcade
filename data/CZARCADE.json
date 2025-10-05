@@ -5541,90 +5541,6 @@
       "H": "XBOX 360"
     },
     {
-      "A": "Chaos Code",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/106381-chaos-code",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/106381-chaos-code",
-        "imageURL": "https://images.launchbox-app.com//2a9924cf-3b0a-4f1c-a7f4-fc7605f1fb09.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 2.0,
-      "G": null,
-      "H": "PC-BASED ARCADE"
-    },
-    {
-      "A": "Chaos Code: New Sign of Catastrophe",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/77549-chaos-code-new-sign-of-catastrophe",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/77549-chaos-code-new-sign-of-catastrophe",
-        "imageURL": "https://images.launchbox-app.com//4f93e34f-dbf2-49ee-81d4-41866e49ea9c.png"
-      },
-      "D": null,
-      "E": null,
-      "F": 2.0,
-      "G": null,
-      "H": "PC-BASED ARCADE"
-    },
-    {
-      "A": "Melty Blood: Actress Again: Current Code",
-      "B": "Melty Blood Actress Again Current Code",
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/106385-melty-blood-actress-again-current-code",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/106385-melty-blood-actress-again-current-code",
-        "imageURL": "https://images.launchbox-app.com//b8d6a105-aab9-42af-8f5a-025f0d72a25c.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 2.0,
-      "G": null,
-      "H": "PC-BASED ARCADE"
-    },
-    {
-      "A": "Fighting EX Layer",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/135886-fighting-ex-layer",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/135886-fighting-ex-layer",
-        "imageURL": "https://images.launchbox-app.com//5a11eba2-83d0-4e0c-aadd-07c81499e02b.png"
-      },
-      "D": null,
-      "E": null,
-      "F": 2.0,
-      "G": null,
-      "H": "PC-BASED ARCADE"
-    },
-    {
-      "A": "The King of Fighters XIII Climax",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/72532-the-king-of-fighters-xiii-climax",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/72532-the-king-of-fighters-xiii-climax",
-        "imageURL": "https://images.launchbox-app.com//c1a11df1-54ac-4695-9db8-b84c0cd8b0a4.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 2.0,
-      "G": null,
-      "H": "PC-BASED ARCADE"
-    },
-    {
-      "A": "Mario Kart Arcade GP DX",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/93629-mario-kart-arcade-gp-dx",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/93629-mario-kart-arcade-gp-dx",
-        "imageURL": "https://images.launchbox-app.com//4bdb42ad-9f1c-4c4b-ab66-4e4e8fd184f3.png"
-      },
-      "D": null,
-      "E": null,
-      "F": 4.0,
-      "G": null,
-      "H": "PC-BASED ARCADE"
-    },
-    {
       "A": "Pokkén Tournament",
       "B": "Pokken Tournament",
       "C": {
@@ -5645,20 +5561,6 @@
         "text": "https://gamesdb.launchbox-app.com/games/details/106388-school-of-ragnarok",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/106388-school-of-ragnarok",
         "imageURL": "https://images.launchbox-app.com//3435d423-3718-483b-9c06-991f0d110772.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 2.0,
-      "G": null,
-      "H": "PC-BASED ARCADE"
-    },
-    {
-      "A": "SNK Heroines AC: Tag Team Frenzy",
-      "B": "SNK Heroines: Tag Team Frenzy",
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/141511-snk-heroines-ac-tag-team-frenzy",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/141511-snk-heroines-ac-tag-team-frenzy",
-        "imageURL": "https://images.launchbox-app.com//e05ddd3b-8663-43a4-a962-b5bbc0e2007d.jpg"
       },
       "D": null,
       "E": null,
@@ -5691,186 +5593,6 @@
       "D": null,
       "E": null,
       "F": 2.0,
-      "G": null,
-      "H": "PC-BASED ARCADE"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
-      "H": "PC-BASED ARCADE"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
-      "H": "PC-BASED ARCADE"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
-      "H": "PC-BASED ARCADE"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
-      "H": "PC-BASED ARCADE"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
-      "H": "PC-BASED ARCADE"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
-      "H": "PC-BASED ARCADE"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
-      "H": "PC-BASED ARCADE"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
-      "H": "PC-BASED ARCADE"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
-      "H": "PC-BASED ARCADE"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
-      "H": "PC-BASED ARCADE"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
-      "H": "PC-BASED ARCADE"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
-      "H": "PC-BASED ARCADE"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
-      "H": "PC-BASED ARCADE"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
-      "H": "PC-BASED ARCADE"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
-      "H": "PC-BASED ARCADE"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
-      "H": "PC-BASED ARCADE"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
-      "H": "PC-BASED ARCADE"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
       "G": null,
       "H": "PC-BASED ARCADE"
     },
@@ -54211,6 +53933,90 @@
         "imageURL": "https://images.launchbox-app.com//b4a4a449-919a-4119-a2b9-48e117ea77e4.jpg"
       },
       "D": "Japanese",
+      "E": "2D Fighting, Versus",
+      "F": 2.0,
+      "G": "RUNNING",
+      "H": "PC-BASED ARCADE"
+    },
+    {
+      "A": "Chaos Code",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/106381-chaos-code",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/106381-chaos-code",
+        "imageURL": "https://images.launchbox-app.com//2a9924cf-3b0a-4f1c-a7f4-fc7605f1fb09.jpg"
+      },
+      "D": "Japanese",
+      "E": "2D Fighting, Versus",
+      "F": 2.0,
+      "G": "RUNNING",
+      "H": "PC-BASED ARCADE"
+    },
+    {
+      "A": "Chaos Code: New Sign of Catastrophe",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/77549-chaos-code-new-sign-of-catastrophe",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/77549-chaos-code-new-sign-of-catastrophe",
+        "imageURL": "https://images.launchbox-app.com//4f93e34f-dbf2-49ee-81d4-41866e49ea9c.png"
+      },
+      "D": "Japanese",
+      "E": "2D Fighting, Versus",
+      "F": 2.0,
+      "G": "RUNNING",
+      "H": "PC-BASED ARCADE"
+    },
+    {
+      "A": "Fighting EX Layer",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/135886-fighting-ex-layer",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/135886-fighting-ex-layer",
+        "imageURL": "https://images.launchbox-app.com//5a11eba2-83d0-4e0c-aadd-07c81499e02b.png"
+      },
+      "D": "English",
+      "E": "2D Fighting, Versus",
+      "F": 2.0,
+      "G": "RUNNING",
+      "H": "PC-BASED ARCADE"
+    },
+    {
+      "A": "Melty Blood: Actress Again: Current Code",
+      "B": "Melty Blood Actress Again Current Code",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/106385-melty-blood-actress-again-current-code",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/106385-melty-blood-actress-again-current-code",
+        "imageURL": "https://images.launchbox-app.com//b8d6a105-aab9-42af-8f5a-025f0d72a25c.jpg"
+      },
+      "D": "Japanese",
+      "E": "2D Fighting, Versus",
+      "F": 2.0,
+      "G": "RUNNING",
+      "H": "PC-BASED ARCADE"
+    },
+    {
+      "A": "SNK Heroines AC: Tag Team Frenzy",
+      "B": "SNK Heroines: Tag Team Frenzy",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/141511-snk-heroines-ac-tag-team-frenzy",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/141511-snk-heroines-ac-tag-team-frenzy",
+        "imageURL": "https://images.launchbox-app.com//e05ddd3b-8663-43a4-a962-b5bbc0e2007d.jpg"
+      },
+      "D": "Japanese",
+      "E": "2D Fighting, Versus",
+      "F": 2.0,
+      "G": "RUNNING",
+      "H": "PC-BASED ARCADE"
+    },
+    {
+      "A": "The King of Fighters XIII Climax",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/72532-the-king-of-fighters-xiii-climax",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/72532-the-king-of-fighters-xiii-climax",
+        "imageURL": "https://images.launchbox-app.com//c1a11df1-54ac-4695-9db8-b84c0cd8b0a4.jpg"
+      },
+      "D": "English",
       "E": "2D Fighting, Versus",
       "F": 2.0,
       "G": "RUNNING",
