@@ -5541,20 +5541,6 @@
       "H": "XBOX 360"
     },
     {
-      "A": "Pokkén Tournament",
-      "B": "Pokken Tournament",
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/105649-pokkn-tournament",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/105649-pokkn-tournament",
-        "imageURL": "https://images.launchbox-app.com//058df631-bbce-462f-95dd-c8dd4a669ace.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 2.0,
-      "G": null,
-      "H": "PC-BASED ARCADE"
-    },
-    {
       "A": "School of Ragnarok",
       "B": null,
       "C": {
@@ -53990,6 +53976,20 @@
       },
       "D": "Japanese",
       "E": "2D Fighting, Versus",
+      "F": 2.0,
+      "G": "RUNNING",
+      "H": "PC-BASED ARCADE"
+    },
+    {
+      "A": "Pokkén Tournament",
+      "B": "Pokken Tournament",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/105649-pokkn-tournament",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/105649-pokkn-tournament",
+        "imageURL": "https://images.launchbox-app.com//058df631-bbce-462f-95dd-c8dd4a669ace.jpg"
+      },
+      "D": "Spanish",
+      "E": "3D Fighting",
       "F": 2.0,
       "G": "RUNNING",
       "H": "PC-BASED ARCADE"
