@@ -5492,7 +5492,7 @@
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/10503-call-of-duty-modern-warfare-2",
         "imageURL": "https://images.launchbox-app.com//59dbd1ad-efa2-4782-b6c9-c3fc3ef5b400.jpg"
       },
-      "D": null,
+      "D": "English",
       "E": "Shooter, Versus, Co-op",
       "F": 16.0,
       "G": "ISSUE",
@@ -5538,86 +5538,6 @@
       "E": "Shooter, Horror, Versus",
       "F": 2.0,
       "G": "REMOVED",
-      "H": "XBOX 360"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
-      "H": "XBOX 360"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
-      "H": "XBOX 360"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
-      "H": "XBOX 360"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
-      "H": "XBOX 360"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
-      "H": "XBOX 360"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
-      "H": "XBOX 360"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
-      "H": "XBOX 360"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
-      "G": null,
       "H": "XBOX 360"
     },
     {
@@ -53886,7 +53806,7 @@
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/6877-dead-or-alive-4",
         "imageURL": "https://images.launchbox-app.com//9f875ed3-e0ec-4a03-91f5-2e7330744b22.jpg"
       },
-      "D": null,
+      "D": "English",
       "E": "3D Fighting, Versus",
       "F": 2.0,
       "G": "RUNNING",
