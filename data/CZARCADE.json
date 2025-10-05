@@ -5541,17 +5541,17 @@
       "H": "XBOX 360"
     },
     {
-      "A": "School of Ragnarok",
-      "B": null,
+      "A": "BlazBlue: Cross Tag Battle",
+      "B": "BlazBlue Cross Tag Battle",
       "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/106388-school-of-ragnarok",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/106388-school-of-ragnarok",
-        "imageURL": "https://images.launchbox-app.com//3435d423-3718-483b-9c06-991f0d110772.jpg"
+        "text": "https://gamesdb.launchbox-app.com/games/details/149651-blazblue-cross-tag-battle",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/149651-blazblue-cross-tag-battle",
+        "imageURL": "https://images.launchbox-app.com//b4a4a449-919a-4119-a2b9-48e117ea77e4.jpg"
       },
-      "D": null,
-      "E": null,
+      "D": "Japanese",
+      "E": "2D Fighting",
       "F": 2.0,
-      "G": null,
+      "G": "ISSUE",
       "H": "PC-BASED ARCADE"
     },
     {
@@ -5562,10 +5562,10 @@
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/161336-tekken-7-fated-retribution-round-2",
         "imageURL": "https://images.launchbox-app.com//50a1860e-6a78-4e94-ac34-82519a2db5a0.jpg"
       },
-      "D": null,
-      "E": null,
+      "D": "English",
+      "E": "3D Fighting",
       "F": 2.0,
-      "G": null,
+      "G": "ISSUE",
       "H": "PC-BASED ARCADE"
     },
     {
@@ -5577,9 +5577,9 @@
         "imageURL": "https://images.launchbox-app.com//c933336e-a438-4508-986f-9367e9bd4b01.jpg"
       },
       "D": null,
-      "E": null,
+      "E": "2D Fighting",
       "F": 2.0,
-      "G": null,
+      "G": "ISSUE",
       "H": "PC-BASED ARCADE"
     },
     {
@@ -53911,20 +53911,6 @@
       "H": "XBOX 360"
     },
     {
-      "A": "BlazBlue: Cross Tag Battle",
-      "B": "BlazBlue Cross Tag Battle",
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/149651-blazblue-cross-tag-battle",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/149651-blazblue-cross-tag-battle",
-        "imageURL": "https://images.launchbox-app.com//b4a4a449-919a-4119-a2b9-48e117ea77e4.jpg"
-      },
-      "D": "Japanese",
-      "E": "2D Fighting, Versus",
-      "F": 2.0,
-      "G": "RUNNING",
-      "H": "PC-BASED ARCADE"
-    },
-    {
       "A": "Chaos Code",
       "B": null,
       "C": {
@@ -54003,7 +53989,7 @@
         "imageURL": "https://images.launchbox-app.com//e05ddd3b-8663-43a4-a962-b5bbc0e2007d.jpg"
       },
       "D": "Japanese",
-      "E": "2D Fighting, Versus",
+      "E": "2D Fighting",
       "F": 2.0,
       "G": "RUNNING",
       "H": "PC-BASED ARCADE"
