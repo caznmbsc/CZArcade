@@ -5542,9 +5542,9 @@
     },
     {
       "A": "BlazBlue: Cross Tag Battle",
-      "B": "BlazBlue Cross Tag Battle",
+      "B": null,
       "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/149651-blazblue-cross-tag-battle",
+        "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/149651-blazblue-cross-tag-battle",
         "imageURL": "https://images.launchbox-app.com//b4a4a449-919a-4119-a2b9-48e117ea77e4.jpg"
       },
@@ -5558,7 +5558,7 @@
       "A": "Tekken 7: Fated Retribution Round 2",
       "B": null,
       "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/161336-tekken-7-fated-retribution-round-2",
+        "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/161336-tekken-7-fated-retribution-round-2",
         "imageURL": "https://images.launchbox-app.com//50a1860e-6a78-4e94-ac34-82519a2db5a0.jpg"
       },
@@ -5572,7 +5572,7 @@
       "A": "Under Night In-Birth ExeLate[cl-r]",
       "B": null,
       "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/158589-under-night-in-birth-exelatecl-r",
+        "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/158589-under-night-in-birth-exelatecl-r",
         "imageURL": "https://images.launchbox-app.com//c933336e-a438-4508-986f-9367e9bd4b01.jpg"
       },
@@ -5581,6 +5581,286 @@
       "F": 2.0,
       "G": "ISSUE",
       "H": "PC-BASED ARCADE"
+    },
+    {
+      "A": "Bayonetta 2",
+      "B": "Beyonetta Tsu",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/15568-bayonetta-2",
+        "imageURL": "https://images.launchbox-app.com//8e683500-752c-4d23-8149-07da3cc18f2f.jpg"
+      },
+      "D": null,
+      "E": "Beat'em Up",
+      "F": 2.0,
+      "G": null,
+      "H": "WII U"
+    },
+    {
+      "A": "Donkey Kong Country: Tropical Freeze",
+      "B": "Donkey Kong: Tropical Freeze",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/18931-donkey-kong-country-tropical-freeze",
+        "imageURL": "https://images.launchbox-app.com//2c3842c2-825e-4cfd-90bd-781dd0342eb2.jpg"
+      },
+      "D": null,
+      "E": "Platform, Co-op",
+      "F": 2.0,
+      "G": null,
+      "H": "WII U"
+    },
+    {
+      "A": "Hyrule Warriors",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/22573-hyrule-warriors",
+        "imageURL": "https://images.launchbox-app.com//57122e8a-37c6-424b-906c-36800aa9b948.jpg"
+      },
+      "D": null,
+      "E": "Beat'em Up, Hack and Slash, Co-op",
+      "F": 2.0,
+      "G": null,
+      "H": "WII U"
+    },
+    {
+      "A": "Kirby and the Rainbow Curse",
+      "B": "Touch! Kirby Super Rainbow, Kirby and the Rainbow Paintbrush",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/24364-kirby-and-the-rainbow-curse",
+        "imageURL": "https://images.launchbox-app.com//808c3058-9384-4fe2-8385-bc23112d6d98.jpg"
+      },
+      "D": null,
+      "E": "Platform, Co-op",
+      "F": 4.0,
+      "G": null,
+      "H": "WII U"
+    },
+    {
+      "A": "Mario Kart 8",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/16908-mario-kart-8",
+        "imageURL": "https://images.launchbox-app.com//56a711fe-47c2-41c2-9315-7f331d1ca59e.jpg"
+      },
+      "D": null,
+      "E": "Driving, Racing, Versus, Co-op",
+      "F": 4.0,
+      "G": null,
+      "H": "WII U"
+    },
+    {
+      "A": "Mario Party 10",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/24363-mario-party-10",
+        "imageURL": "https://images.launchbox-app.com//8d7104e2-87e0-42a9-850e-889cdae81469.jpg"
+      },
+      "D": null,
+      "E": "Party, Versus",
+      "F": 5.0,
+      "G": null,
+      "H": "WII U"
+    },
+    {
+      "A": "New Super Mario Bros. U + New Super Luigi U",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/19166-new-super-mario-bros-u-new-super-luigi-u",
+        "imageURL": "https://images.launchbox-app.com//8890d097-2b73-4958-b6e4-be5d3c2ede91.png"
+      },
+      "D": null,
+      "E": "Platform, Co-op",
+      "F": 4.0,
+      "G": null,
+      "H": "WII U"
+    },
+    {
+      "A": "Paper Mario: Color Splash",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/61129-paper-mario-color-splash",
+        "imageURL": "https://images.launchbox-app.com//741387a3-5063-42d6-85dd-a1fa7ef04959.jpg"
+      },
+      "D": null,
+      "E": "Adventure, RPG",
+      "F": 1.0,
+      "G": null,
+      "H": "WII U"
+    },
+    {
+      "A": "Pikmin 3",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/15575-pikmin-3",
+        "imageURL": "https://images.launchbox-app.com//5423a8a6-72f1-4f64-a375-0d6a339390ab.jpg"
+      },
+      "D": null,
+      "E": "Adventure, Puzzle, Strategy, Versus, Co-op",
+      "F": 2.0,
+      "G": null,
+      "H": "WII U"
+    },
+    {
+      "A": "Pokkén Tournament",
+      "B": "Pokken Tournament",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/66095-pokkn-tournament",
+        "imageURL": "https://images.launchbox-app.com//a63e0be1-94d6-4ee7-aa80-c143284badd7.jpg"
+      },
+      "D": null,
+      "E": "3D Fighting, Versus",
+      "F": 2.0,
+      "G": null,
+      "H": "WII U"
+    },
+    {
+      "A": "Shantae: Half-Genie Hero",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/84332-shantae-half-genie-hero",
+        "imageURL": "https://images.launchbox-app.com//49ef3c6f-2aa5-47dd-a4fd-efbd03ecd817.jpg"
+      },
+      "D": null,
+      "E": "Platform",
+      "F": 1.0,
+      "G": null,
+      "H": "WII U"
+    },
+    {
+      "A": "Sonic Boom: Rise of Lyric",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/27693-sonic-boom-rise-of-lyric",
+        "imageURL": "https://images.launchbox-app.com//2ec37002-9048-442b-9fa4-b354fe0bb317.jpg"
+      },
+      "D": null,
+      "E": "Platform, Adventure",
+      "F": 1.0,
+      "G": null,
+      "H": "WII U"
+    },
+    {
+      "A": "Splatoon",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/20517-splatoon",
+        "imageURL": "https://images.launchbox-app.com//257f672b-5691-4a34-a4d7-df92910beceb.jpg"
+      },
+      "D": null,
+      "E": "Shooter, Versus",
+      "F": 8.0,
+      "G": null,
+      "H": "WII U"
+    },
+    {
+      "A": "Super Mario 3D World",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/71648-super-mario-3d-world",
+        "imageURL": "https://images.launchbox-app.com//22eb1d03-99e5-4728-b2ef-1d2f75e3a035.jpg"
+      },
+      "D": null,
+      "E": "Platform, Co-op",
+      "F": 4.0,
+      "G": null,
+      "H": "WII U"
+    },
+    {
+      "A": "Super Mario Maker",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/31216-super-mario-maker",
+        "imageURL": "https://images.launchbox-app.com//e4c5f038-d4a5-40f6-85ee-465db76651b3.jpg"
+      },
+      "D": null,
+      "E": "Platform",
+      "F": 1.0,
+      "G": null,
+      "H": "WII U"
+    },
+    {
+      "A": "Super Smash Bros. for Wii U",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/10731-super-smash-bros-for-wii-u",
+        "imageURL": "https://images.launchbox-app.com//ff4abb48-4aea-4f7d-917b-7e31abd47f6d.jpg"
+      },
+      "D": null,
+      "E": "Platform, 2D Fighting, Co-op, Versus",
+      "F": 8.0,
+      "G": null,
+      "H": "WII U"
+    },
+    {
+      "A": "Terraria",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/48669-terraria",
+        "imageURL": "https://images.launchbox-app.com//0d59a1f8-1f06-4ad3-95d2-d528cb68216f.png"
+      },
+      "D": null,
+      "E": "Platform, Adventure, Co-op",
+      "F": 4.0,
+      "G": null,
+      "H": "WII U"
+    },
+    {
+      "A": "The Legend of Zelda: Breath of the Wild",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/73994-the-legend-of-zelda-breath-of-the-wild",
+        "imageURL": "https://images.launchbox-app.com//857b0bf4-b951-4c28-be0e-04fbd531d688.jpg"
+      },
+      "D": null,
+      "E": "Adventure, Hack and Slash, Puzzle",
+      "F": 1.0,
+      "G": null,
+      "H": "WII U"
+    },
+    {
+      "A": "Xenoblade Chronicles X",
+      "B": "Xenoblade Cross, XenobladeX",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/20785-xenoblade-chronicles-x",
+        "imageURL": "https://images.launchbox-app.com//224daa41-b28a-4ea5-b643-76206f6cc97b.jpg"
+      },
+      "D": null,
+      "E": "Adventure, RPG",
+      "F": 1.0,
+      "G": null,
+      "H": "WII U"
+    },
+    {
+      "A": "Yoshi's Woolly World",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/22006-yoshis-woolly-world",
+        "imageURL": "https://images.launchbox-app.com//8aaac9cd-26be-4c43-99c8-bea5a777aa3d.jpg"
+      },
+      "D": null,
+      "E": "Co-op",
+      "F": 2.0,
+      "G": null,
+      "H": "WII U"
     },
     {
       "A": null,
@@ -53914,7 +54194,7 @@
       "A": "Chaos Code",
       "B": null,
       "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/106381-chaos-code",
+        "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/106381-chaos-code",
         "imageURL": "https://images.launchbox-app.com//2a9924cf-3b0a-4f1c-a7f4-fc7605f1fb09.jpg"
       },
@@ -53928,7 +54208,7 @@
       "A": "Chaos Code: New Sign of Catastrophe",
       "B": null,
       "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/77549-chaos-code-new-sign-of-catastrophe",
+        "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/77549-chaos-code-new-sign-of-catastrophe",
         "imageURL": "https://images.launchbox-app.com//4f93e34f-dbf2-49ee-81d4-41866e49ea9c.png"
       },
@@ -53942,7 +54222,7 @@
       "A": "Fighting EX Layer",
       "B": null,
       "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/135886-fighting-ex-layer",
+        "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/135886-fighting-ex-layer",
         "imageURL": "https://images.launchbox-app.com//5a11eba2-83d0-4e0c-aadd-07c81499e02b.png"
       },
@@ -53954,9 +54234,9 @@
     },
     {
       "A": "Melty Blood: Actress Again: Current Code",
-      "B": "Melty Blood Actress Again Current Code",
+      "B": null,
       "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/106385-melty-blood-actress-again-current-code",
+        "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/106385-melty-blood-actress-again-current-code",
         "imageURL": "https://images.launchbox-app.com//b8d6a105-aab9-42af-8f5a-025f0d72a25c.jpg"
       },
@@ -53970,7 +54250,7 @@
       "A": "Pokkén Tournament",
       "B": "Pokken Tournament",
       "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/105649-pokkn-tournament",
+        "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/105649-pokkn-tournament",
         "imageURL": "https://images.launchbox-app.com//058df631-bbce-462f-95dd-c8dd4a669ace.jpg"
       },
@@ -53984,7 +54264,7 @@
       "A": "SNK Heroines AC: Tag Team Frenzy",
       "B": "SNK Heroines: Tag Team Frenzy",
       "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/141511-snk-heroines-ac-tag-team-frenzy",
+        "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/141511-snk-heroines-ac-tag-team-frenzy",
         "imageURL": "https://images.launchbox-app.com//e05ddd3b-8663-43a4-a962-b5bbc0e2007d.jpg"
       },
@@ -53998,7 +54278,7 @@
       "A": "The King of Fighters XIII Climax",
       "B": null,
       "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/72532-the-king-of-fighters-xiii-climax",
+        "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/72532-the-king-of-fighters-xiii-climax",
         "imageURL": "https://images.launchbox-app.com//c1a11df1-54ac-4695-9db8-b84c0cd8b0a4.jpg"
       },
@@ -54945,6 +55225,38 @@
         "imageURL": "media/noImage.png"
       },
       "B": "PC-Based Arcade Boards are arcade machines built upon normal computer components and Windows OS, but are still made to run specific games exclusively like other machines.",
+      "C": "2D/3D",
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": null,
+      "I": null,
+      "J": null,
+      "K": null,
+      "L": null,
+      "M": null,
+      "N": null,
+      "O": null,
+      "P": null,
+      "Q": null,
+      "R": null,
+      "S": null,
+      "T": null,
+      "U": null,
+      "V": null,
+      "W": null,
+      "X": null,
+      "Y": null,
+      "Z": null
+    },
+    {
+      "A": {
+        "text": "WII U",
+        "hyperlink": null,
+        "imageURL": "media/noImage.png"
+      },
+      "B": "\"The Nintendo Wii U is an eighth generation home video game console developed and distributed by Nintendo. \"",
       "C": "2D/3D",
       "D": null,
       "E": null,
