@@ -5621,7 +5621,7 @@
       "D": null,
       "E": "Beat'em Up, Hack and Slash, Co-op",
       "F": 2.0,
-      "G": null,
+      "G": "RUN",
       "H": "WII U"
     },
     {
@@ -5663,7 +5663,7 @@
       "D": null,
       "E": "Party, Versus",
       "F": 5.0,
-      "G": null,
+      "G": "REMOVED",
       "H": "WII U"
     },
     {
@@ -5691,7 +5691,7 @@
       "D": null,
       "E": "Adventure, RPG",
       "F": 1.0,
-      "G": null,
+      "G": "REMOVED",
       "H": "WII U"
     },
     {
@@ -5719,7 +5719,7 @@
       "D": null,
       "E": "3D Fighting, Versus",
       "F": 2.0,
-      "G": null,
+      "G": "RUN",
       "H": "WII U"
     },
     {
@@ -5733,7 +5733,7 @@
       "D": null,
       "E": "Platform",
       "F": 1.0,
-      "G": null,
+      "G": "RUN",
       "H": "WII U"
     },
     {
@@ -5747,7 +5747,7 @@
       "D": null,
       "E": "Platform, Adventure",
       "F": 1.0,
-      "G": null,
+      "G": "RUN",
       "H": "WII U"
     },
     {
@@ -5761,7 +5761,7 @@
       "D": null,
       "E": "Shooter, Versus",
       "F": 8.0,
-      "G": null,
+      "G": "RUN",
       "H": "WII U"
     },
     {
@@ -5817,7 +5817,7 @@
       "D": null,
       "E": "Platform, Adventure, Co-op",
       "F": 4.0,
-      "G": null,
+      "G": "RUN",
       "H": "WII U"
     },
     {
@@ -5845,7 +5845,7 @@
       "D": null,
       "E": "Adventure, RPG",
       "F": 1.0,
-      "G": null,
+      "G": "RUN",
       "H": "WII U"
     },
     {
