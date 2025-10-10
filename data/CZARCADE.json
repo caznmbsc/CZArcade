@@ -5737,20 +5737,6 @@
       "H": "SWITCH"
     },
     {
-      "A": "New Super Mario Bros. U Deluxe",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/112252-new-super-mario-bros-u-deluxe",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/112252-new-super-mario-bros-u-deluxe",
-        "imageURL": "https://images.launchbox-app.com//9af4858c-ad64-4696-bedf-3cf940247080.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 5.0,
-      "G": null,
-      "H": "SWITCH"
-    },
-    {
       "A": "Octopath Traveler",
       "B": null,
       "C": {
@@ -5759,7 +5745,7 @@
         "imageURL": "https://images.launchbox-app.com//a090f19c-3edb-4772-b0d4-76dfa28dfa4f.png"
       },
       "D": null,
-      "E": null,
+      "E": "Adventure, RPG",
       "F": 1.0,
       "G": null,
       "H": "SWITCH"
@@ -5773,7 +5759,7 @@
         "imageURL": "https://images.launchbox-app.com//5c8c4e98-5720-4a7b-b85e-d502f3115fc2.jpg"
       },
       "D": null,
-      "E": null,
+      "E": "Adventure, RPG",
       "F": 1.0,
       "G": null,
       "H": "SWITCH"
@@ -5827,20 +5813,6 @@
         "text": "https://gamesdb.launchbox-app.com/games/details/130330-super-kirby-clash",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/130330-super-kirby-clash",
         "imageURL": "https://images.launchbox-app.com//3b49cf10-65ef-40ad-ae71-3a08a140cd52.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 4.0,
-      "G": null,
-      "H": "SWITCH"
-    },
-    {
-      "A": "Super Mario 3D World + Bowser's Fury",
-      "B": "Super Mario 3D World Bowsers Fury",
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/145306-super-mario-3d-world-bowsers-fury",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/145306-super-mario-3d-world-bowsers-fury",
-        "imageURL": "https://images.launchbox-app.com//0b9b956b-f43e-4eb2-9f91-f827e4deb1d3.jpg"
       },
       "D": null,
       "E": null,
@@ -54701,6 +54673,34 @@
       "D": null,
       "E": "Adventure, Platform, Shooter",
       "F": 1.0,
+      "G": "RUNNING",
+      "H": "SWITCH"
+    },
+    {
+      "A": "New Super Mario Bros. U Deluxe",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/112252-new-super-mario-bros-u-deluxe",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/112252-new-super-mario-bros-u-deluxe",
+        "imageURL": "https://images.launchbox-app.com//9af4858c-ad64-4696-bedf-3cf940247080.jpg"
+      },
+      "D": null,
+      "E": "Platform, Co-op, Versus",
+      "F": 5.0,
+      "G": "RUNNING",
+      "H": "SWITCH"
+    },
+    {
+      "A": "Super Mario 3D World + Bowser's Fury",
+      "B": "Super Mario 3D World Bowsers Fury",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/145306-super-mario-3d-world-bowsers-fury",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/145306-super-mario-3d-world-bowsers-fury",
+        "imageURL": "https://images.launchbox-app.com//0b9b956b-f43e-4eb2-9f91-f827e4deb1d3.jpg"
+      },
+      "D": null,
+      "E": "Platform, Co-op",
+      "F": 4.0,
       "G": "RUNNING",
       "H": "SWITCH"
     }
