@@ -5695,58 +5695,30 @@
       "H": "WII U"
     },
     {
-      "A": "Super Mario 3D World + Bowser's Fury",
-      "B": "Super Mario 3D World Bowsers Fury",
+      "A": "Luigi’s Mansion 2 HD",
+      "B": null,
       "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/145306-super-mario-3d-world-bowsers-fury",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/145306-super-mario-3d-world-bowsers-fury",
-        "imageURL": "https://images.launchbox-app.com//0b9b956b-f43e-4eb2-9f91-f827e4deb1d3.jpg"
+        "text": "https://gamesdb.launchbox-app.com/games/details/421269-luigis-mansion-2-hd",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/421269-luigis-mansion-2-hd",
+        "imageURL": "https://gamesdb-images.launchbox.gg/r2_3ad64a1e-0995-4c63-a110-7a5e511d3b77.jpg"
       },
       "D": null,
-      "E": null,
+      "E": "Adventure, Puzzle",
       "F": 4.0,
       "G": null,
       "H": "SWITCH"
     },
     {
-      "A": "Animal Crossing: New Horizons",
+      "A": "Luigi's Mansion 3",
       "B": null,
       "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/116313-animal-crossing-new-horizons",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/116313-animal-crossing-new-horizons",
-        "imageURL": "https://images.launchbox-app.com//a8c224b2-cfec-436c-81e8-23b40da3a7d8.jpg"
+        "text": "https://gamesdb.launchbox-app.com/games/details/121964-luigis-mansion-3",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/121964-luigis-mansion-3",
+        "imageURL": "https://images.launchbox-app.com//a14d6275-3ca2-41fb-8969-7d98d338eb58.jpg"
       },
       "D": null,
-      "E": null,
+      "E": "Adventure, Puzzle",
       "F": 8.0,
-      "G": null,
-      "H": "SWITCH"
-    },
-    {
-      "A": "The Legend of Zelda: Breath of the Wild",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/79189-the-legend-of-zelda:-breath-of-the-wild",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/79189-the-legend-of-zelda:-breath-of-the-wild",
-        "imageURL": "https://images.launchbox-app.com//b271982b-9abb-4da0-96ef-0942786ab29e.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 1.0,
-      "G": null,
-      "H": "SWITCH"
-    },
-    {
-      "A": "Deltarune",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/425595-deltarune",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/425595-deltarune",
-        "imageURL": "https://images.launchbox-app.com//3ff2149b-9887-4c7e-b381-e0deb5cad41c.png"
-      },
-      "D": null,
-      "E": null,
-      "F": "No information available",
       "G": null,
       "H": "SWITCH"
     },
@@ -5761,118 +5733,6 @@
       "D": null,
       "E": null,
       "F": 12.0,
-      "G": null,
-      "H": "SWITCH"
-    },
-    {
-      "A": "Kirby Star Allies",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/96622-kirby-star-allies",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/96622-kirby-star-allies",
-        "imageURL": "https://images.launchbox-app.com//357b32aa-c533-499a-bf4d-c69d48bf1742.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 4.0,
-      "G": null,
-      "H": "SWITCH"
-    },
-    {
-      "A": "Super Kirby Clash",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/130330-super-kirby-clash",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/130330-super-kirby-clash",
-        "imageURL": "https://images.launchbox-app.com//3b49cf10-65ef-40ad-ae71-3a08a140cd52.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 4.0,
-      "G": null,
-      "H": "SWITCH"
-    },
-    {
-      "A": "Kirby Fighters 2",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/141162-kirby-fighters-2",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/141162-kirby-fighters-2",
-        "imageURL": "https://images.launchbox-app.com//7b5d8dad-b3a9-4209-b5f3-039fddc80c77.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 4.0,
-      "G": null,
-      "H": "SWITCH"
-    },
-    {
-      "A": "Kirby and the Forgotten Land",
-      "B": "Kirby y la Tierra Olvidada",
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/155485-kirby-and-the-forgotten-land",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/155485-kirby-and-the-forgotten-land",
-        "imageURL": "https://images.launchbox-app.com//b3db8672-b68b-447a-9757-1fa6ac6c5b46.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 2.0,
-      "G": null,
-      "H": "SWITCH"
-    },
-    {
-      "A": "Kirby's Return to Dream Land Deluxe",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/165520-kirbys-return-to-dream-land-deluxe",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/165520-kirbys-return-to-dream-land-deluxe",
-        "imageURL": "https://images.launchbox-app.com//a213976c-1ada-4d7c-9719-0c02cf05f859.png"
-      },
-      "D": null,
-      "E": null,
-      "F": 4.0,
-      "G": null,
-      "H": "SWITCH"
-    },
-    {
-      "A": "Luigi’s Mansion 2 HD",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/421269-luigis-mansion-2-hd",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/421269-luigis-mansion-2-hd",
-        "imageURL": "https://gamesdb-images.launchbox.gg/r2_3ad64a1e-0995-4c63-a110-7a5e511d3b77.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 4.0,
-      "G": null,
-      "H": "SWITCH"
-    },
-    {
-      "A": "Luigi's Mansion 3",
-      "B": "Luigi Mansion 3",
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/121964-luigis-mansion-3",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/121964-luigis-mansion-3",
-        "imageURL": "https://images.launchbox-app.com//a14d6275-3ca2-41fb-8969-7d98d338eb58.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 8.0,
-      "G": null,
-      "H": "SWITCH"
-    },
-    {
-      "A": "Super Mario Maker 2",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/116418-super-mario-maker-2",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/116418-super-mario-maker-2",
-        "imageURL": "https://images.launchbox-app.com//a3bfa698-f5e0-4c2d-8a2a-08e6b2aa26c0.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 4.0,
       "G": null,
       "H": "SWITCH"
     },
@@ -5919,20 +5779,6 @@
       "H": "SWITCH"
     },
     {
-      "A": "Octopath Traveler II",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/169504-octopath-traveler-ii",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/169504-octopath-traveler-ii",
-        "imageURL": "https://images.launchbox-app.com//5c8c4e98-5720-4a7b-b85e-d502f3115fc2.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 1.0,
-      "G": null,
-      "H": "SWITCH"
-    },
-    {
       "A": "Octopath Traveler",
       "B": null,
       "C": {
@@ -5947,26 +5793,26 @@
       "H": "SWITCH"
     },
     {
+      "A": "Octopath Traveler II",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/169504-octopath-traveler-ii",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/169504-octopath-traveler-ii",
+        "imageURL": "https://images.launchbox-app.com//5c8c4e98-5720-4a7b-b85e-d502f3115fc2.jpg"
+      },
+      "D": null,
+      "E": null,
+      "F": 1.0,
+      "G": null,
+      "H": "SWITCH"
+    },
+    {
       "A": "Pikmin 4",
       "B": null,
       "C": {
         "text": "https://gamesdb.launchbox-app.com/games/details/165521-pikmin-4",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/165521-pikmin-4",
         "imageURL": "https://images.launchbox-app.com//003bf035-d0ff-4c8c-8933-584d0a2eeac0.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 2.0,
-      "G": null,
-      "H": "SWITCH"
-    },
-    {
-      "A": "Super Mario Odyssey",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/86132-super-mario-odyssey",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/86132-super-mario-odyssey",
-        "imageURL": "https://images.launchbox-app.com//ce7ff1ee-4a5c-470d-8e73-996da7da84a2.jpg"
       },
       "D": null,
       "E": null,
@@ -6003,6 +5849,90 @@
       "H": "SWITCH"
     },
     {
+      "A": "Super Kirby Clash",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/130330-super-kirby-clash",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/130330-super-kirby-clash",
+        "imageURL": "https://images.launchbox-app.com//3b49cf10-65ef-40ad-ae71-3a08a140cd52.jpg"
+      },
+      "D": null,
+      "E": null,
+      "F": 4.0,
+      "G": null,
+      "H": "SWITCH"
+    },
+    {
+      "A": "Super Mario 3D World + Bowser's Fury",
+      "B": "Super Mario 3D World Bowsers Fury",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/145306-super-mario-3d-world-bowsers-fury",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/145306-super-mario-3d-world-bowsers-fury",
+        "imageURL": "https://images.launchbox-app.com//0b9b956b-f43e-4eb2-9f91-f827e4deb1d3.jpg"
+      },
+      "D": null,
+      "E": null,
+      "F": 4.0,
+      "G": null,
+      "H": "SWITCH"
+    },
+    {
+      "A": "Super Mario Bros. Wonder",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/371985-super-mario-bros-wonder",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/371985-super-mario-bros-wonder",
+        "imageURL": "https://images.launchbox-app.com//acc8ff81-396a-499f-8e74-826b30525e6f.jpg"
+      },
+      "D": null,
+      "E": null,
+      "F": 4.0,
+      "G": null,
+      "H": "SWITCH"
+    },
+    {
+      "A": "Super Mario Maker 2",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/116418-super-mario-maker-2",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/116418-super-mario-maker-2",
+        "imageURL": "https://images.launchbox-app.com//a3bfa698-f5e0-4c2d-8a2a-08e6b2aa26c0.jpg"
+      },
+      "D": null,
+      "E": null,
+      "F": 4.0,
+      "G": null,
+      "H": "SWITCH"
+    },
+    {
+      "A": "Super Mario Odyssey",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/86132-super-mario-odyssey",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/86132-super-mario-odyssey",
+        "imageURL": "https://images.launchbox-app.com//ce7ff1ee-4a5c-470d-8e73-996da7da84a2.jpg"
+      },
+      "D": null,
+      "E": null,
+      "F": 2.0,
+      "G": null,
+      "H": "SWITCH"
+    },
+    {
+      "A": "The Legend of Zelda: Breath of the Wild",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/79189-the-legend-of-zelda:-breath-of-the-wild",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/79189-the-legend-of-zelda:-breath-of-the-wild",
+        "imageURL": "https://images.launchbox-app.com//b271982b-9abb-4da0-96ef-0942786ab29e.jpg"
+      },
+      "D": null,
+      "E": null,
+      "F": 1.0,
+      "G": null,
+      "H": "SWITCH"
+    },
+    {
       "A": "The Legend of Zelda: Tears of the Kingdom",
       "B": null,
       "C": {
@@ -6017,62 +5947,72 @@
       "H": "SWITCH"
     },
     {
-      "A": null,
+      "A": "Undertale",
       "B": null,
-      "C": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/113021-undertale",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/113021-undertale",
+        "imageURL": "https://images.launchbox-app.com//c3fa6462-02f5-49e3-8afd-a378381539c4.png"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 1.0,
       "G": null,
       "H": "SWITCH"
     },
     {
-      "A": null,
-      "B": null,
-      "C": null,
+      "A": "Xenoblade Chronicles 2",
+      "B": "Xenoblade 2",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/86619-xenoblade-chronicles-2",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/86619-xenoblade-chronicles-2",
+        "imageURL": "https://images.launchbox-app.com//51f5b3f1-7edf-4034-a600-9c0e959a7c40.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 1.0,
       "G": null,
       "H": "SWITCH"
     },
     {
-      "A": null,
+      "A": "Xenoblade Chronicles 3",
       "B": null,
-      "C": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/163371-xenoblade-chronicles-3",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/163371-xenoblade-chronicles-3",
+        "imageURL": "https://images.launchbox-app.com//49811b28-a83c-4697-95b9-3e2a4baab324.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 1.0,
       "G": null,
       "H": "SWITCH"
     },
     {
-      "A": null,
-      "B": null,
-      "C": null,
+      "A": "Xenoblade Chronicles X: Definitive Edition",
+      "B": "Xenoblade X: Definitive Edition",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/422152-xenoblade-chronicles-x-definitive-edition",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/422152-xenoblade-chronicles-x-definitive-edition",
+        "imageURL": "https://images.launchbox-app.com//ca7776c9-5976-4573-9fce-7c782262abea.png"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 32.0,
       "G": null,
       "H": "SWITCH"
     },
     {
-      "A": null,
+      "A": "Xenoblade Chronicles: Definitive Edition",
       "B": null,
-      "C": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/130288-xenoblade-chronicles-definitive-edition",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/130288-xenoblade-chronicles-definitive-edition",
+        "imageURL": "https://images.launchbox-app.com//6c2da3a3-2aca-49c5-8dbc-ebc3b6aaf381.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
-      "G": null,
-      "H": "SWITCH"
-    },
-    {
-      "A": null,
-      "B": null,
-      "C": null,
-      "D": null,
-      "E": null,
-      "F": null,
+      "F": 1.0,
       "G": null,
       "H": "SWITCH"
     },
@@ -54679,6 +54619,90 @@
       "F": 2.0,
       "G": "RUNNING",
       "H": "WII U"
+    },
+    {
+      "A": "Animal Crossing: New Horizons",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/116313-animal-crossing-new-horizons",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/116313-animal-crossing-new-horizons",
+        "imageURL": "https://images.launchbox-app.com//a8c224b2-cfec-436c-81e8-23b40da3a7d8.jpg"
+      },
+      "D": null,
+      "E": "Simulator",
+      "F": 8.0,
+      "G": "RUNNING",
+      "H": "SWITCH"
+    },
+    {
+      "A": "Deltarune",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/425595-deltarune",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/425595-deltarune",
+        "imageURL": "https://images.launchbox-app.com//3ff2149b-9887-4c7e-b381-e0deb5cad41c.png"
+      },
+      "D": null,
+      "E": "Adventure, RPG",
+      "F": 1.0,
+      "G": "RUNNING",
+      "H": "SWITCH"
+    },
+    {
+      "A": "Kirby and the Forgotten Land",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/155485-kirby-and-the-forgotten-land",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/155485-kirby-and-the-forgotten-land",
+        "imageURL": "https://images.launchbox-app.com//b3db8672-b68b-447a-9757-1fa6ac6c5b46.jpg"
+      },
+      "D": null,
+      "E": "Platform, Co-op",
+      "F": 2.0,
+      "G": "RUNNING",
+      "H": "SWITCH"
+    },
+    {
+      "A": "Kirby Fighters 2",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/141162-kirby-fighters-2",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/141162-kirby-fighters-2",
+        "imageURL": "https://images.launchbox-app.com//7b5d8dad-b3a9-4209-b5f3-039fddc80c77.jpg"
+      },
+      "D": null,
+      "E": "2D Fighting, Platform, Co-op, Versus",
+      "F": 4.0,
+      "G": "RUNNING",
+      "H": "SWITCH"
+    },
+    {
+      "A": "Kirby Star Allies",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/96622-kirby-star-allies",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/96622-kirby-star-allies",
+        "imageURL": "https://images.launchbox-app.com//357b32aa-c533-499a-bf4d-c69d48bf1742.jpg"
+      },
+      "D": null,
+      "E": "Platform, Co-op, Versus, Party",
+      "F": 4.0,
+      "G": "RUNNING",
+      "H": "SWITCH"
+    },
+    {
+      "A": "Kirby's Return to Dream Land Deluxe",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/165520-kirbys-return-to-dream-land-deluxe",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/165520-kirbys-return-to-dream-land-deluxe",
+        "imageURL": "https://images.launchbox-app.com//a213976c-1ada-4d7c-9719-0c02cf05f859.png"
+      },
+      "D": null,
+      "E": "Platform, Co-op, Versus, Party",
+      "F": 4.0,
+      "G": "RUNNING",
+      "H": "SWITCH"
     }
   ],
   "Systems": [
