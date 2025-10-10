@@ -5695,17 +5695,17 @@
       "H": "WII U"
     },
     {
-      "A": "Luigi’s Mansion 2 HD",
+      "A": "Deltarune",
       "B": null,
       "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/421269-luigis-mansion-2-hd",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/421269-luigis-mansion-2-hd",
-        "imageURL": "https://gamesdb-images.launchbox.gg/r2_3ad64a1e-0995-4c63-a110-7a5e511d3b77.jpg"
+        "text": "https://gamesdb.launchbox-app.com/games/details/425595-deltarune",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/425595-deltarune",
+        "imageURL": "https://images.launchbox-app.com//3ff2149b-9887-4c7e-b381-e0deb5cad41c.png"
       },
       "D": null,
-      "E": "Adventure, Puzzle",
-      "F": 4.0,
-      "G": null,
+      "E": "Adventure, RPG",
+      "F": 1.0,
+      "G": "ISSUE",
       "H": "SWITCH"
     },
     {
@@ -5719,35 +5719,7 @@
       "D": null,
       "E": "Adventure, Puzzle",
       "F": 8.0,
-      "G": null,
-      "H": "SWITCH"
-    },
-    {
-      "A": "Mario Kart 8 Deluxe",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/79188-mario-kart-8-deluxe",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/79188-mario-kart-8-deluxe",
-        "imageURL": "https://images.launchbox-app.com//f1c662f8-79f9-45f9-ad21-c57a93938e19.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 12.0,
-      "G": null,
-      "H": "SWITCH"
-    },
-    {
-      "A": "Metroid Dread",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/152670-metroid-dread",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/152670-metroid-dread",
-        "imageURL": "https://images.launchbox-app.com//a7c87ffe-d462-4b18-96de-d2f2c56a4ecb.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 1.0,
-      "G": null,
+      "G": "ISSUE",
       "H": "SWITCH"
     },
     {
@@ -54635,20 +54607,6 @@
       "H": "SWITCH"
     },
     {
-      "A": "Deltarune",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/425595-deltarune",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/425595-deltarune",
-        "imageURL": "https://images.launchbox-app.com//3ff2149b-9887-4c7e-b381-e0deb5cad41c.png"
-      },
-      "D": null,
-      "E": "Adventure, RPG",
-      "F": 1.0,
-      "G": "RUNNING",
-      "H": "SWITCH"
-    },
-    {
       "A": "Kirby and the Forgotten Land",
       "B": null,
       "C": {
@@ -54701,6 +54659,48 @@
       "D": null,
       "E": "Platform, Co-op, Versus, Party",
       "F": 4.0,
+      "G": "RUNNING",
+      "H": "SWITCH"
+    },
+    {
+      "A": "Luigi’s Mansion 2 HD",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/421269-luigis-mansion-2-hd",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/421269-luigis-mansion-2-hd",
+        "imageURL": "https://gamesdb-images.launchbox.gg/r2_3ad64a1e-0995-4c63-a110-7a5e511d3b77.jpg"
+      },
+      "D": null,
+      "E": "Adventure, Puzzle",
+      "F": 4.0,
+      "G": "RUNNING",
+      "H": "SWITCH"
+    },
+    {
+      "A": "Mario Kart 8 Deluxe",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/79188-mario-kart-8-deluxe",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/79188-mario-kart-8-deluxe",
+        "imageURL": "https://images.launchbox-app.com//f1c662f8-79f9-45f9-ad21-c57a93938e19.jpg"
+      },
+      "D": null,
+      "E": "Driving, Racing, Co-op, Versus",
+      "F": 12.0,
+      "G": "RUNNING",
+      "H": "SWITCH"
+    },
+    {
+      "A": "Metroid Dread",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/152670-metroid-dread",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/152670-metroid-dread",
+        "imageURL": "https://images.launchbox-app.com//a7c87ffe-d462-4b18-96de-d2f2c56a4ecb.jpg"
+      },
+      "D": null,
+      "E": "Adventure, Platform, Shooter",
+      "F": 1.0,
       "G": "RUNNING",
       "H": "SWITCH"
     }
