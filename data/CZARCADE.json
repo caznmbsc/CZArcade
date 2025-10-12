@@ -5759,21 +5759,7 @@
         "imageURL": "https://images.launchbox-app.com//b271982b-9abb-4da0-96ef-0942786ab29e.jpg"
       },
       "D": null,
-      "E": null,
-      "F": 1.0,
-      "G": null,
-      "H": "SWITCH"
-    },
-    {
-      "A": "The Legend of Zelda: Tears of the Kingdom",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/165519-the-legend-of-zelda-tears-of-the-kingdom",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/165519-the-legend-of-zelda-tears-of-the-kingdom",
-        "imageURL": "https://images.launchbox-app.com//857ffcf4-d205-48f1-8ff5-99765900af10.jpg"
-      },
-      "D": null,
-      "E": null,
+      "E": "Adventure, Hack and Slash, Puzzle, RPG",
       "F": 1.0,
       "G": null,
       "H": "SWITCH"
@@ -54635,6 +54621,20 @@
       "D": null,
       "E": "Platform, Adventure, Co-op",
       "F": 2.0,
+      "G": "RUNNING",
+      "H": "SWITCH"
+    },
+    {
+      "A": "The Legend of Zelda: Tears of the Kingdom",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/165519-the-legend-of-zelda-tears-of-the-kingdom",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/165519-the-legend-of-zelda-tears-of-the-kingdom",
+        "imageURL": "https://images.launchbox-app.com//857ffcf4-d205-48f1-8ff5-99765900af10.jpg"
+      },
+      "D": null,
+      "E": "Adventure, Hack and Slash, Puzzle, RPG",
+      "F": 1.0,
       "G": "RUNNING",
       "H": "SWITCH"
     },
