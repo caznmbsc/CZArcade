@@ -5737,34 +5737,6 @@
       "H": "SWITCH"
     },
     {
-      "A": "Octopath Traveler",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/103435-octopath-traveler",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/103435-octopath-traveler",
-        "imageURL": "https://images.launchbox-app.com//a090f19c-3edb-4772-b0d4-76dfa28dfa4f.png"
-      },
-      "D": null,
-      "E": "Adventure, RPG",
-      "F": 1.0,
-      "G": null,
-      "H": "SWITCH"
-    },
-    {
-      "A": "Octopath Traveler II",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/169504-octopath-traveler-ii",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/169504-octopath-traveler-ii",
-        "imageURL": "https://images.launchbox-app.com//5c8c4e98-5720-4a7b-b85e-d502f3115fc2.jpg"
-      },
-      "D": null,
-      "E": "Adventure, RPG",
-      "F": 1.0,
-      "G": null,
-      "H": "SWITCH"
-    },
-    {
       "A": "Pikmin 4",
       "B": null,
       "C": {
@@ -5957,20 +5929,6 @@
       "D": null,
       "E": null,
       "F": 1.0,
-      "G": null,
-      "H": "SWITCH"
-    },
-    {
-      "A": "Pikmin 3 Deluxe",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/142940-pikmin-3-deluxe",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/142940-pikmin-3-deluxe",
-        "imageURL": "https://images.launchbox-app.com//bad81910-b4a2-4a47-ac47-5a3b63105823.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 2.0,
       "G": null,
       "H": "SWITCH"
     },
@@ -54691,6 +54649,48 @@
       "D": null,
       "E": "Platform, Co-op, Versus",
       "F": 5.0,
+      "G": "RUNNING",
+      "H": "SWITCH"
+    },
+    {
+      "A": "Octopath Traveler",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/103435-octopath-traveler",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/103435-octopath-traveler",
+        "imageURL": "https://images.launchbox-app.com//a090f19c-3edb-4772-b0d4-76dfa28dfa4f.png"
+      },
+      "D": null,
+      "E": "Adventure, RPG",
+      "F": 1.0,
+      "G": "RUNNING",
+      "H": "SWITCH"
+    },
+    {
+      "A": "Octopath Traveler II",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/169504-octopath-traveler-ii",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/169504-octopath-traveler-ii",
+        "imageURL": "https://images.launchbox-app.com//5c8c4e98-5720-4a7b-b85e-d502f3115fc2.jpg"
+      },
+      "D": null,
+      "E": "Adventure, RPG",
+      "F": 1.0,
+      "G": "RUNNING",
+      "H": "SWITCH"
+    },
+    {
+      "A": "Pikmin 3 Deluxe",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/142940-pikmin-3-deluxe",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/142940-pikmin-3-deluxe",
+        "imageURL": "https://images.launchbox-app.com//bad81910-b4a2-4a47-ac47-5a3b63105823.jpg"
+      },
+      "D": null,
+      "E": "Adventure, Puzzle, Strategy, Co-op, Versus",
+      "F": 2.0,
       "G": "RUNNING",
       "H": "SWITCH"
     },
