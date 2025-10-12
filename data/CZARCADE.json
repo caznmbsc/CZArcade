@@ -5751,20 +5751,6 @@
       "H": "SWITCH"
     },
     {
-      "A": "The Legend of Zelda: Breath of the Wild",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/79189-the-legend-of-zelda:-breath-of-the-wild",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/79189-the-legend-of-zelda:-breath-of-the-wild",
-        "imageURL": "https://images.launchbox-app.com//b271982b-9abb-4da0-96ef-0942786ab29e.jpg"
-      },
-      "D": null,
-      "E": "Adventure, Hack and Slash, Puzzle, RPG",
-      "F": 1.0,
-      "G": null,
-      "H": "SWITCH"
-    },
-    {
       "A": null,
       "B": null,
       "C": null,
@@ -52194,7 +52180,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/2622-viewtiful-joe",
-        "imageURL": "https://images.launchbox-app.com//e5aa72f3-a716-4475-b5ee-a75e08789d77.png"
+        "imageURL": "https://gamesdb-images.launchbox.gg/r2_ba300102-5569-41ae-8683-5512afca7f72.jpg"
       },
       "D": "English",
       "E": "Beat'em Up, Platform",
@@ -54621,6 +54607,20 @@
       "D": null,
       "E": "Platform, Adventure, Co-op",
       "F": 2.0,
+      "G": "RUNNING",
+      "H": "SWITCH"
+    },
+    {
+      "A": "The Legend of Zelda: Breath of the Wild",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/79189-the-legend-of-zelda:-breath-of-the-wild",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/79189-the-legend-of-zelda:-breath-of-the-wild",
+        "imageURL": "https://images.launchbox-app.com//b271982b-9abb-4da0-96ef-0942786ab29e.jpg"
+      },
+      "D": null,
+      "E": "Adventure, Hack and Slash, Puzzle, RPG",
+      "F": 1.0,
       "G": "RUNNING",
       "H": "SWITCH"
     },
