@@ -5731,9 +5731,9 @@
         "imageURL": "https://images.launchbox-app.com//c6a0deab-ec11-4815-a128-fd8b712c1c5f.jpg"
       },
       "D": null,
-      "E": null,
+      "E": "Adventure, RPG, Hack and Slash",
       "F": 4.0,
-      "G": null,
+      "G": "ISSUE",
       "H": "SWITCH"
     },
     {
@@ -5961,12 +5961,16 @@
       "H": "SWITCH"
     },
     {
-      "A": null,
+      "A": "Pikmin 3 Deluxe",
       "B": null,
-      "C": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/142940-pikmin-3-deluxe",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/142940-pikmin-3-deluxe",
+        "imageURL": "https://images.launchbox-app.com//bad81910-b4a2-4a47-ac47-5a3b63105823.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 2.0,
       "G": null,
       "H": "SWITCH"
     },
