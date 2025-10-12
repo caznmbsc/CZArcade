@@ -5751,34 +5751,6 @@
       "H": "SWITCH"
     },
     {
-      "A": "Super Mario Maker 2",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/116418-super-mario-maker-2",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/116418-super-mario-maker-2",
-        "imageURL": "https://images.launchbox-app.com//a3bfa698-f5e0-4c2d-8a2a-08e6b2aa26c0.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 4.0,
-      "G": null,
-      "H": "SWITCH"
-    },
-    {
-      "A": "Super Mario Odyssey",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/86132-super-mario-odyssey",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/86132-super-mario-odyssey",
-        "imageURL": "https://images.launchbox-app.com//ce7ff1ee-4a5c-470d-8e73-996da7da84a2.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 2.0,
-      "G": null,
-      "H": "SWITCH"
-    },
-    {
       "A": "The Legend of Zelda: Breath of the Wild",
       "B": null,
       "C": {
@@ -54705,6 +54677,34 @@
       "D": null,
       "E": "Platform, Co-op",
       "F": 4.0,
+      "G": "RUNNING",
+      "H": "SWITCH"
+    },
+    {
+      "A": "Super Mario Maker 2",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/116418-super-mario-maker-2",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/116418-super-mario-maker-2",
+        "imageURL": "https://images.launchbox-app.com//a3bfa698-f5e0-4c2d-8a2a-08e6b2aa26c0.jpg"
+      },
+      "D": null,
+      "E": "Platform, Co-op, Versus",
+      "F": 4.0,
+      "G": "RUNNING",
+      "H": "SWITCH"
+    },
+    {
+      "A": "Super Mario Odyssey",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/86132-super-mario-odyssey",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/86132-super-mario-odyssey",
+        "imageURL": "https://images.launchbox-app.com//ce7ff1ee-4a5c-470d-8e73-996da7da84a2.jpg"
+      },
+      "D": null,
+      "E": "Platform, Adventure, Co-op",
+      "F": 2.0,
       "G": "RUNNING",
       "H": "SWITCH"
     }
