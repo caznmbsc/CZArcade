@@ -5737,20 +5737,6 @@
       "H": "SWITCH"
     },
     {
-      "A": "Pikmin 4",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/165521-pikmin-4",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/165521-pikmin-4",
-        "imageURL": "https://images.launchbox-app.com//003bf035-d0ff-4c8c-8933-584d0a2eeac0.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 2.0,
-      "G": null,
-      "H": "SWITCH"
-    },
-    {
       "A": "Splatoon 2",
       "B": null,
       "C": {
@@ -54687,6 +54673,20 @@
         "text": "https://gamesdb.launchbox-app.com/games/details/142940-pikmin-3-deluxe",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/142940-pikmin-3-deluxe",
         "imageURL": "https://images.launchbox-app.com//bad81910-b4a2-4a47-ac47-5a3b63105823.jpg"
+      },
+      "D": null,
+      "E": "Adventure, Puzzle, Strategy, Co-op, Versus",
+      "F": 2.0,
+      "G": "RUNNING",
+      "H": "SWITCH"
+    },
+    {
+      "A": "Pikmin 4",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/165521-pikmin-4",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/165521-pikmin-4",
+        "imageURL": "https://images.launchbox-app.com//003bf035-d0ff-4c8c-8933-584d0a2eeac0.jpg"
       },
       "D": null,
       "E": "Adventure, Puzzle, Strategy, Co-op, Versus",
