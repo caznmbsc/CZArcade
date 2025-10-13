@@ -5737,20 +5737,6 @@
       "H": "SWITCH"
     },
     {
-      "A": "Splatoon 3",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/152708-splatoon-3",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/152708-splatoon-3",
-        "imageURL": "https://images.launchbox-app.com//5cee2a08-4649-40a9-a705-023c2536fa53.jpg"
-      },
-      "D": null,
-      "E": "Shooter, Party",
-      "F": 8.0,
-      "G": null,
-      "H": "SWITCH"
-    },
-    {
       "A": null,
       "B": null,
       "C": null,
@@ -54533,6 +54519,20 @@
         "text": "https://gamesdb.launchbox-app.com/games/details/82678-splatoon-2",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/82678-splatoon-2",
         "imageURL": "https://images.launchbox-app.com//95182eed-fabb-4f98-96d8-066ea1b058ae.jpg"
+      },
+      "D": null,
+      "E": "Shooter, Party",
+      "F": 8.0,
+      "G": "RUNNING",
+      "H": "SWITCH"
+    },
+    {
+      "A": "Splatoon 3",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/152708-splatoon-3",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/152708-splatoon-3",
+        "imageURL": "https://images.launchbox-app.com//5cee2a08-4649-40a9-a705-023c2536fa53.jpg"
       },
       "D": null,
       "E": "Shooter, Party",
