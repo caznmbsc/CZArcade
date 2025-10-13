@@ -5737,6 +5737,34 @@
       "H": "SWITCH"
     },
     {
+      "A": "Undertale",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/113021-undertale",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/113021-undertale",
+        "imageURL": "https://images.launchbox-app.com//c3fa6462-02f5-49e3-8afd-a378381539c4.png"
+      },
+      "D": null,
+      "E": "Adventure, RPG",
+      "F": 1.0,
+      "G": "ISSUE",
+      "H": "SWITCH"
+    },
+    {
+      "A": "Xenoblade Chronicles X: Definitive Edition",
+      "B": "Xenoblade X: Definitive Edition",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/422152-xenoblade-chronicles-x-definitive-edition",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/422152-xenoblade-chronicles-x-definitive-edition",
+        "imageURL": "https://images.launchbox-app.com//ca7776c9-5976-4573-9fce-7c782262abea.png"
+      },
+      "D": null,
+      "E": "Adventure, RPG",
+      "F": 32.0,
+      "G": "ISSUE",
+      "H": "SWITCH"
+    },
+    {
       "A": null,
       "B": null,
       "C": null,
@@ -54639,20 +54667,6 @@
       "H": "SWITCH"
     },
     {
-      "A": "Undertale",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/113021-undertale",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/113021-undertale",
-        "imageURL": "https://images.launchbox-app.com//c3fa6462-02f5-49e3-8afd-a378381539c4.png"
-      },
-      "D": null,
-      "E": null,
-      "F": 1.0,
-      "G": "RUNNING",
-      "H": "SWITCH"
-    },
-    {
       "A": "Xenoblade Chronicles 2",
       "B": "Xenoblade 2",
       "C": {
@@ -54677,20 +54691,6 @@
       "D": null,
       "E": "Adventure, RPG",
       "F": 1.0,
-      "G": "RUNNING",
-      "H": "SWITCH"
-    },
-    {
-      "A": "Xenoblade Chronicles X: Definitive Edition",
-      "B": "Xenoblade X: Definitive Edition",
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/422152-xenoblade-chronicles-x-definitive-edition",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/422152-xenoblade-chronicles-x-definitive-edition",
-        "imageURL": "https://images.launchbox-app.com//ca7776c9-5976-4573-9fce-7c782262abea.png"
-      },
-      "D": null,
-      "E": "Adventure, RPG",
-      "F": 32.0,
       "G": "RUNNING",
       "H": "SWITCH"
     },
