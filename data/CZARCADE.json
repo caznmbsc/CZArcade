@@ -5737,62 +5737,6 @@
       "H": "SWITCH"
     },
     {
-      "A": "Fire Emblem Warriors",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/85254-fire-emblem-warriors",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/85254-fire-emblem-warriors",
-        "imageURL": "https://images.launchbox-app.com//3d27005c-f0a4-4a8b-9c3f-061bc1c45c24.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 2.0,
-      "G": null,
-      "H": "SWITCH"
-    },
-    {
-      "A": "Fire Emblem Warriors: Three Hopes",
-      "B": "Fire Emblem Musou Fuuka Setsugetsu",
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/159309-fire-emblem-warriors-three-hopes",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/159309-fire-emblem-warriors-three-hopes",
-        "imageURL": "https://images.launchbox-app.com//77b81c26-8b7d-42ce-8a7c-c865021836d7.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 2.0,
-      "G": null,
-      "H": "SWITCH"
-    },
-    {
-      "A": "Fire Emblem: Three Houses",
-      "B": "Fire Emblem: Fuuka Setsugetsu",
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/117709-fire-emblem-three-houses",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/117709-fire-emblem-three-houses",
-        "imageURL": "https://images.launchbox-app.com//a4407c75-c0b1-470a-874d-b416d77fdcd3.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 1.0,
-      "G": null,
-      "H": "SWITCH"
-    },
-    {
-      "A": "Hyrule Warriors: Age of Calamity",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/139846-hyrule-warriors-age-of-calamity",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/139846-hyrule-warriors-age-of-calamity",
-        "imageURL": "https://images.launchbox-app.com//f3595fb2-e6ce-447f-a11c-d722cfdf0370.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 2.0,
-      "G": null,
-      "H": "SWITCH"
-    },
-    {
       "A": "Luigi's Mansion 3",
       "B": null,
       "C": {
@@ -5804,20 +5748,6 @@
       "E": "Adventure, Puzzle",
       "F": 8.0,
       "G": "REMOVED",
-      "H": "SWITCH"
-    },
-    {
-      "A": "Mario Party Superstars",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/152671-mario-party-superstars",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/152671-mario-party-superstars",
-        "imageURL": "https://images.launchbox-app.com//276ed90a-d3bd-46b6-9426-962bd120f3d8.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 4.0,
-      "G": null,
       "H": "SWITCH"
     },
     {
@@ -6053,7 +5983,7 @@
         "imageURL": "https://images.launchbox-app.com//36efb6e8-dc97-4b69-892e-a4104118f37d.jpg"
       },
       "D": null,
-      "E": null,
+      "E": "Party, Versus",
       "F": 4.0,
       "G": null,
       "H": "SWITCH"
@@ -55489,6 +55419,62 @@
       "H": "SWITCH"
     },
     {
+      "A": "Fire Emblem Warriors",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/85254-fire-emblem-warriors",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/85254-fire-emblem-warriors",
+        "imageURL": "https://images.launchbox-app.com//3d27005c-f0a4-4a8b-9c3f-061bc1c45c24.jpg"
+      },
+      "D": null,
+      "E": "Hack and Slash, Beat'em Up, Co-op",
+      "F": 2.0,
+      "G": "RUNNING",
+      "H": "SWITCH"
+    },
+    {
+      "A": "Fire Emblem Warriors: Three Hopes",
+      "B": "Fire Emblem Musou Fuuka Setsugetsu",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/159309-fire-emblem-warriors-three-hopes",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/159309-fire-emblem-warriors-three-hopes",
+        "imageURL": "https://images.launchbox-app.com//77b81c26-8b7d-42ce-8a7c-c865021836d7.jpg"
+      },
+      "D": null,
+      "E": "Hack and Slash, Beat'em Up, Co-op",
+      "F": 2.0,
+      "G": "RUNNING",
+      "H": "SWITCH"
+    },
+    {
+      "A": "Fire Emblem: Three Houses",
+      "B": "Fire Emblem: Fuuka Setsugetsu",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/117709-fire-emblem-three-houses",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/117709-fire-emblem-three-houses",
+        "imageURL": "https://images.launchbox-app.com//a4407c75-c0b1-470a-874d-b416d77fdcd3.jpg"
+      },
+      "D": null,
+      "E": "RPG, Strategy",
+      "F": 1.0,
+      "G": "RUNNING",
+      "H": "SWITCH"
+    },
+    {
+      "A": "Hyrule Warriors: Age of Calamity",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/139846-hyrule-warriors-age-of-calamity",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/139846-hyrule-warriors-age-of-calamity",
+        "imageURL": "https://images.launchbox-app.com//f3595fb2-e6ce-447f-a11c-d722cfdf0370.jpg"
+      },
+      "D": null,
+      "E": "Beat'em Up, Hack and Slash, Co-op",
+      "F": 2.0,
+      "G": "RUNNING",
+      "H": "SWITCH"
+    },
+    {
       "A": "Kirby and the Forgotten Land",
       "B": null,
       "C": {
@@ -55569,6 +55555,20 @@
       "D": null,
       "E": "Driving, Racing, Co-op, Versus",
       "F": 12.0,
+      "G": "RUNNING",
+      "H": "SWITCH"
+    },
+    {
+      "A": "Mario Party Superstars",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/152671-mario-party-superstars",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/152671-mario-party-superstars",
+        "imageURL": "https://images.launchbox-app.com//276ed90a-d3bd-46b6-9426-962bd120f3d8.jpg"
+      },
+      "D": null,
+      "E": "Party, Versus",
+      "F": 4.0,
       "G": "RUNNING",
       "H": "SWITCH"
     },
