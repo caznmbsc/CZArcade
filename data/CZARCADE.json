@@ -5793,262 +5793,366 @@
       "H": "SWITCH"
     },
     {
-      "A": null,
-      "B": null,
-      "C": null,
+      "A": "Pokémon Legends: Arceus",
+      "B": "Pokemon Legends: Arceus",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/149982-pokmon-legends-arceus",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/149982-pokmon-legends-arceus",
+        "imageURL": "https://images.launchbox-app.com//5d3ee02e-1365-49c0-ab0d-3318d744833c.png"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 1.0,
       "G": null,
       "H": "SWITCH"
     },
     {
-      "A": null,
-      "B": null,
-      "C": null,
+      "A": "Bayonetta 3",
+      "B": "Bayonetta 3 (Switch)",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/166538-bayonetta-3",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/166538-bayonetta-3",
+        "imageURL": "https://images.launchbox-app.com//dc69d073-80ae-4b0d-92b2-02597e4b0827.png"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 1.0,
       "G": null,
       "H": "SWITCH"
     },
     {
-      "A": null,
-      "B": null,
-      "C": null,
+      "A": "Pokémon Brilliant Diamond",
+      "B": "Pocket Monsters Brilliant Diamond, Pokemon Brilliant Diamond",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/150705-pokmon-brilliant-diamond",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/150705-pokmon-brilliant-diamond",
+        "imageURL": "https://images.launchbox-app.com//0dcbf9b3-3bb1-491a-aab4-87fdce3c90b1.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 1.0,
       "G": null,
       "H": "SWITCH"
     },
     {
-      "A": null,
-      "B": null,
-      "C": null,
+      "A": "Pokémon Shining Pearl",
+      "B": "Pocket Monsters Shining Pearl, Pokemon Shining Pearl",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/150707-pokmon-shining-pearl",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/150707-pokmon-shining-pearl",
+        "imageURL": "https://images.launchbox-app.com//1798242e-0cf3-4af5-a8cf-2eb3f8b3ba6b.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 1.0,
       "G": null,
       "H": "SWITCH"
     },
     {
-      "A": null,
-      "B": null,
-      "C": null,
+      "A": "Pokémon: Let's Go, Eevee!",
+      "B": "Pokemon Let's Go, Eevee!, Pokemon: Let's Go, Eevee!",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/107865-pokmon-lets-go-eevee",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/107865-pokmon-lets-go-eevee",
+        "imageURL": "https://images.launchbox-app.com//1e27e4f1-0638-4b16-86f8-54579c3ab027.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 2.0,
       "G": null,
       "H": "SWITCH"
     },
     {
-      "A": null,
-      "B": null,
-      "C": null,
+      "A": "Fire Emblem: Three Houses",
+      "B": "Fire Emblem: Fuuka Setsugetsu",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/117709-fire-emblem-three-houses",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/117709-fire-emblem-three-houses",
+        "imageURL": "https://images.launchbox-app.com//a4407c75-c0b1-470a-874d-b416d77fdcd3.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 1.0,
       "G": null,
       "H": "SWITCH"
     },
     {
-      "A": null,
+      "A": "Fire Emblem Engage",
       "B": null,
-      "C": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/168754-fire-emblem-engage",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/168754-fire-emblem-engage",
+        "imageURL": "https://images.launchbox-app.com//9bcb2b46-3fd4-48a3-94d7-939a1073d745.png"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 1.0,
       "G": null,
       "H": "SWITCH"
     },
     {
-      "A": null,
+      "A": "Fire Emblem Warriors",
       "B": null,
-      "C": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/85254-fire-emblem-warriors",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/85254-fire-emblem-warriors",
+        "imageURL": "https://images.launchbox-app.com//3d27005c-f0a4-4a8b-9c3f-061bc1c45c24.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 2.0,
       "G": null,
       "H": "SWITCH"
     },
     {
-      "A": null,
-      "B": null,
-      "C": null,
+      "A": "Fire Emblem Warriors: Three Hopes",
+      "B": "Fire Emblem Musou Fuuka Setsugetsu",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/159309-fire-emblem-warriors-three-hopes",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/159309-fire-emblem-warriors-three-hopes",
+        "imageURL": "https://images.launchbox-app.com//77b81c26-8b7d-42ce-8a7c-c865021836d7.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 2.0,
       "G": null,
       "H": "SWITCH"
     },
     {
-      "A": null,
+      "A": "A Hat in Time",
       "B": null,
-      "C": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/122570-a-hat-in-time",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/122570-a-hat-in-time",
+        "imageURL": "https://images.launchbox-app.com//878d83a2-cd88-4461-b5c0-de6a93382675.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 2.0,
       "G": null,
       "H": "SWITCH"
     },
     {
-      "A": null,
+      "A": "Hyrule Warriors: Age of Calamity",
       "B": null,
-      "C": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/139846-hyrule-warriors-age-of-calamity",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/139846-hyrule-warriors-age-of-calamity",
+        "imageURL": "https://images.launchbox-app.com//f3595fb2-e6ce-447f-a11c-d722cfdf0370.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 2.0,
       "G": null,
       "H": "SWITCH"
     },
     {
-      "A": null,
+      "A": "Pokémon: Let's Go, Pikachu!",
       "B": null,
-      "C": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/107867-pokmon-lets-go-pikachu",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/107867-pokmon-lets-go-pikachu",
+        "imageURL": "https://images.launchbox-app.com//1ce21a07-6ff4-4e25-867b-12490c15c953.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 2.0,
       "G": null,
       "H": "SWITCH"
     },
     {
-      "A": null,
+      "A": "Super Mario Party Jamboree",
       "B": null,
-      "C": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/415247-super-mario-party-jamboree",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/415247-super-mario-party-jamboree",
+        "imageURL": "https://images.launchbox-app.com//1be62b52-6079-4b41-8789-e65b2b58db5c.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 20.0,
       "G": null,
       "H": "SWITCH"
     },
     {
-      "A": null,
+      "A": "Mario Party Superstars",
       "B": null,
-      "C": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/152671-mario-party-superstars",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/152671-mario-party-superstars",
+        "imageURL": "https://images.launchbox-app.com//276ed90a-d3bd-46b6-9426-962bd120f3d8.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 4.0,
       "G": null,
       "H": "SWITCH"
     },
     {
-      "A": null,
+      "A": "Super Mario Party",
       "B": null,
-      "C": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/106264-super-mario-party",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/106264-super-mario-party",
+        "imageURL": "https://images.launchbox-app.com//36efb6e8-dc97-4b69-892e-a4104118f37d.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 4.0,
       "G": null,
       "H": "SWITCH"
     },
     {
-      "A": null,
-      "B": null,
-      "C": null,
+      "A": "P5S: Persona 5 Strikers",
+      "B": "Persona 5 Scramble: The Phantom Strikers, Persona 5 Strikers",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/130598-p5s-persona-5-strikers",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/130598-p5s-persona-5-strikers",
+        "imageURL": "https://images.launchbox-app.com//684e2ac0-2b9f-4f01-ade3-0df0bc02b52d.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": "No information available",
       "G": null,
       "H": "SWITCH"
     },
     {
-      "A": null,
+      "A": "Persona 5 Tactica",
       "B": null,
-      "C": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/374526-persona-5-tactica",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/374526-persona-5-tactica",
+        "imageURL": "https://images.launchbox-app.com//cc1d3fc1-4d25-41e0-909c-595d656447ee.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 1.0,
       "G": null,
       "H": "SWITCH"
     },
     {
-      "A": null,
-      "B": null,
-      "C": null,
+      "A": "Pokkén Tournament DX",
+      "B": "Pokken Tournament DX",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/82703-pokkn-tournament-dx",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/82703-pokkn-tournament-dx",
+        "imageURL": "https://images.launchbox-app.com//d5dc3823-9bd2-41d3-a339-2e2bcc74bc4f.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 2.0,
       "G": null,
       "H": "SWITCH"
     },
     {
-      "A": null,
-      "B": null,
-      "C": null,
+      "A": "Pokémon Scarlet",
+      "B": "Pokemon Scarlet",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/163312-pokmon-scarlet",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/163312-pokmon-scarlet",
+        "imageURL": "https://images.launchbox-app.com//39b31e97-9d67-4bd4-af92-661b659c6fff.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 4.0,
       "G": null,
       "H": "SWITCH"
     },
     {
-      "A": null,
-      "B": null,
-      "C": null,
+      "A": "Pokémon Violet",
+      "B": "Poketto Monsutaa Baioretto, Pokemon Violet",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/163315-pokmon-violet",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/163315-pokmon-violet",
+        "imageURL": "https://images.launchbox-app.com//2b19d3e7-48b9-4b3d-b036-068a8de35801.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 4.0,
       "G": null,
       "H": "SWITCH"
     },
     {
-      "A": null,
-      "B": null,
-      "C": null,
+      "A": "Pokémon Shield",
+      "B": "Pokemon Shield",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/122521-pokmon-shield",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/122521-pokmon-shield",
+        "imageURL": "https://images.launchbox-app.com//9b772303-a84f-4e09-b2f7-79fa9c71678a.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 4.0,
       "G": null,
       "H": "SWITCH"
     },
     {
-      "A": null,
-      "B": null,
-      "C": null,
+      "A": "Pokémon Sword",
+      "B": "Pokemon Sword, Pocket Monsters Sword",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/122520-pokmon-sword",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/122520-pokmon-sword",
+        "imageURL": "https://images.launchbox-app.com//b9b59fb8-1835-4e8a-9ecf-0115163afb48.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 4.0,
       "G": null,
       "H": "SWITCH"
     },
     {
-      "A": null,
+      "A": "Sonic Forces",
       "B": null,
-      "C": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/91343-sonic-forces",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/91343-sonic-forces",
+        "imageURL": "https://images.launchbox-app.com//689c6d9d-421f-4a4a-a1c7-6c504ba8e566.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": "No information available",
       "G": null,
       "H": "SWITCH"
     },
     {
-      "A": null,
-      "B": null,
-      "C": null,
+      "A": "Cadence of Hyrule: Crypt of the NecroDancer Featuring The Legend of Zelda",
+      "B": "Cadence of Hyrule",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/116378-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/116378-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda",
+        "imageURL": "https://images.launchbox-app.com//8d3d9ebb-57da-421c-aee8-0d51f3ab51f9.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 2.0,
       "G": null,
       "H": "SWITCH"
     },
     {
-      "A": null,
+      "A": "Shantae and the Seven Sirens",
       "B": null,
-      "C": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/131330-shantae-and-the-seven-sirens",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/131330-shantae-and-the-seven-sirens",
+        "imageURL": "https://images.launchbox-app.com//038a0292-8bfc-4a33-be7f-af08c61ad7a5.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 1.0,
       "G": null,
       "H": "SWITCH"
     },
     {
-      "A": null,
-      "B": null,
-      "C": null,
+      "A": "Pokémon Legends: Z-A",
+      "B": "Pokemon Leyendas: Z-A",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/392130-pokmon-legends-z-a",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/392130-pokmon-legends-z-a",
+        "imageURL": "https://gamesdb-images.launchbox.gg/r2_bdeae1ce-04a9-4df5-95a7-9537ec439603.jpg"
+      },
       "D": null,
       "E": null,
-      "F": null,
+      "F": 1.0,
       "G": null,
       "H": "SWITCH"
     },
