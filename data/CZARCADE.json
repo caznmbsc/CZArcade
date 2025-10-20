@@ -5723,20 +5723,6 @@
       "H": "SWITCH"
     },
     {
-      "A": "Cadence of Hyrule: Crypt of the NecroDancer Featuring The Legend of Zelda",
-      "B": "Cadence of Hyrule",
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/116378-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/116378-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda",
-        "imageURL": "https://images.launchbox-app.com//8d3d9ebb-57da-421c-aee8-0d51f3ab51f9.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 2.0,
-      "G": null,
-      "H": "SWITCH"
-    },
-    {
       "A": "Deltarune",
       "B": null,
       "C": {
@@ -5748,20 +5734,6 @@
       "E": "Adventure, RPG",
       "F": 1.0,
       "G": "ISSUE",
-      "H": "SWITCH"
-    },
-    {
-      "A": "Fire Emblem Engage",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/168754-fire-emblem-engage",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/168754-fire-emblem-engage",
-        "imageURL": "https://images.launchbox-app.com//9bcb2b46-3fd4-48a3-94d7-939a1073d745.png"
-      },
-      "D": null,
-      "E": null,
-      "F": 1.0,
-      "G": null,
       "H": "SWITCH"
     },
     {
@@ -6154,20 +6126,6 @@
       "E": "Adventure, RPG",
       "F": 32.0,
       "G": "ISSUE",
-      "H": "SWITCH"
-    },
-    {
-      "A": "Bayonetta Origins: Cereza and the Lost Demon",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/170032-bayonetta-origins-cereza-and-the-lost-demon",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/170032-bayonetta-origins-cereza-and-the-lost-demon",
-        "imageURL": "https://images.launchbox-app.com//15381e75-0a82-449b-a192-e2c9495b3aa7.png"
-      },
-      "D": null,
-      "E": null,
-      "F": 1.0,
-      "G": null,
       "H": "SWITCH"
     },
     {
@@ -55485,6 +55443,48 @@
       "D": null,
       "E": "Simulator",
       "F": 8.0,
+      "G": "RUNNING",
+      "H": "SWITCH"
+    },
+    {
+      "A": "Bayonetta Origins: Cereza and the Lost Demon",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/170032-bayonetta-origins-cereza-and-the-lost-demon",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/170032-bayonetta-origins-cereza-and-the-lost-demon",
+        "imageURL": "https://images.launchbox-app.com//15381e75-0a82-449b-a192-e2c9495b3aa7.png"
+      },
+      "D": "English",
+      "E": "Adventure, Puzzle",
+      "F": 1.0,
+      "G": "RUNNING",
+      "H": "SWITCH"
+    },
+    {
+      "A": "Cadence of Hyrule: Crypt of the NecroDancer Featuring The Legend of Zelda",
+      "B": "Cadence of Hyrule",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/116378-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/116378-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda",
+        "imageURL": "https://images.launchbox-app.com//8d3d9ebb-57da-421c-aee8-0d51f3ab51f9.jpg"
+      },
+      "D": "English",
+      "E": "Music, Adventure, Hack and Slash, Co-op",
+      "F": 2.0,
+      "G": "RUNNING",
+      "H": "SWITCH"
+    },
+    {
+      "A": "Fire Emblem Engage",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/168754-fire-emblem-engage",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/168754-fire-emblem-engage",
+        "imageURL": "https://images.launchbox-app.com//9bcb2b46-3fd4-48a3-94d7-939a1073d745.png"
+      },
+      "D": null,
+      "E": "RPG, Strategy",
+      "F": 1.0,
       "G": "RUNNING",
       "H": "SWITCH"
     },
