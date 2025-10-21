@@ -5807,20 +5807,6 @@
       "H": "SWITCH"
     },
     {
-      "A": "Xenoblade Chronicles X: Definitive Edition",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/422152-xenoblade-chronicles-x-definitive-edition",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/422152-xenoblade-chronicles-x-definitive-edition",
-        "imageURL": "https://images.launchbox-app.com//ca7776c9-5976-4573-9fce-7c782262abea.png"
-      },
-      "D": null,
-      "E": "Adventure, RPG",
-      "F": 32.0,
-      "G": "ISSUE",
-      "H": "SWITCH"
-    },
-    {
       "A": null,
       "B": null,
       "C": null,
@@ -55793,6 +55779,20 @@
       "D": null,
       "E": "Adventure, RPG",
       "F": 1.0,
+      "G": "RUNNING",
+      "H": "SWITCH"
+    },
+    {
+      "A": "Xenoblade Chronicles X: Definitive Edition",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/422152-xenoblade-chronicles-x-definitive-edition",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/422152-xenoblade-chronicles-x-definitive-edition",
+        "imageURL": "https://images.launchbox-app.com//ca7776c9-5976-4573-9fce-7c782262abea.png"
+      },
+      "D": null,
+      "E": "Adventure, RPG",
+      "F": 32.0,
       "G": "RUNNING",
       "H": "SWITCH"
     },
