@@ -188,7 +188,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/37025-kick-4-cash",
-        "imageURL": "https://images.launchbox-app.com//1530cae3-ae71-4cc6-9c21-173f6c674a74.png"
+        "imageURL": "https://gamesdb-images.launchbox.gg/r2_edbeadd9-b001-409e-bbdc-314ee3878a15.png"
       },
       "D": "English",
       "E": "Soccer, Sports",
@@ -5703,7 +5703,7 @@
         "imageURL": "https://images.launchbox-app.com//878d83a2-cd88-4461-b5c0-de6a93382675.jpg"
       },
       "D": null,
-      "E": null,
+      "E": "Adventure, Platform",
       "F": 2.0,
       "G": null,
       "H": "SWITCH"
@@ -5717,7 +5717,7 @@
         "imageURL": "https://images.launchbox-app.com//dc69d073-80ae-4b0d-92b2-02597e4b0827.png"
       },
       "D": null,
-      "E": null,
+      "E": "Beat'em Up",
       "F": 1.0,
       "G": null,
       "H": "SWITCH"
@@ -5765,62 +5765,6 @@
       "H": "SWITCH"
     },
     {
-      "A": "P5S: Persona 5 Strikers",
-      "B": "Persona 5 Scramble: The Phantom Strikers, Persona 5 Strikers",
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/130598-p5s-persona-5-strikers",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/130598-p5s-persona-5-strikers",
-        "imageURL": "https://images.launchbox-app.com//684e2ac0-2b9f-4f01-ade3-0df0bc02b52d.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": "No information available",
-      "G": null,
-      "H": "SWITCH"
-    },
-    {
-      "A": "Persona 5 Tactica",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/374526-persona-5-tactica",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/374526-persona-5-tactica",
-        "imageURL": "https://images.launchbox-app.com//cc1d3fc1-4d25-41e0-909c-595d656447ee.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 1.0,
-      "G": null,
-      "H": "SWITCH"
-    },
-    {
-      "A": "Pokémon Brilliant Diamond",
-      "B": "Pocket Monsters Brilliant Diamond, Pokemon Brilliant Diamond",
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/150705-pokmon-brilliant-diamond",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/150705-pokmon-brilliant-diamond",
-        "imageURL": "https://images.launchbox-app.com//0dcbf9b3-3bb1-491a-aab4-87fdce3c90b1.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 1.0,
-      "G": null,
-      "H": "SWITCH"
-    },
-    {
-      "A": "Pokémon Legends: Arceus",
-      "B": "Pokemon Legends: Arceus",
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/149982-pokmon-legends-arceus",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/149982-pokmon-legends-arceus",
-        "imageURL": "https://images.launchbox-app.com//5d3ee02e-1365-49c0-ab0d-3318d744833c.png"
-      },
-      "D": null,
-      "E": null,
-      "F": 1.0,
-      "G": null,
-      "H": "SWITCH"
-    },
-    {
       "A": "Pokémon Legends: Z-A",
       "B": "Pokemon Leyendas: Z-A",
       "C": {
@@ -5829,36 +5773,8 @@
         "imageURL": "https://gamesdb-images.launchbox.gg/r2_bdeae1ce-04a9-4df5-95a7-9537ec439603.jpg"
       },
       "D": null,
-      "E": null,
+      "E": "Adventure, RPG",
       "F": 1.0,
-      "G": null,
-      "H": "SWITCH"
-    },
-    {
-      "A": "Pokémon Scarlet",
-      "B": "Pokemon Scarlet",
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/163312-pokmon-scarlet",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/163312-pokmon-scarlet",
-        "imageURL": "https://images.launchbox-app.com//39b31e97-9d67-4bd4-af92-661b659c6fff.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 4.0,
-      "G": null,
-      "H": "SWITCH"
-    },
-    {
-      "A": "Pokémon Shield",
-      "B": "Pokemon Shield",
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/122521-pokmon-shield",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/122521-pokmon-shield",
-        "imageURL": "https://images.launchbox-app.com//9b772303-a84f-4e09-b2f7-79fa9c71678a.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 4.0,
       "G": null,
       "H": "SWITCH"
     },
@@ -5871,7 +5787,7 @@
         "imageURL": "https://images.launchbox-app.com//1798242e-0cf3-4af5-a8cf-2eb3f8b3ba6b.jpg"
       },
       "D": null,
-      "E": null,
+      "E": "Adventure, RPG",
       "F": 1.0,
       "G": null,
       "H": "SWITCH"
@@ -5885,21 +5801,7 @@
         "imageURL": "https://images.launchbox-app.com//b9b59fb8-1835-4e8a-9ecf-0115163afb48.jpg"
       },
       "D": null,
-      "E": null,
-      "F": 4.0,
-      "G": null,
-      "H": "SWITCH"
-    },
-    {
-      "A": "Pokémon Violet",
-      "B": "Poketto Monsutaa Baioretto, Pokemon Violet",
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/163315-pokmon-violet",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/163315-pokmon-violet",
-        "imageURL": "https://images.launchbox-app.com//2b19d3e7-48b9-4b3d-b036-068a8de35801.jpg"
-      },
-      "D": null,
-      "E": null,
+      "E": "Adventure, RPG",
       "F": 4.0,
       "G": null,
       "H": "SWITCH"
@@ -5913,7 +5815,7 @@
         "imageURL": "https://images.launchbox-app.com//1e27e4f1-0638-4b16-86f8-54579c3ab027.jpg"
       },
       "D": null,
-      "E": null,
+      "E": "Adventure, RPG",
       "F": 2.0,
       "G": null,
       "H": "SWITCH"
@@ -5927,7 +5829,7 @@
         "imageURL": "https://images.launchbox-app.com//1ce21a07-6ff4-4e25-867b-12490c15c953.jpg"
       },
       "D": null,
-      "E": null,
+      "E": "Adventure, RPG",
       "F": 2.0,
       "G": null,
       "H": "SWITCH"
@@ -5941,7 +5843,7 @@
         "imageURL": "https://images.launchbox-app.com//d5dc3823-9bd2-41d3-a339-2e2bcc74bc4f.jpg"
       },
       "D": null,
-      "E": null,
+      "E": "3D Fighting, Versus",
       "F": 2.0,
       "G": null,
       "H": "SWITCH"
@@ -5955,7 +5857,7 @@
         "imageURL": "https://images.launchbox-app.com//038a0292-8bfc-4a33-be7f-af08c61ad7a5.jpg"
       },
       "D": null,
-      "E": null,
+      "E": "Platform",
       "F": 1.0,
       "G": null,
       "H": "SWITCH"
@@ -5969,8 +5871,8 @@
         "imageURL": "https://images.launchbox-app.com//689c6d9d-421f-4a4a-a1c7-6c504ba8e566.jpg"
       },
       "D": null,
-      "E": null,
-      "F": "No information available",
+      "E": "Platform",
+      "F": 1.0,
       "G": null,
       "H": "SWITCH"
     },
@@ -5997,36 +5899,8 @@
         "imageURL": "https://images.launchbox-app.com//1be62b52-6079-4b41-8789-e65b2b58db5c.jpg"
       },
       "D": null,
-      "E": null,
+      "E": "Party, Versus",
       "F": 20.0,
-      "G": null,
-      "H": "SWITCH"
-    },
-    {
-      "A": "Super Smash Bros. Ultimate",
-      "B": "Super Smash Bros. for Switch",
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/108007-super-smash-bros-ultimate",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/108007-super-smash-bros-ultimate",
-        "imageURL": "https://images.launchbox-app.com//36c5559d-88dc-43d7-a0a3-2de568d14711.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 8.0,
-      "G": null,
-      "H": "SWITCH"
-    },
-    {
-      "A": "The Legend of Zelda: Echoes of Wisdom",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/413881-the-legend-of-zelda-echoes-of-wisdom",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/413881-the-legend-of-zelda-echoes-of-wisdom",
-        "imageURL": "https://images.launchbox-app.com//3d89318e-9ea1-43d4-b0bf-bfcc683f83d2.jpg"
-      },
-      "D": null,
-      "E": null,
-      "F": 1.0,
       "G": null,
       "H": "SWITCH"
     },
@@ -55399,7 +55273,7 @@
         "imageURL": "https://images.launchbox-app.com//8d3d9ebb-57da-421c-aee8-0d51f3ab51f9.jpg"
       },
       "D": "English",
-      "E": "Music, Adventure, Hack and Slash, Co-op",
+      "E": "Music, Adventure, Hack and Slash, Co-op, Puzzle",
       "F": 2.0,
       "G": "RUNNING",
       "H": "SWITCH"
@@ -55629,6 +55503,34 @@
       "H": "SWITCH"
     },
     {
+      "A": "P5S: Persona 5 Strikers",
+      "B": "Persona 5 Scramble: The Phantom Strikers, Persona 5 Strikers",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/130598-p5s-persona-5-strikers",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/130598-p5s-persona-5-strikers",
+        "imageURL": "https://images.launchbox-app.com//684e2ac0-2b9f-4f01-ade3-0df0bc02b52d.jpg"
+      },
+      "D": null,
+      "E": "Beat'em Up, Hack and Slash",
+      "F": 1.0,
+      "G": "RUNNING",
+      "H": "SWITCH"
+    },
+    {
+      "A": "Persona 5 Tactica",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/374526-persona-5-tactica",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/374526-persona-5-tactica",
+        "imageURL": "https://images.launchbox-app.com//cc1d3fc1-4d25-41e0-909c-595d656447ee.jpg"
+      },
+      "D": null,
+      "E": "RPG, Strategy",
+      "F": 1.0,
+      "G": "RUNNING",
+      "H": "SWITCH"
+    },
+    {
       "A": "Pikmin 3 Deluxe",
       "B": null,
       "C": {
@@ -55653,6 +55555,76 @@
       "D": null,
       "E": "Adventure, Puzzle, Strategy, Co-op, Versus",
       "F": 2.0,
+      "G": "RUNNING",
+      "H": "SWITCH"
+    },
+    {
+      "A": "Pokémon Brilliant Diamond",
+      "B": "Pocket Monsters Brilliant Diamond, Pokemon Brilliant Diamond",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/150705-pokmon-brilliant-diamond",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/150705-pokmon-brilliant-diamond",
+        "imageURL": "https://images.launchbox-app.com//0dcbf9b3-3bb1-491a-aab4-87fdce3c90b1.jpg"
+      },
+      "D": null,
+      "E": "Adventure, RPG",
+      "F": 1.0,
+      "G": "RUNNING",
+      "H": "SWITCH"
+    },
+    {
+      "A": "Pokémon Legends: Arceus",
+      "B": "Pokemon Legends: Arceus",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/149982-pokmon-legends-arceus",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/149982-pokmon-legends-arceus",
+        "imageURL": "https://images.launchbox-app.com//5d3ee02e-1365-49c0-ab0d-3318d744833c.png"
+      },
+      "D": null,
+      "E": "Adventure, RPG",
+      "F": 1.0,
+      "G": "RUNNING",
+      "H": "SWITCH"
+    },
+    {
+      "A": "Pokémon Scarlet",
+      "B": "Pokemon Scarlet",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/163312-pokmon-scarlet",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/163312-pokmon-scarlet",
+        "imageURL": "https://images.launchbox-app.com//39b31e97-9d67-4bd4-af92-661b659c6fff.jpg"
+      },
+      "D": null,
+      "E": "Adventure, RPG",
+      "F": 4.0,
+      "G": "RUNNING",
+      "H": "SWITCH"
+    },
+    {
+      "A": "Pokémon Shield",
+      "B": "Pokemon Shield",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/122521-pokmon-shield",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/122521-pokmon-shield",
+        "imageURL": "https://images.launchbox-app.com//9b772303-a84f-4e09-b2f7-79fa9c71678a.jpg"
+      },
+      "D": null,
+      "E": "Adventure, RPG",
+      "F": 4.0,
+      "G": "RUNNING",
+      "H": "SWITCH"
+    },
+    {
+      "A": "Pokémon Violet",
+      "B": "Poketto Monsutaa Baioretto, Pokemon Violet",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/163315-pokmon-violet",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/163315-pokmon-violet",
+        "imageURL": "https://images.launchbox-app.com//2b19d3e7-48b9-4b3d-b036-068a8de35801.jpg"
+      },
+      "D": null,
+      "E": "Adventure, RPG",
+      "F": 4.0,
       "G": "RUNNING",
       "H": "SWITCH"
     },
@@ -55755,6 +55727,20 @@
       "H": "SWITCH"
     },
     {
+      "A": "Super Smash Bros. Ultimate",
+      "B": "Super Smash Bros. for Switch",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/108007-super-smash-bros-ultimate",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/108007-super-smash-bros-ultimate",
+        "imageURL": "https://images.launchbox-app.com//36c5559d-88dc-43d7-a0a3-2de568d14711.jpg"
+      },
+      "D": null,
+      "E": "2D Fighting, Platform, Co-op, Versus",
+      "F": 8.0,
+      "G": "RUNNING",
+      "H": "SWITCH"
+    },
+    {
       "A": "The Legend of Zelda: Breath of the Wild",
       "B": null,
       "C": {
@@ -55764,6 +55750,20 @@
       },
       "D": null,
       "E": "Adventure, Hack and Slash, Puzzle, RPG",
+      "F": 1.0,
+      "G": "RUNNING",
+      "H": "SWITCH"
+    },
+    {
+      "A": "The Legend of Zelda: Echoes of Wisdom",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/413881-the-legend-of-zelda-echoes-of-wisdom",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/413881-the-legend-of-zelda-echoes-of-wisdom",
+        "imageURL": "https://images.launchbox-app.com//3d89318e-9ea1-43d4-b0bf-bfcc683f83d2.jpg"
+      },
+      "D": null,
+      "E": "Adventure, Puzzle",
       "F": 1.0,
       "G": "RUNNING",
       "H": "SWITCH"
