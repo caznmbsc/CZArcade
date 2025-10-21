@@ -5737,20 +5737,6 @@
       "H": "SWITCH"
     },
     {
-      "A": "Pokémon Legends: Z-A",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/392130-pokmon-legends-z-a",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/392130-pokmon-legends-z-a",
-        "imageURL": "https://gamesdb-images.launchbox.gg/r2_bdeae1ce-04a9-4df5-95a7-9537ec439603.jpg"
-      },
-      "D": null,
-      "E": "Adventure, RPG",
-      "F": 1.0,
-      "G": null,
-      "H": "SWITCH"
-    },
-    {
       "A": "Pokémon: Let's Go, Eevee!",
       "B": null,
       "C": {
@@ -55481,6 +55467,20 @@
         "text": "https://gamesdb.launchbox-app.com/games/details/149982-pokmon-legends-arceus",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/149982-pokmon-legends-arceus",
         "imageURL": "https://images.launchbox-app.com//5d3ee02e-1365-49c0-ab0d-3318d744833c.png"
+      },
+      "D": null,
+      "E": "Adventure, RPG",
+      "F": 1.0,
+      "G": "RUNNING",
+      "H": "SWITCH"
+    },
+    {
+      "A": "Pokémon Legends: Z-A",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/392130-pokmon-legends-z-a",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/392130-pokmon-legends-z-a",
+        "imageURL": "https://gamesdb-images.launchbox.gg/r2_bdeae1ce-04a9-4df5-95a7-9537ec439603.jpg"
       },
       "D": null,
       "E": "Adventure, RPG",
