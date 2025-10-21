@@ -552,7 +552,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/102523-world-kicks",
-        "imageURL": "https://images.launchbox-app.com//4b3ad2b6-0e05-4977-9ae5-7e7d6b571836.jpg"
+        "imageURL": "https://gamesdb-images.launchbox.gg/r2_25e81dcc-f16f-4c0f-a4db-949bd1e98cb2.jpg"
       },
       "D": "English",
       "E": "Interactive, Soccer, Sports",
@@ -5695,20 +5695,6 @@
       "H": "WII U"
     },
     {
-      "A": "Deltarune",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/425595-deltarune",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/425595-deltarune",
-        "imageURL": "https://images.launchbox-app.com//3ff2149b-9887-4c7e-b381-e0deb5cad41c.png"
-      },
-      "D": null,
-      "E": "Adventure, RPG",
-      "F": 1.0,
-      "G": "ISSUE",
-      "H": "SWITCH"
-    },
-    {
       "A": "Luigi's Mansion 3",
       "B": null,
       "C": {
@@ -6996,7 +6982,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/36057-dynamite-baseball-naomi",
-        "imageURL": "https://images.launchbox-app.com//fdf557ee-4a1d-4cf4-b283-1cd4ca36fb26.jpg"
+        "imageURL": "https://gamesdb-images.launchbox.gg/r2_e69bf8f9-a2a2-4981-b7fa-6ecd08dd8245.jpg"
       },
       "D": "Japanese",
       "E": "Baseball, Sports",
@@ -55163,6 +55149,20 @@
       "D": "English",
       "E": "Music, Adventure, Hack and Slash, Co-op, Puzzle",
       "F": 2.0,
+      "G": "RUNNING",
+      "H": "SWITCH"
+    },
+    {
+      "A": "Deltarune",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/425595-deltarune",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/425595-deltarune",
+        "imageURL": "https://images.launchbox-app.com//3ff2149b-9887-4c7e-b381-e0deb5cad41c.png"
+      },
+      "D": null,
+      "E": "Adventure, RPG",
+      "F": 1.0,
       "G": "RUNNING",
       "H": "SWITCH"
     },
