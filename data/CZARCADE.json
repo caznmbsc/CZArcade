@@ -6531,6 +6531,124 @@
       "H": "SWITCH"
     },
     {
+      "A": "Bloodborne",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/20330-bloodborne",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/20330-bloodborne",
+        "imageURL": "https://images.launchbox-app.com//ba10cf14-292d-4c77-9d64-76907dbb9cce.jpg"
+      },
+      "D": null,
+      "E": null,
+      "F": 1.0,
+      "G": null,
+      "H": "PLAYSTATION 4"
+    },
+    {
+      "A": "P.T.",
+      "B": null,
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/26643-pt",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/26643-pt",
+        "imageURL": "https://images.launchbox-app.com//41c4de7b-394e-4aaf-8dea-59f8b09e1f86.jpg"
+      },
+      "D": null,
+      "E": null,
+      "F": "No information available",
+      "G": null,
+      "H": "PLAYSTATION 4"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PLAYSTATION 4"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PLAYSTATION 4"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PLAYSTATION 4"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PLAYSTATION 4"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PLAYSTATION 4"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PLAYSTATION 4"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PLAYSTATION 4"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PLAYSTATION 4"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PLAYSTATION 4"
+    },
+    {
       "A": null,
       "B": null,
       "C": null,
@@ -56805,8 +56923,40 @@
       "Z": null
     },
     {
-      "A": "SWITCH",
+      "A": {
+        "text": "SWITCH",
+        "hyperlink": null,
+        "imageURL": "media/noImage.png"
+      },
       "B": "\"The Nintendo Switch is an eighth generation home video game console developed and distributed by Nintendo.\"",
+      "C": "2D/3D",
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": null,
+      "I": null,
+      "J": null,
+      "K": null,
+      "L": null,
+      "M": null,
+      "N": null,
+      "O": null,
+      "P": null,
+      "Q": null,
+      "R": null,
+      "S": null,
+      "T": null,
+      "U": null,
+      "V": null,
+      "W": null,
+      "X": null,
+      "Y": null,
+      "Z": null
+    },
+    {
+      "A": "PLAYSTATION 4",
+      "B": "\"PS4 for short, is an eighth generation home video game console developed and distributed by Sony Interactive Entertainment.\"",
       "C": "2D/3D",
       "D": null,
       "E": null,
