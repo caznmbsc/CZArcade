@@ -5695,6 +5695,20 @@
       "H": "WII U"
     },
     {
+      "A": "Fire Emblem Warriors: Three Hopes",
+      "B": "Fire Emblem Musou Fuuka Setsugetsu",
+      "C": {
+        "text": "https://gamesdb.launchbox-app.com/games/details/159309-fire-emblem-warriors-three-hopes",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/159309-fire-emblem-warriors-three-hopes",
+        "imageURL": "https://images.launchbox-app.com//77b81c26-8b7d-42ce-8a7c-c865021836d7.jpg"
+      },
+      "D": null,
+      "E": "Hack and Slash, Beat'em Up, Co-op",
+      "F": 2.0,
+      "G": "REMOVED",
+      "H": "SWITCH"
+    },
+    {
       "A": "Luigi's Mansion 3",
       "B": null,
       "C": {
@@ -55201,20 +55215,6 @@
         "text": "https://gamesdb.launchbox-app.com/games/details/85254-fire-emblem-warriors",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/85254-fire-emblem-warriors",
         "imageURL": "https://images.launchbox-app.com//3d27005c-f0a4-4a8b-9c3f-061bc1c45c24.jpg"
-      },
-      "D": null,
-      "E": "Hack and Slash, Beat'em Up, Co-op",
-      "F": 2.0,
-      "G": "RUNNING",
-      "H": "SWITCH"
-    },
-    {
-      "A": "Fire Emblem Warriors: Three Hopes",
-      "B": "Fire Emblem Musou Fuuka Setsugetsu",
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/159309-fire-emblem-warriors-three-hopes",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/159309-fire-emblem-warriors-three-hopes",
-        "imageURL": "https://images.launchbox-app.com//77b81c26-8b7d-42ce-8a7c-c865021836d7.jpg"
       },
       "D": null,
       "E": "Hack and Slash, Beat'em Up, Co-op",
