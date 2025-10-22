@@ -5625,20 +5625,6 @@
       "H": "WII U"
     },
     {
-      "A": "Splatoon",
-      "B": null,
-      "C": {
-        "text": "LaunchBox",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/20517-splatoon",
-        "imageURL": "https://images.launchbox-app.com//257f672b-5691-4a34-a4d7-df92910beceb.jpg"
-      },
-      "D": "English",
-      "E": "Shooter, Versus",
-      "F": 8.0,
-      "G": "REMOVED",
-      "H": "WII U"
-    },
-    {
       "A": "Super Mario Maker",
       "B": null,
       "C": {
@@ -5663,20 +5649,6 @@
       "D": "English",
       "E": "Platform, Adventure, Co-op",
       "F": 4.0,
-      "G": "REMOVED",
-      "H": "WII U"
-    },
-    {
-      "A": "The Legend of Zelda: Breath of the Wild",
-      "B": null,
-      "C": {
-        "text": "LaunchBox",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/73994-the-legend-of-zelda-breath-of-the-wild",
-        "imageURL": "https://images.launchbox-app.com//857b0bf4-b951-4c28-be0e-04fbd531d688.jpg"
-      },
-      "D": "English",
-      "E": "Adventure, Hack and Slash, Puzzle",
-      "F": 1.0,
       "G": "REMOVED",
       "H": "WII U"
     },
@@ -54373,6 +54345,20 @@
       "H": "WII U"
     },
     {
+      "A": "Splatoon",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/20517-splatoon",
+        "imageURL": "https://images.launchbox-app.com//257f672b-5691-4a34-a4d7-df92910beceb.jpg"
+      },
+      "D": "English",
+      "E": "Shooter, Versus",
+      "F": 8.0,
+      "G": "RUNNING",
+      "H": "WII U"
+    },
+    {
       "A": "Super Mario 3D World",
       "B": null,
       "C": {
@@ -54397,6 +54383,20 @@
       "D": "English",
       "E": "Platform, 2D Fighting, Co-op, Versus",
       "F": 8.0,
+      "G": "RUNNING",
+      "H": "WII U"
+    },
+    {
+      "A": "The Legend of Zelda: Breath of the Wild",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/73994-the-legend-of-zelda-breath-of-the-wild",
+        "imageURL": "https://images.launchbox-app.com//857b0bf4-b951-4c28-be0e-04fbd531d688.jpg"
+      },
+      "D": "English",
+      "E": "Adventure, Hack and Slash, Puzzle",
+      "F": 1.0,
       "G": "RUNNING",
       "H": "WII U"
     },
@@ -54985,20 +54985,6 @@
       "D": null,
       "E": "2D Fighting, Platform, Co-op, Versus",
       "F": 8.0,
-      "G": "RUNNING",
-      "H": "SWITCH"
-    },
-    {
-      "A": "The Legend of Zelda: Breath of the Wild",
-      "B": null,
-      "C": {
-        "text": "https://gamesdb.launchbox-app.com/games/details/79189-the-legend-of-zelda:-breath-of-the-wild",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/79189-the-legend-of-zelda:-breath-of-the-wild",
-        "imageURL": "https://images.launchbox-app.com//b271982b-9abb-4da0-96ef-0942786ab29e.jpg"
-      },
-      "D": null,
-      "E": "Adventure, Hack and Slash, Puzzle, RPG",
-      "F": 1.0,
       "G": "RUNNING",
       "H": "SWITCH"
     },
