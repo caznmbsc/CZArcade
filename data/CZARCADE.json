@@ -56057,7 +56057,11 @@
       "Z": null
     },
     {
-      "A": "PLAYSTATION 4",
+      "A": {
+        "text": "PLAYSTATION 4",
+        "hyperlink": null,
+        "imageURL": "media/noImage.png"
+      },
       "B": "\"PS4 for short, is an eighth generation home video game console developed and distributed by Sony Interactive Entertainment.\"",
       "C": "2D/3D",
       "D": null,
