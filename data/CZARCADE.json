@@ -5093,12 +5093,16 @@
       "H": "PLAYSTATION 3"
     },
     {
-      "A": null,
+      "A": "God of War III",
       "B": null,
-      "C": null,
-      "D": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/819-god-of-war-iii",
+        "imageURL": "https://images.launchbox-app.com//3e930ad3-369c-4bf7-973b-6405c883e2ed.jpg"
+      },
+      "D": "English",
       "E": "Beat'em Up, Hack and Slash",
-      "F": null,
+      "F": 12.0,
       "G": null,
       "H": "PLAYSTATION 3"
     },
@@ -54182,34 +54186,6 @@
       },
       "D": "Japanese",
       "E": "2D Fighting, Versus",
-      "F": 2.0,
-      "G": "RUNNING",
-      "H": "PC-BASED ARCADE"
-    },
-    {
-      "A": "Pokkén Tournament",
-      "B": "Pokken Tournament",
-      "C": {
-        "text": "LaunchBox",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/105649-pokkn-tournament",
-        "imageURL": "https://images.launchbox-app.com//058df631-bbce-462f-95dd-c8dd4a669ace.jpg"
-      },
-      "D": "Spanish",
-      "E": "3D Fighting",
-      "F": 2.0,
-      "G": "RUNNING",
-      "H": "PC-BASED ARCADE"
-    },
-    {
-      "A": "SNK Heroines AC: Tag Team Frenzy",
-      "B": "SNK Heroines: Tag Team Frenzy",
-      "C": {
-        "text": "LaunchBox",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/141511-snk-heroines-ac-tag-team-frenzy",
-        "imageURL": "https://images.launchbox-app.com//e05ddd3b-8663-43a4-a962-b5bbc0e2007d.jpg"
-      },
-      "D": "Japanese",
-      "E": "2D Fighting",
       "F": 2.0,
       "G": "RUNNING",
       "H": "PC-BASED ARCADE"
