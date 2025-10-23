@@ -5555,48 +5555,6 @@
       "H": "XBOX 360"
     },
     {
-      "A": "BlazBlue: Cross Tag Battle",
-      "B": null,
-      "C": {
-        "text": "LaunchBox",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/149651-blazblue-cross-tag-battle",
-        "imageURL": "https://images.launchbox-app.com//b4a4a449-919a-4119-a2b9-48e117ea77e4.jpg"
-      },
-      "D": "Japanese",
-      "E": "2D Fighting",
-      "F": 2.0,
-      "G": "REMOVED",
-      "H": "PC-BASED ARCADE"
-    },
-    {
-      "A": "Tekken 7: Fated Retribution Round 2",
-      "B": null,
-      "C": {
-        "text": "LaunchBox",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/161336-tekken-7-fated-retribution-round-2",
-        "imageURL": "https://images.launchbox-app.com//50a1860e-6a78-4e94-ac34-82519a2db5a0.jpg"
-      },
-      "D": "English",
-      "E": "3D Fighting",
-      "F": 2.0,
-      "G": "REMOVED",
-      "H": "PC-BASED ARCADE"
-    },
-    {
-      "A": "Under Night In-Birth ExeLate[cl-r]",
-      "B": null,
-      "C": {
-        "text": "LaunchBox",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/158589-under-night-in-birth-exelatecl-r",
-        "imageURL": "https://images.launchbox-app.com//c933336e-a438-4508-986f-9367e9bd4b01.jpg"
-      },
-      "D": "English",
-      "E": "2D Fighting",
-      "F": 2.0,
-      "G": "REMOVED",
-      "H": "PC-BASED ARCADE"
-    },
-    {
       "A": "Kirby and the Rainbow Curse",
       "B": "Touch! Kirby Super Rainbow, Kirby and the Rainbow Paintbrush",
       "C": {
@@ -54157,20 +54115,6 @@
         "imageURL": "https://images.launchbox-app.com//4f93e34f-dbf2-49ee-81d4-41866e49ea9c.png"
       },
       "D": "Japanese",
-      "E": "2D Fighting, Versus",
-      "F": 2.0,
-      "G": "RUNNING",
-      "H": "PC-BASED ARCADE"
-    },
-    {
-      "A": "Fighting EX Layer",
-      "B": null,
-      "C": {
-        "text": "LaunchBox",
-        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/135886-fighting-ex-layer",
-        "imageURL": "https://images.launchbox-app.com//5a11eba2-83d0-4e0c-aadd-07c81499e02b.png"
-      },
-      "D": "English",
       "E": "2D Fighting, Versus",
       "F": 2.0,
       "G": "RUNNING",
