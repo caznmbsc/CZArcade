@@ -165,6 +165,16 @@ async function loadCategories(pageName) {
         });
         console.log(sheetData);
 
+        //Function for GIF checks
+        async function checkFile(url) {
+            const response = await fetch(url, { method: 'HEAD' })
+            console.log(response);
+            if (response.ok) {
+                console.log("GIF FOUND!!!!");
+            } else {
+                console.log("no gif", err);
+            }
+        }
         //Variables to make Cards
         const categoryCardTemplate = document.querySelector("[category-info-template]");
         const categoryCardsContainer = document.querySelector("[game-cards-container]");
@@ -185,8 +195,20 @@ async function loadCategories(pageName) {
                     categoryCard.querySelector("[category-name1]").innerHTML = `<a href="${window.location.href}?${key}=${category["A"]}">${category["A"]}</a>`;
                     categoryCard.querySelector("[category-name2]").innerHTML = `<a href="${window.location.href}?${key}=${category["A"]}">${category["A"]}</a>`;
                 }
+                
                 categoryImage.alt = `${categoryName} Thumbnail`;
-                categoryImage.src = `media/${categoryName}.png`;
+                fetch(`media/${categoryName}.gif`, { method: 'HEAD' })
+                    .then( response => {
+                        //console.log(response);
+                        if (response.ok) {
+                            //console.log("GIF FOUND!!!!");
+                            categoryImage.src = `media/${categoryName}.gif`;
+                        } else {
+                            //console.log("no gif");
+                            categoryImage.src = `media/${categoryName}.png`;
+                        }
+                    })
+                
                 categoryCard.querySelector("[category-description1]").textContent = category["B"];
                 categoryCard.querySelector("[category-description2]").textContent = category["B"];
                 categoryCard.querySelector("[category-notes]").textContent = category["C"];
@@ -255,7 +277,17 @@ if (currentPage.includes("genres.html?genre") || currentPage.includes("systems.h
     thumbnailBox.classList.add("categoryTitleThumbnail");
     titleBox.appendChild(thumbnailBox);
     const pageThumbnail = document.createElement("img");
-    pageThumbnail.src = `media/${categoryPageName}.png`;
+    fetch(`media/${categoryPageName}.gif`, { method: 'HEAD' })
+        .then( response => {
+            //console.log(response);
+            if (response.ok) {
+                //console.log("GIF FOUND!!!!");
+                pageThumbnail.src = `media/${categoryPageName}.gif`;
+            } else {
+                //console.log("no gif");
+                pageThumbnail.src = `media/${categoryPageName}.png`;
+            }
+        })
     pageThumbnail.alt = `${categoryPageName} Page Thumbnail`;
     thumbnailBox.appendChild(pageThumbnail);
 
