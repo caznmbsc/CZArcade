@@ -1,6 +1,5880 @@
 {
   "Inventory": [
     {
+      "A": "Boat Race: Ocean Heats",
+      "B": null,
+      "C": {
+        "text": "SegaRetro",
+        "hyperlink": "https://segaretro.org/Boat_Race_Ocean_Heats",
+        "imageURL": "media/noImage.png"
+      },
+      "D": "UNKOWN",
+      "E": "Interactive",
+      "F": 10.0,
+      "G": "SKIPPED",
+      "H": "NAOMI"
+    },
+    {
+      "A": "Crackin’ DJ",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/102420-crackin-dj",
+        "imageURL": "https://images.launchbox-app.com//4bb4516d-14ad-40e8-aac6-5f636fc478c3.jpg"
+      },
+      "D": "English",
+      "E": "Interactive, Music",
+      "F": 1.0,
+      "G": "REMOVED",
+      "H": "NAOMI"
+    },
+    {
+      "A": "Crackin’ DJ Part 2",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/102421-crackin-dj-part-2",
+        "imageURL": "https://images.launchbox-app.com//a98741d6-7ba6-498e-aea4-8ce3daa4b5e4.png"
+      },
+      "D": "English",
+      "E": "Interactive, Music",
+      "F": 1.0,
+      "G": "REMOVED",
+      "H": "NAOMI"
+    },
+    {
+      "A": "Derby Owners Club II",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/35883-derby-owners-club-ii",
+        "imageURL": "https://images.launchbox-app.com//90a0fe60-3954-4a62-a9a9-dbdfd3d22702.jpg"
+      },
+      "D": null,
+      "E": "Simulator, Sports",
+      "F": 1.0,
+      "G": "ISSUE",
+      "H": "NAOMI"
+    },
+    {
+      "A": "Dragon Treasure",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/102339-dragon-treasure",
+        "imageURL": "https://images.launchbox-app.com//dea7fbbe-40a2-41b9-987f-fb6be261c4ef.png"
+      },
+      "D": "UNKOWN",
+      "E": "Interactive, RPG, UNKNOWN",
+      "F": 2.0,
+      "G": "SKIPPED",
+      "H": "NAOMI"
+    },
+    {
+      "A": "Dragon Treasure II",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/102340-dragon-treasure-ii",
+        "imageURL": "https://images.launchbox-app.com//3093f5c9-a15c-433d-8c21-fec0e8766322.png"
+      },
+      "D": "UNKOWN",
+      "E": "Interactive, RPG, UNKNOWN",
+      "F": 2.0,
+      "G": "SKIPPED",
+      "H": "NAOMI"
+    },
+    {
+      "A": "Dragon Treasure III",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/102345-dragon-treasure-iii",
+        "imageURL": "https://images.launchbox-app.com//c3103216-b627-4168-aea5-803fbe26beb6.jpg"
+      },
+      "D": "UNKOWN",
+      "E": "Interactive, RPG, UNKNOWN",
+      "F": 5.0,
+      "G": "SKIPPED",
+      "H": "NAOMI"
+    },
+    {
+      "A": "Ferrari F355 Challenge",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/102432-ferrari-f355-challenge",
+        "imageURL": "https://images.launchbox-app.com//de6482c8-7f79-4033-b389-b06687fbd037.jpg"
+      },
+      "D": "UNKOWN",
+      "E": "Driving, Racing, Sports",
+      "F": 1.0,
+      "G": "SKIPPED",
+      "H": "NAOMI"
+    },
+    {
+      "A": "Ferrari F355 Challenge 2: International Course Edition",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/102433-f355-challenge-2-international-course-edition",
+        "imageURL": "https://images.launchbox-app.com//f2c5607d-4d01-4140-8e1f-635ec572cb23.jpg"
+      },
+      "D": "UNKOWN",
+      "E": "Driving, Racing, Sports",
+      "F": 1.0,
+      "G": "SKIPPED",
+      "H": "NAOMI"
+    },
+    {
+      "A": "Fish Live",
+      "B": null,
+      "C": {
+        "text": "Sega-Naomi.eu",
+        "hyperlink": "https://www.sega-naomi.eu/software/fish-live/",
+        "imageURL": "media/noImage.png"
+      },
+      "D": "UNKOWN",
+      "E": "Simulator",
+      "F": "N/A",
+      "G": "SKIPPED",
+      "H": "NAOMI"
+    },
+    {
+      "A": "Formation Battle In May*",
+      "B": null,
+      "C": {
+        "text": "Sega-Naomi.eu",
+        "hyperlink": "https://www.sega-naomi.eu/software/formation-battle-in-may/",
+        "imageURL": "media/noImage.png"
+      },
+      "D": "UNKOWN",
+      "E": "UNKNOWN",
+      "F": "UNKNOWN",
+      "G": "INACCESSIBLE",
+      "H": "NAOMI"
+    },
+    {
+      "A": "Gun Beat",
+      "B": null,
+      "C": {
+        "text": "Sega-Naomi.eu",
+        "hyperlink": "https://www.sega-naomi.eu/software/magical-hearts-the-gun-beat/",
+        "imageURL": "media/noImage.png"
+      },
+      "D": "UNKOWN",
+      "E": "UNKNOWN",
+      "F": "UNKNOWN",
+      "G": "INACCESSIBLE",
+      "H": "NAOMI"
+    },
+    {
+      "A": "Inu no Osanpo",
+      "B": "Dog Walking",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/102443-inu-no-osanpo",
+        "imageURL": "https://images.launchbox-app.com//3a3a982b-1ab9-47c3-a071-e8508712cc1f.png"
+      },
+      "D": "Japanese",
+      "E": "Interactive, Simulator",
+      "F": 1.0,
+      "G": "REMOVED",
+      "H": "NAOMI"
+    },
+    {
+      "A": "Kick '4' Cash",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/37025-kick-4-cash",
+        "imageURL": "https://gamesdb-images.launchbox.gg/r2_edbeadd9-b001-409e-bbdc-314ee3878a15.png"
+      },
+      "D": "English",
+      "E": "Soccer, Sports",
+      "F": 1.0,
+      "G": "REMOVED",
+      "H": "NAOMI"
+    },
+    {
+      "A": "La Keyboard",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/37123-la-keyboard",
+        "imageURL": "https://images.launchbox-app.com//4b7f7f1a-a56b-4616-8ec5-7a7384755ce8.png"
+      },
+      "D": "UNKOWN",
+      "E": "Quiz , Typing",
+      "F": 2.0,
+      "G": "SKIPPED",
+      "H": "NAOMI"
+    },
+    {
+      "A": "Lupin the Third: The Typing",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/37264-lupin-the-third-the-typing",
+        "imageURL": "https://images.launchbox-app.com//35ef2240-29db-4da3-b798-ba180545bd32.png"
+      },
+      "D": "UNKOWN",
+      "E": "Co-op, Shooter, Typing",
+      "F": 2.0,
+      "G": "SKIPPED",
+      "H": "NAOMI"
+    },
+    {
+      "A": "MushiKing II: The King of Beetle II ENG",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/37777-mushiking-ii-the-king-of-beetle-ii-eng",
+        "imageURL": "https://images.launchbox-app.com//57700f4d-c9c8-4640-a2ad-976e5be9065e.jpg"
+      },
+      "D": "UNKOWN",
+      "E": "3D Fighting, Interactive, Versus",
+      "F": 2.0,
+      "G": "SKIPPED",
+      "H": "NAOMI"
+    },
+    {
+      "A": "Mushiking The King Of Beetle",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/37778-mushiking-the-king-of-beetle",
+        "imageURL": "https://images.launchbox-app.com//ae8fed35-1208-422b-9dcf-4db5dc2552e7.png"
+      },
+      "D": "UNKOWN",
+      "E": "3D Fighting, Interactive, Versus",
+      "F": 2.0,
+      "G": "SKIPPED",
+      "H": "NAOMI"
+    },
+    {
+      "A": "Mushiking the King of Beetles 2004 Second",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/216881-mushiking-the-king-of-beetles-2004-second",
+        "imageURL": "https://images.launchbox-app.com//b5766881-ed40-4d91-ba5e-e88752987390.png"
+      },
+      "D": "UNKOWN",
+      "E": "3D Fighting, Interactive, Versus",
+      "F": 2.0,
+      "G": "SKIPPED",
+      "H": "NAOMI"
+    },
+    {
+      "A": "Mushiking the King of Beetles 2005 First",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/37779-mushiking-the-king-of-beetles-2005-first",
+        "imageURL": "https://images.launchbox-app.com//d4ba254a-70fb-4d58-83ee-573e32ddf6cd.png"
+      },
+      "D": "UNKOWN",
+      "E": "3D Fighting, Interactive, Versus",
+      "F": 2.0,
+      "G": "SKIPPED",
+      "H": "NAOMI"
+    },
+    {
+      "A": "Mushiking The King Of Beetles 2006 First",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/236750-mushiking-the-king-of-beetles-2006-first",
+        "imageURL": "https://images.launchbox-app.com//6dbe3516-415b-4bcc-b819-5356a05e7a2d.png"
+      },
+      "D": "UNKOWN",
+      "E": "3D Fighting, Interactive, Versus",
+      "F": 2.0,
+      "G": "SKIPPED",
+      "H": "NAOMI"
+    },
+    {
+      "A": "Mushiking The King Of Beetles 2006 Second",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/236735-mushiking-the-king-of-beetles-2006-second",
+        "imageURL": "https://images.launchbox-app.com//21a35f4a-dbb4-4573-971b-b51a8af0d93b.png"
+      },
+      "D": "UNKOWN",
+      "E": "3D Fighting, Interactive, Versus",
+      "F": 2.0,
+      "G": "SKIPPED",
+      "H": "NAOMI"
+    },
+    {
+      "A": "Mushiking the King of Beetles: Mushiking IV / V / VI",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/236751-mushiking-the-king-of-beetles-mushiking-iv-v-vi",
+        "imageURL": "https://images.launchbox-app.com//1ef4abaa-88c2-4d47-b5d0-ca5adb9c59dc.jpg"
+      },
+      "D": "UNKOWN",
+      "E": "3D Fighting, Interactive, Versus",
+      "F": 2.0,
+      "G": "SKIPPED",
+      "H": "NAOMI"
+    },
+    {
+      "A": "Oinori-daimyoujin Matsuri",
+      "B": null,
+      "C": {
+        "text": "SegaRetro",
+        "hyperlink": "https://segaretro.org/Oinori_Daimyoujin_Matsuri",
+        "imageURL": "media/noImage.png"
+      },
+      "D": "UNKOWN",
+      "E": "Interactive",
+      "F": 10.0,
+      "G": "SKIPPED",
+      "H": "NAOMI"
+    },
+    {
+      "A": "Samba de Amigo",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/38685-samba-de-amigo",
+        "imageURL": "https://images.launchbox-app.com//1874e14b-f5d1-4a36-9a60-eb9a6ac685c6.jpg"
+      },
+      "D": "English",
+      "E": "Music",
+      "F": 2.0,
+      "G": "REMOVED",
+      "H": "NAOMI"
+    },
+    {
+      "A": "Samba de Amigo ver.2000",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/38686-samba-de-amigo-ver-2000",
+        "imageURL": "https://images.launchbox-app.com//16ec0923-6ab8-4cea-a56a-a0f232e46fc9.jpg"
+      },
+      "D": "Japanese",
+      "E": "Music",
+      "F": 2.0,
+      "G": "REMOVED",
+      "H": "NAOMI"
+    },
+    {
+      "A": "Sega Yonin Uchi Mahjong MJ",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/236736-sega-yonin-uchi-mahjong-mj",
+        "imageURL": "https://images.launchbox-app.com//e441e2a4-53ef-4198-9c7a-87590b9ffc4c.jpg"
+      },
+      "D": "UNKOWN",
+      "E": "Tabletop, Versus",
+      "F": 8.0,
+      "G": "SKIPPED",
+      "H": "NAOMI"
+    },
+    {
+      "A": "Senko no Ronde",
+      "B": "WarTech: Senko no Ronde",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/102522-senko-no-ronde",
+        "imageURL": "https://images.launchbox-app.com//525a36ba-2c76-4c06-a924-e4a76f356799.png"
+      },
+      "D": "UNKOWN",
+      "E": "3D Fighting, Bullet Hell, Mech, Shooter, Versus",
+      "F": 2.0,
+      "G": "SKIPPED",
+      "H": "NAOMI"
+    },
+    {
+      "A": "Shootout Pool",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/102490-shootout-pool",
+        "imageURL": "https://images.launchbox-app.com//927b50ae-bf0e-44c5-8edb-0278c3526141.png"
+      },
+      "D": "English",
+      "E": "Sports, Tabletop, Versus",
+      "F": 2.0,
+      "G": "REMOVED",
+      "H": "NAOMI"
+    },
+    {
+      "A": "Shootout Pool Prize",
+      "B": "Shootout Pool: Medal, Shootout Pool Prize Rev A",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/375684-shootout-pool-prize",
+        "imageURL": "https://images.launchbox-app.com//e118660d-1853-4ffd-89c7-903120d7f734.png"
+      },
+      "D": "English",
+      "E": "Interactive, Sports, Tabletop",
+      "F": 1.0,
+      "G": "REMOVED",
+      "H": "NAOMI"
+    },
+    {
+      "A": "Shootout Pool Prize Version B",
+      "B": "Shootout Pool: Medal,",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/38854-shootout-pool-prize-version-b",
+        "imageURL": "https://images.launchbox-app.com//c6da87a1-c6ac-4c1d-b7ed-24130d0fa2a1.png"
+      },
+      "D": "English",
+      "E": "Interactive, Sports, Tabletop",
+      "F": 2.0,
+      "G": "REMOVED",
+      "H": "NAOMI"
+    },
+    {
+      "A": "Soreike! Anpanman Popcorn Koujou 2",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/236734-soreike-anpanman-popcorn-koujou-2",
+        "imageURL": "https://images.launchbox-app.com//f2293af7-953a-440e-8369-1021a78002ed.jpg"
+      },
+      "D": "UNKOWN",
+      "E": "Interactive",
+      "F": 1.0,
+      "G": "SKIPPED",
+      "H": "NAOMI"
+    },
+    {
+      "A": "Star Horse",
+      "B": "Staho",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/39133-star-horse",
+        "imageURL": "https://images.launchbox-app.com//db19fc09-c9fb-4b15-8601-daf7c651abd3.jpg"
+      },
+      "D": "UNKOWN",
+      "E": "Racing, Sports, Versus",
+      "F": 10.0,
+      "G": "SKIPPED",
+      "H": "NAOMI"
+    },
+    {
+      "A": "Star Horse 2001",
+      "B": "Staho 2001",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/237092-star-horse-2001",
+        "imageURL": "https://images.launchbox-app.com//cb7180e4-16b4-4431-a0a6-cbf26a94f321.jpg"
+      },
+      "D": "UNKOWN",
+      "E": "Racing, Sports, Versus",
+      "F": 10.0,
+      "G": "SKIPPED",
+      "H": "NAOMI"
+    },
+    {
+      "A": "Star Horse 2002",
+      "B": "Staho 2002",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/236369-star-horse-2002",
+        "imageURL": "https://images.launchbox-app.com//5b08fa4c-087d-48d6-a024-4ac95e63295e.jpg"
+      },
+      "D": "UNKOWN",
+      "E": "Racing, Sports, Versus",
+      "F": 10.0,
+      "G": "SKIPPED",
+      "H": "NAOMI"
+    },
+    {
+      "A": "Star Horse Progress",
+      "B": "Staho Progress",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/39134-star-horse-progress",
+        "imageURL": "https://images.launchbox-app.com//d036f09f-9889-41a6-9d17-acb8221b3c73.jpg"
+      },
+      "D": "UNKOWN",
+      "E": "Racing, Sports, Versus",
+      "F": 10.0,
+      "G": "SKIPPED",
+      "H": "NAOMI"
+    },
+    {
+      "A": "Star Horse Progress Returns",
+      "B": "Staho Progress Returns",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/39135-star-horse-progress-returns",
+        "imageURL": "https://images.launchbox-app.com//a8106310-ed8f-4c48-a3ed-25cbdfb37bb3.jpg"
+      },
+      "D": "UNKOWN",
+      "E": "Racing, Sports, Versus",
+      "F": 16.0,
+      "G": "SKIPPED",
+      "H": "NAOMI"
+    },
+    {
+      "A": "The Typing of the Dead",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/39633-the-typing-of-the-dead",
+        "imageURL": "https://images.launchbox-app.com//7f5d4849-70d8-4cec-80a2-6afa19a97953.png"
+      },
+      "D": "UNKOWN",
+      "E": "Co-op, Horror, Shooter, Typing",
+      "F": 2.0,
+      "G": "SKIPPED",
+      "H": "NAOMI"
+    },
+    {
+      "A": "Virtua Golf",
+      "B": "Dynamic Golf",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/36050-virtua-golf",
+        "imageURL": "https://images.launchbox-app.com//be4e94f5-1f7f-4494-b2e1-6f156c475690.png"
+      },
+      "D": "English",
+      "E": "Golf, Sports, Versus",
+      "F": 4.0,
+      "G": "REMOVED",
+      "H": "NAOMI"
+    },
+    {
+      "A": "World Kicks",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/102523-world-kicks",
+        "imageURL": "https://gamesdb-images.launchbox.gg/r2_25e81dcc-f16f-4c0f-a4db-949bd1e98cb2.jpg"
+      },
+      "D": "English",
+      "E": "Interactive, Soccer, Sports",
+      "F": 4.0,
+      "G": "REMOVED",
+      "H": "NAOMI"
+    },
+    {
+      "A": "Club Kart Cycraft Edition",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/243053-club-kart-for-cycraft",
+        "imageURL": "https://images.launchbox-app.com//33ced0af-b8ec-4615-a887-a53e67cad3f5.jpg"
+      },
+      "D": "UNKOWN",
+      "E": "Driving, Racing, Versus, Sports",
+      "F": 8.0,
+      "G": "REMOVED",
+      "H": "NAOMI 2"
+    },
+    {
+      "A": "Driving Simulator",
+      "B": "Sega Driving Simulator",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/243052-driving-simulator",
+        "imageURL": "https://images.launchbox-app.com//4a69290f-aaf0-43ce-8223-ea48f0eb6aa0.jpg"
+      },
+      "D": "UNKOWN",
+      "E": "Driving, Simulator",
+      "F": 1.0,
+      "G": "INACCESSIBLE",
+      "H": "NAOMI 2"
+    },
+    {
+      "A": "Initial D Arcade Stage Ver. 3 Cycraft Edition",
+      "B": "Initial D: Version 3 Cycraft",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/137246-initial-d-arcade-stage-ver-3-cycraft-edition",
+        "imageURL": "https://images.launchbox-app.com//011f3685-6644-4f99-ad76-90bf8e67cf0f.jpg"
+      },
+      "D": "UNKOWN",
+      "E": "Driving, Racing",
+      "F": 2.0,
+      "G": "REMOVED",
+      "H": "NAOMI 2"
+    },
+    {
+      "A": "Quest Of D",
+      "B": null,
+      "C": {
+        "text": "(Slightly Innacurate) LaunchBox",
+        "hyperlink": "https://segaretro.org/Quest_of_D",
+        "imageURL": "media/noImage.png"
+      },
+      "D": "UNKOWN",
+      "E": "Interactive, RPG",
+      "F": 1.0,
+      "G": "SKIPPED",
+      "H": "NAOMI 2"
+    },
+    {
+      "A": "World Club Champion Football European Clubs 2004-2005",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/267390-world-club-champion-football-european-clubs-2004-2005",
+        "imageURL": "https://images.launchbox-app.com//b086d7ec-4657-42db-9d3c-d1a07969327b.jpg"
+      },
+      "D": "UNKOWN",
+      "E": "Interactive, Soccer, Sports",
+      "F": 8.0,
+      "G": "SKIPPED",
+      "H": "NAOMI 2"
+    },
+    {
+      "A": "World Club Champion Football European Clubs 2005-2006",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/267365-world-club-champion-football-european-clubs-2005-2006",
+        "imageURL": "https://images.launchbox-app.com//e8268e0f-d00b-4114-94cc-d85f811e7dde.jpg"
+      },
+      "D": "UNKOWN",
+      "E": "Interactive, Soccer, Sports",
+      "F": 8.0,
+      "G": "SKIPPED",
+      "H": "NAOMI 2"
+    },
+    {
+      "A": "World Club Champion Football Serie A 2001-2002",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/267305-world-club-champion-football-serie-a-2001-2002",
+        "imageURL": "https://images.launchbox-app.com//584f3207-7aeb-41c3-af24-cb37af5ee259.jpg"
+      },
+      "D": "UNKOWN",
+      "E": "Interactive, Soccer, Sports",
+      "F": 8.0,
+      "G": "SKIPPED",
+      "H": "NAOMI 2"
+    },
+    {
+      "A": "World Club Champion Football Serie A 2002-2003",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/267376-world-club-champion-football-serie-a-2002-2003",
+        "imageURL": "https://images.launchbox-app.com//c4472afb-908d-45cf-bdab-7aa8415c774d.jpg"
+      },
+      "D": "UNKOWN",
+      "E": "Interactive, Soccer, Sports",
+      "F": 8.0,
+      "G": "SKIPPED",
+      "H": "NAOMI 2"
+    },
+    {
+      "A": "Chase 1929",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/14453-chase-1929",
+        "imageURL": "https://images.launchbox-app.com//b10740e8-4b1b-4f7d-b071-7884771137ce.jpg"
+      },
+      "D": "UNKOWN",
+      "E": "Driving",
+      "F": 2.0,
+      "G": "INACCESSIBLE",
+      "H": "Atomiswave"
+    },
+    {
+      "A": "Guilty Gear X Ver. 1.5",
+      "B": "GGX Ver. 1.5",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/41849-guilty-gear-x-ver-15",
+        "imageURL": "https://images.launchbox-app.com//4eaf4f5b-4e9c-4a37-8347-4a0f9e690bee.png"
+      },
+      "D": "UNKOWN",
+      "E": "2D Fighting, Versus",
+      "F": 2.0,
+      "G": "SKIPPED",
+      "H": "Atomiswave"
+    },
+    {
+      "A": "Horse Racing: Victory Furlong",
+      "B": "Net Select Keiba Victory Furlong",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/89348-horse-racing-victory-furlong",
+        "imageURL": "https://images.launchbox-app.com//72df8620-e4c4-44ab-a573-cbae060d8593.png"
+      },
+      "D": "Japanese",
+      "E": "Interactive, Racing, Sports",
+      "F": 2.0,
+      "G": "REMOVED",
+      "H": "Atomiswave"
+    },
+    {
+      "A": "Maximum Speed",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/41853-maximum-speed",
+        "imageURL": "https://images.launchbox-app.com//d5847731-b802-4010-ac5e-94b5fc74c517.png"
+      },
+      "D": "English",
+      "E": "Driving, Racing",
+      "F": 1.0,
+      "G": "REMOVED",
+      "H": "Atomiswave"
+    },
+    {
+      "A": "Miracle Stadium",
+      "B": null,
+      "C": {
+        "text": "(May be Premier Eleven) LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/122368-miracle-stadium",
+        "imageURL": "https://images.launchbox-app.com//82af7544-7313-4dd8-b472-cdd32273b877.jpg"
+      },
+      "D": "UNKOWN",
+      "E": "UNKNOWN",
+      "F": "UNKNOWN",
+      "G": "INACCESSIBLE",
+      "H": "Atomiswave"
+    },
+    {
+      "A": "Premier Eleven",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/122364-premier-eleven",
+        "imageURL": "https://images.launchbox-app.com//75a78769-e496-409c-bc95-9a6ff618bfe7.jpg"
+      },
+      "D": "UNKOWN",
+      "E": "Soccer, Sports",
+      "F": 2.0,
+      "G": "INACCESSIBLE",
+      "H": "Atomiswave"
+    },
+    {
+      "A": "Sammy vs. Capcom",
+      "B": null,
+      "C": {
+        "text": "Reddit",
+        "hyperlink": "https://www.reddit.com/r/TwoBestFriendsPlay/comments/zram7t/sammy_vs_capcom_the_crossover_fighter_we_never_got/",
+        "imageURL": "media/noImage.png"
+      },
+      "D": "UNKOWN",
+      "E": "2D Fighting, Versus",
+      "F": 2.0,
+      "G": "INACCESSIBLE",
+      "H": "Atomiswave"
+    },
+    {
+      "A": "Sega Bass Fishing Challenge",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/42607-sega-bass-fishing-challenge",
+        "imageURL": "https://images.launchbox-app.com//a7ea5ba9-1f11-4ec7-bd2e-5a2b0db6f53b.png"
+      },
+      "D": "English",
+      "E": "Fishing, Sports",
+      "F": 4.0,
+      "G": "REMOVED",
+      "H": "Atomiswave"
+    },
+    {
+      "A": "Sega Clay Challenge",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/41842-sega-clay-challenge",
+        "imageURL": "https://images.launchbox-app.com//2aa401ff-effc-42ae-9fe6-3cf917e80240.png"
+      },
+      "D": "English",
+      "E": "Interactive Shooter, Sports",
+      "F": 2.0,
+      "G": "REMOVED",
+      "H": "Atomiswave"
+    },
+    {
+      "A": "Sports Shooting USA",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/41860-sports-shooting-usa",
+        "imageURL": "https://gamesdb-images.launchbox.gg/r2_9ffddba7-7c61-4a62-a6bc-6d3edb0f68cc.jpg"
+      },
+      "D": "English",
+      "E": "Interactive Shooter, Sports",
+      "F": 2.0,
+      "G": "REMOVED",
+      "H": "Atomiswave"
+    },
+    {
+      "A": "Choplifter",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/8481-choplifter",
+        "imageURL": "https://images.launchbox-app.com//42bc3ea7-b2c5-430f-90e8-ef566ebfa574.png"
+      },
+      "D": null,
+      "E": "Scrolling Shooter, Shooter",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "ARCADE"
+    },
+    {
+      "A": "Double Dragon",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/10490-double-dragon",
+        "imageURL": "https://gamesdb-images.launchbox.gg/r2_a4d00e74-f36d-4e15-8669-3d630ae5f132.png"
+      },
+      "D": null,
+      "E": "Beat'em Up, Co-op",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "ARCADE"
+    },
+    {
+      "A": "Dragon Breed",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/31547-dragon-breed",
+        "imageURL": "https://images.launchbox-app.com//690adfbf-8650-4aa8-819a-370ccdbbe21f.png"
+      },
+      "D": null,
+      "E": "Co-op, Scrolling Shooter, Shooter",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "ARCADE"
+    },
+    {
+      "A": "Hammerin' Harry",
+      "B": "Daiku no Gensan",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/29533-hammerin-harry",
+        "imageURL": "https://images.launchbox-app.com//97e95ba1-4890-4f75-9f7b-4e907e85c1aa.png"
+      },
+      "D": null,
+      "E": "Platform",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "ARCADE"
+    },
+    {
+      "A": "Hook",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/24254-hook",
+        "imageURL": "https://images.launchbox-app.com//9b4f2b66-62cd-46fb-a1d0-850816756f47.png"
+      },
+      "D": null,
+      "E": "Beat'em Up, Co-op",
+      "F": 4.0,
+      "G": "EPILEPSY WARNING",
+      "H": "ARCADE"
+    },
+    {
+      "A": "Image Fight",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/36846-image-fight",
+        "imageURL": "https://images.launchbox-app.com//fd88e3af-754b-4372-92d7-e16c3b1caa35.png"
+      },
+      "D": null,
+      "E": "Scrolling Shooter, Shooter",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "ARCADE"
+    },
+    {
+      "A": "In the Hunt",
+      "B": "Kaitei Daisensou",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/29540-in-the-hunt",
+        "imageURL": "https://images.launchbox-app.com//f99bb529-90c7-447c-854f-dff66767d8a9.png"
+      },
+      "D": null,
+      "E": "Co-op, Scrolling Shooter, Shooter",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "ARCADE"
+    },
+    {
+      "A": "Legend of Hero Tonma",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/29607-legend-of-hero-tonma",
+        "imageURL": "https://images.launchbox-app.com//15ba89cd-293c-4934-aa5a-61f263e71c4b.png"
+      },
+      "D": null,
+      "E": "Platform",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "ARCADE"
+    },
+    {
+      "A": "Night Driver",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/37860-night-driver",
+        "imageURL": "https://images.launchbox-app.com//19b1b15d-afb8-47d4-8fd1-c89548a9f1e1.jpg"
+      },
+      "D": "English",
+      "E": "Driving, Racing",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "ARCADE"
+    },
+    {
+      "A": "Ninja Baseball Bat Man",
+      "B": "Yakyuu Kakutou League-Man",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/27172-ninja-baseball-bat-man",
+        "imageURL": "https://images.launchbox-app.com//bd61faff-4fc0-44a0-b8db-5b487d427512.png"
+      },
+      "D": null,
+      "E": "Baseball, Co-op",
+      "F": 4.0,
+      "G": "EPILEPSY WARNING",
+      "H": "ARCADE"
+    },
+    {
+      "A": "Ninja Gaiden",
+      "B": "Ninja Ryukenden",
+      "C": "LaunchBox",
+      "D": "English",
+      "E": "Beat'em Up, Co-op",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "ARCADE"
+    },
+    {
+      "A": "Ninjakun Majou no Bouken",
+      "B": "Ninja-Kun: Majou no Bouken, Ninja-kun: Adventure of Devil Castle",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/37879-ninja-kid-ii",
+        "imageURL": "https://images.launchbox-app.com//02f2f68d-e9f8-4575-80fa-550ce1ffe713.png"
+      },
+      "D": null,
+      "E": "Platform",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "ARCADE"
+    },
+    {
+      "A": "Pac-Man",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/26890-pac-man",
+        "imageURL": "https://images.launchbox-app.com//3ef65d5c-d425-4168-b5d9-c4fff13333c3.png"
+      },
+      "D": "English",
+      "E": "Party",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "ARCADE"
+    },
+    {
+      "A": "R-Type II",
+      "B": "R•Type II",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/12243-r-type-ii",
+        "imageURL": "https://images.launchbox-app.com//036a8331-4ffd-4f8c-a921-00c4025f5ce1.png"
+      },
+      "D": null,
+      "E": "Scrolling Shooter, Shooter",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "ARCADE"
+    },
+    {
+      "A": "Ring King",
+      "B": "King of Boxer",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/37038-king-of-boxer",
+        "imageURL": "https://images.launchbox-app.com//3fb57f15-51b9-40f2-83f9-decf1f561158.png"
+      },
+      "D": null,
+      "E": "Boxing, Sports",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "ARCADE"
+    },
+    {
+      "A": "Robocop 2",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/27111-robocop-2",
+        "imageURL": "https://images.launchbox-app.com//2d1600fb-2618-4477-aa02-b47892b3dd6d.png"
+      },
+      "D": null,
+      "E": "Co-op, Scrolling Shooter, Shooter",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "ARCADE"
+    },
+    {
+      "A": "Robotron: 2084",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/31159-robotron-2084",
+        "imageURL": "https://images.launchbox-app.com//f6efe14e-8a8c-46f1-9eea-d98e94d51b66.png"
+      },
+      "D": null,
+      "E": "Shooter",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "ARCADE"
+    },
+    {
+      "A": "Rush'n Attack",
+      "B": "Green Beret",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/16881-rushn-attack",
+        "imageURL": "https://images.launchbox-app.com//e71b0a0b-858f-4835-b92d-d0585d9d23bd.png"
+      },
+      "D": null,
+      "E": "Platform, Shooter",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "ARCADE"
+    },
+    {
+      "A": "Side Arms- Hyper Dyne",
+      "B": "Hyper Dyne: Side Arms",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/38867-hyper-dyne-side-arms",
+        "imageURL": "https://images.launchbox-app.com//06a66648-5d9f-444f-8f1e-3c80d94dc717.png"
+      },
+      "D": "English",
+      "E": "Co-op, Scrolling Shooter, Shooter",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "ARCADE"
+    },
+    {
+      "A": "The Legend of Kage",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/30633-the-legend-of-kage",
+        "imageURL": "https://images.launchbox-app.com//e61bd950-a963-4ccd-a3e9-6e4312f75d5e.png"
+      },
+      "D": "English",
+      "E": "Beat'em Up, Platform, Shooter",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "ARCADE"
+    },
+    {
+      "A": "Two Crude",
+      "B": "Crude Buster",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/11700-two-crude",
+        "imageURL": "https://images.launchbox-app.com//3487c20b-a82b-4aae-99f9-8982b1b9aabf.png"
+      },
+      "D": null,
+      "E": "Beat'em Up, Co-op, Platform",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "ARCADE"
+    },
+    {
+      "A": "Undercover Cops",
+      "B": "Undercover Cops: Alpha Renewal",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/2339-undercover-cops",
+        "imageURL": "https://images.launchbox-app.com//c71e1223-170e-4a5c-b79a-6a2761657921.png"
+      },
+      "D": null,
+      "E": "Beat'em Up, Co-op",
+      "F": 3.0,
+      "G": "EPILEPSY WARNING",
+      "H": "ARCADE"
+    },
+    {
+      "A": "X Multiply",
+      "B": "Xmultiply",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/40227-x-multiply",
+        "imageURL": "https://images.launchbox-app.com//53b87ed6-dd3e-4c9b-b082-721127a15a29.png"
+      },
+      "D": null,
+      "E": "Co-op, Scrolling Shooter, Shooter",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "ARCADE"
+    },
+    {
+      "A": "Adventures of Lolo",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/310-adventures-of-lolo",
+        "imageURL": "https://images.launchbox-app.com//6cc16287-c84b-4f27-a222-52a5321125e8.png"
+      },
+      "D": "English",
+      "E": "Puzzle",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Adventures of Lolo 2",
+      "B": "Adventures of Lolo",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "http://gamesdb.launchbox-app.com/games/details/1550-adventures-of-lolo-2",
+        "imageURL": "https://images.launchbox-app.com//df358a0e-000e-4f06-9b4a-f2574cb23bf9.png"
+      },
+      "D": "English",
+      "E": "Puzzle",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Athletic World",
+      "B": "Family Trainer 1: Athletic World",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1562-athletic-world",
+        "imageURL": "https://images.launchbox-app.com//b358d461-3ceb-4103-accf-d878347b4e33.png"
+      },
+      "D": "English",
+      "E": "Interactive, Sports",
+      "F": 1.0,
+      "G": "REMOVED",
+      "H": "NES"
+    },
+    {
+      "A": "Barker Bill's Trick Shooting",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1571-barker-bills-trick-shooting",
+        "imageURL": "https://images.launchbox-app.com//9a67e338-2bfb-4123-aeea-3c444a388a8b.png"
+      },
+      "D": "English",
+      "E": "Interactive, Shooter",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Batman: Return of the Joker",
+      "B": "Dynamite Batman",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1004-batman-return-of-the-joker",
+        "imageURL": "https://images.launchbox-app.com//38729404-9128-44bb-a6a2-5cc781c94878.png"
+      },
+      "D": "English",
+      "E": "Platform, Shooter",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Beetlejuice",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1579-beetlejuice",
+        "imageURL": "https://images.launchbox-app.com//d7276a73-f812-4f4b-831c-69fe732fb66d.png"
+      },
+      "D": "English",
+      "E": "Platform",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Blades of Steel",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1007-blades-of-steel",
+        "imageURL": "https://images.launchbox-app.com//251f2b77-2752-4d7f-83c0-aeb6a887b077.png"
+      },
+      "D": "English",
+      "E": "Hockey, Sports, Versus",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Blaster Master",
+      "B": "Chou-Wakusei Senki MetaFight",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1008-blaster-master",
+        "imageURL": "https://images.launchbox-app.com//7b11a650-08d8-412b-adb1-e5137574ff2e.png"
+      },
+      "D": "English",
+      "E": "Platform, Shooter",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Capcom's Gold Medal Challenge '92",
+      "B": "Capcom Barcelona '92",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1747-capcoms-gold-medal-challenge-92",
+        "imageURL": "https://images.launchbox-app.com//8af169cc-9a06-41b9-8b1a-4907909dea29.png"
+      },
+      "D": "English",
+      "E": "Sports, Versus",
+      "F": 8.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Castle of Dragon",
+      "B": "Dragon Unit",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1210-castle-of-dragon",
+        "imageURL": "https://images.launchbox-app.com//764abc21-babf-4b29-98fe-3d79086348a9.png"
+      },
+      "D": "English",
+      "E": "Hack and Slash, Platform",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Clash at Demonhead",
+      "B": "Dengeki: Big Bang!",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1216-clash-at-demonhead",
+        "imageURL": "https://images.launchbox-app.com//259f8d31-900a-40e1-b910-17e9d8dee7f1.png"
+      },
+      "D": "English",
+      "E": "Adventure, Platform, Shooter",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Classic Concentration",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1612-classic-concentration",
+        "imageURL": "https://images.launchbox-app.com//abfde87f-927e-4dec-a2dc-d48f76b6fa86.png"
+      },
+      "D": "English",
+      "E": "Puzzle, Tabletop, Versus",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Conflict",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1617-conflict",
+        "imageURL": "https://images.launchbox-app.com//80ba907a-9792-49f9-91eb-fc812ede063d.jpg"
+      },
+      "D": "English",
+      "E": "Strategy, Versus",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Cool World",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1618-cool-world",
+        "imageURL": "https://images.launchbox-app.com//fd3983f2-cd07-47af-9e84-ebc9c187c719.png"
+      },
+      "D": "English",
+      "E": "Platform",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "CrossFire",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/25012-crossfire",
+        "imageURL": "https://images.launchbox-app.com//e7bf1ae4-c380-4007-9e94-7d3f9021f3d9.png"
+      },
+      "D": "English",
+      "E": "Platform, Scrolling Shooter, Shooter",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Crystalis",
+      "B": "God Slayer: Haruka Tenkuu no Sonata, \nGod Slayer: Sonata of the Distant Heavens",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/323-crystalis",
+        "imageURL": "https://images.launchbox-app.com//6c4013fd-71cf-4d98-ab3a-74d0ed1ec26f.png"
+      },
+      "D": "English",
+      "E": "Adventure, RPG",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Dance Aerobics",
+      "B": "Family Trainer 3: Aerobics Studio",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "http://gamesdb.launchbox-app.com/games/details/1827-dance-aerobics",
+        "imageURL": "https://images.launchbox-app.com//e8bdef27-7a3c-4c76-a89e-6e0b3692be6b.png"
+      },
+      "D": "English",
+      "E": "Interactive",
+      "F": 1.0,
+      "G": "REMOVED",
+      "H": "NES"
+    },
+    {
+      "A": "Dash Galaxy in the Alien Asylum",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1624-dash-galaxy-in-the-alien-asylum",
+        "imageURL": "https://images.launchbox-app.com//13b8f1aa-4b80-4fc2-966c-468126a34196.png"
+      },
+      "D": "English",
+      "E": "Platform",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Days of Thunder",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1626-days-of-thunder",
+        "imageURL": "https://images.launchbox-app.com//901ca715-33c2-4073-bd31-a6640bb8b377.png"
+      },
+      "D": "English",
+      "E": "Driving, Racing",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Defender II",
+      "B": "Star Gate",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/2712-defender-ii",
+        "imageURL": "https://images.launchbox-app.com//9066c748-52e5-483b-90da-56e2c838e334.png"
+      },
+      "D": "English",
+      "E": "Shooter",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Double Dribble",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/325-double-dribble",
+        "imageURL": "https://images.launchbox-app.com//588cdc7c-b0fe-44a8-90d7-3d2ae847d3db.png"
+      },
+      "D": null,
+      "E": "Basketball, Versus",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Dr. Jekyll and Mr. Hyde",
+      "B": "Jekyll Hakase no Houma ga Toki",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1237-dr-jekyll-and-mr-hyde",
+        "imageURL": "https://gamesdb-images.launchbox.gg/r2_3a27adbf-6d59-4e70-8d55-0131361ff858.png"
+      },
+      "D": "English",
+      "E": "Platform",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Dragon Fighter",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1831-dragon-fighter",
+        "imageURL": "https://images.launchbox-app.com//e45b8a03-d858-4eec-80ba-b41acb0fd04b.jpg"
+      },
+      "D": "English",
+      "E": "Platform",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Dragon Spirit: The New Legend",
+      "B": "Dragon Spirit: Aratanaru Densetsu",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1238-dragon-spirit-the-new-legend",
+        "imageURL": "https://images.launchbox-app.com//5713e72c-e519-4c20-b469-df237840d426.png"
+      },
+      "D": null,
+      "E": "Scrolling Shooter, Shooter",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Dragon Warrior II",
+      "B": "Dragon Quest II: Akuryou no Kamigami",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1239-dragon-warrior-ii",
+        "imageURL": "https://images.launchbox-app.com//8189e2fb-38e1-43fd-8d4f-1d2bf46e3669.png"
+      },
+      "D": "English",
+      "E": "Adventure, RPG",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "F-15 Strike Eagle",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1726-f-15-strike-eagle",
+        "imageURL": "https://images.launchbox-app.com//fe698106-f1e4-4a58-bc63-52b91f53b0d7.png"
+      },
+      "D": "English",
+      "E": "Flight, Shooter",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Final Fantasy III",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/7573-final-fantasy-iii",
+        "imageURL": "https://images.launchbox-app.com//17dccdf2-c817-4b28-b3fa-eaef92a33287.png"
+      },
+      "D": "English",
+      "E": "Adventure, RPG",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Flying Warriors",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1732-flying-warriors",
+        "imageURL": "https://gamesdb-images.launchbox.gg/r2_3534445f-2c4c-4906-8809-1509b092dbec.png"
+      },
+      "D": "English",
+      "E": "Beat'em Up, Platform, RPG",
+      "F": 8.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Frankenstein: The Monster Returns",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1833-frankenstein-the-monster-returns",
+        "imageURL": "https://images.launchbox-app.com//c636ba57-b221-4914-9937-25baacf710d3.png"
+      },
+      "D": "English",
+      "E": "Hack and Slash, Platform",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Freedom Force",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/2255-freedom-force",
+        "imageURL": "https://images.launchbox-app.com//1477c4cc-05a4-45d6-9882-67471a465094.png"
+      },
+      "D": "English",
+      "E": "Interactive, Shooter",
+      "F": 1.0,
+      "G": "REMOVED",
+      "H": "NES"
+    },
+    {
+      "A": "Friday the 13th",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1254-friday-the-13th",
+        "imageURL": "https://images.launchbox-app.com//cac3d5bf-aab5-4cbc-aa42-c951e249af24.png"
+      },
+      "D": "English",
+      "E": "Horror, Platform, Shooter",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Fun House",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1734-fun-house",
+        "imageURL": "https://images.launchbox-app.com//cc98fe40-f961-4e2b-983c-a6ca97d98d7f.png"
+      },
+      "D": "English",
+      "E": "Platform",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Garry Kitchen's Battletank",
+      "B": "Battle Tank",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1577-garry-kitchens-battletank",
+        "imageURL": "https://images.launchbox-app.com//99868ac4-cde4-4637-a69a-deb8b4a51aa6.png"
+      },
+      "D": "English",
+      "E": "Driving, Shooter",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Goal!",
+      "B": "Moero!! Pro Soccer",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1259-goal",
+        "imageURL": "https://images.launchbox-app.com//ebf42fd5-c067-46b7-80df-33b6853eea19.png"
+      },
+      "D": "English",
+      "E": "Co-op, Soccer, Sports, Versus",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Gotcha! The Sport!",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1748-gotcha-the-sport",
+        "imageURL": "https://images.launchbox-app.com//dcf17edb-d656-4e31-82c0-9bc358cad8cd.png"
+      },
+      "D": "English",
+      "E": "Interactive, Shooter, Sports",
+      "F": 1.0,
+      "G": "REMOVED",
+      "H": "NES"
+    },
+    {
+      "A": "Gumshoe",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/333-gumshoe",
+        "imageURL": "https://images.launchbox-app.com//0ef4da50-23a0-4d5d-a73e-786f3c9bed55.png"
+      },
+      "D": null,
+      "E": "Interactive, Platform, Shooter",
+      "F": 1.0,
+      "G": "REMOVED",
+      "H": "NES"
+    },
+    {
+      "A": "Gyromite",
+      "B": "Gyrodine, Family Computer Robot: Gyro Set, Robot Gyro",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1266-gyromite",
+        "imageURL": "https://images.launchbox-app.com//0cf7da3a-6fac-49e2-a109-4c26d9d4ebfe.png"
+      },
+      "D": "English",
+      "E": "Co-op, Interactive, Platform, Puzzle",
+      "F": 2.0,
+      "G": "REMOVED",
+      "H": "NES"
+    },
+    {
+      "A": "Hogan's Alley",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1280-hogans-alley",
+        "imageURL": "https://images.launchbox-app.com//f68a211c-92df-4871-9cd7-822995e31b22.png"
+      },
+      "D": "English",
+      "E": "Interactive, Shooter",
+      "F": 1.0,
+      "G": "REMOVED",
+      "H": "NES"
+    },
+    {
+      "A": "Klash Ball",
+      "B": "KlashBall",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1780-klash-ball",
+        "imageURL": "https://images.launchbox-app.com//9e9f1e42-5b42-4c06-84e7-c135e4b21ca8.png"
+      },
+      "D": "English",
+      "E": "Sports, Versus",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Last Action Hero",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/7287-last-action-hero",
+        "imageURL": "https://images.launchbox-app.com//506f92e2-8b7d-4ad5-a7ff-acc88997221b.png"
+      },
+      "D": "English",
+      "E": "Beat'em Up, Platform",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Legacy of the Wizard",
+      "B": "Dragon Slayer 4: Drasle Family",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1436-legacy-of-the-wizard",
+        "imageURL": "https://images.launchbox-app.com//cab84f99-ae65-4b2d-8a50-2ca49a9aab36.png"
+      },
+      "D": "English",
+      "E": "Platform",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Little Ninja Brothers",
+      "B": "Super Chinese 2: Dragon Kid",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1788-little-ninja-brothers",
+        "imageURL": "https://images.launchbox-app.com//6f282c53-22bc-4525-acb1-eeaaff67bfde.png"
+      },
+      "D": "English",
+      "E": "Adventure, Co-op, RPG",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "MagMax",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1389-magmax",
+        "imageURL": "https://images.launchbox-app.com//b4c17cf6-a8c6-45fd-bf1d-b4fd429a78ea.png"
+      },
+      "D": "English",
+      "E": "Scrolling Shooter, Shooter",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Mega Man",
+      "B": "Rockman",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/342-mega-man",
+        "imageURL": "https://images.launchbox-app.com//e4a014f9-34d9-4f65-ae62-cc32496f8725.png"
+      },
+      "D": "English",
+      "E": "Platform, Shooter",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Mega Man 2",
+      "B": "Rockman 2, Mega Man 2: Dr. Wily's Riddle, Rockman 2: Dr. Wily no Nazo",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/343-mega-man-2",
+        "imageURL": "https://images.launchbox-app.com//89532e23-0e38-4d12-8149-d6b6143b47e4.png"
+      },
+      "D": "English",
+      "E": "Platform, Shooter",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Mega Man 5",
+      "B": "Rockman 5: Blues no Wana!",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/122-mega-man-5",
+        "imageURL": "https://images.launchbox-app.com//06c3b740-0524-4dda-8a40-c7376d96c0a6.jpg"
+      },
+      "D": "English",
+      "E": "Platform, Shooter",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Mega Man 6",
+      "B": "Rockman 6: Shijou Saidai no Tatakai!, Mega Man 6: The Greatest Battle in History!!",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/346-mega-man-6",
+        "imageURL": "https://images.launchbox-app.com//2df8b934-ced2-4e27-a7da-266fdc1b5656.jpg"
+      },
+      "D": "English",
+      "E": "Platform, Shooter",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Ninja Crusaders",
+      "B": "Ninja Crusaders: Ryuuga",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1866-ninja-crusaders",
+        "imageURL": "https://images.launchbox-app.com//137de365-c314-445b-8253-8a5ca9fc86a7.png"
+      },
+      "D": "English",
+      "E": "Beat'em Up, Platform, Shooter",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Operation Wolf",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1339-operation-wolf",
+        "imageURL": "https://images.launchbox-app.com//ba968852-8724-47e9-a9bb-d0847480599c.jpg"
+      },
+      "D": "English",
+      "E": "Scrolling Shooter, Shooter",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Pin Bot",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1905-pin-bot",
+        "imageURL": "https://images.launchbox-app.com//389d07a5-acec-484f-8533-39099d797e71.png"
+      },
+      "D": "English",
+      "E": "Tabletop",
+      "F": 4.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "R.B.I. Baseball",
+      "B": "Pro Yakyuu: Family Stadium",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1924-rbi-baseball",
+        "imageURL": "https://images.launchbox-app.com//0ffb75a4-be86-4b02-b815-ab31ccc76e63.jpg"
+      },
+      "D": "English",
+      "E": "Baseball, Sports, Versus",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Raid on Bungeling Bay",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1932-raid-on-bungeling-bay",
+        "imageURL": "https://images.launchbox-app.com//89edb02b-c08d-49ea-95b7-b13d16141762.png"
+      },
+      "D": "English",
+      "E": "Shooter",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Rally Bike",
+      "B": "Dash Yarou, Dash Rascal",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1933-rally-bike",
+        "imageURL": "https://images.launchbox-app.com//5055c8f9-42fb-4717-8148-22b2f0629738.png"
+      },
+      "D": "English",
+      "E": "Driving, Racing, Sports",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Ring King",
+      "B": "Family Boxing",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1940-ring-king",
+        "imageURL": "https://images.launchbox-app.com//b0b2c8a6-939e-4f88-a1da-a04667df0df3.png"
+      },
+      "D": "English",
+      "E": "Boxing, Sports, Versus",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Rockin' Kats",
+      "B": "New York Nyankies, NY Nyankies",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1370-rockin-kats",
+        "imageURL": "https://gamesdb-images.launchbox.gg/r2_03032b9f-fd6b-4bc3-8901-986a6fe961ce.png"
+      },
+      "D": "English",
+      "E": "Platform",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Shatterhand",
+      "B": "Tokkyuu Shirei Solbrain, Directive: Solbrain: Super Rescue, Super Rescue: Solbrain, Super Rescue RoboCop 3",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/21975-shatterhand",
+        "imageURL": "https://images.launchbox-app.com//c6499fa7-3249-4f34-9447-03d8718ba131.png"
+      },
+      "D": "English",
+      "E": "Beat'em Up, Platform",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Shingen the Ruler",
+      "B": "Takeda Shingen 2",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1372-shingen-the-ruler",
+        "imageURL": "https://images.launchbox-app.com//4325a333-635c-4c6f-aa7d-b1a34e6b5ce4.jpg"
+      },
+      "D": "English",
+      "E": "Strategy",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Shooting Range",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1969-shooting-range",
+        "imageURL": "https://images.launchbox-app.com//05599ba3-dd04-49fb-956c-6c1037e199f1.png"
+      },
+      "D": "English",
+      "E": "Interactive, Shooter",
+      "F": 4.0,
+      "G": "REMOVED",
+      "H": "NES"
+    },
+    {
+      "A": "Snow Brothers",
+      "B": "Snow Bros.: Nick & Tom",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1406-snow-brothers",
+        "imageURL": "https://images.launchbox-app.com//9e1e1fde-8558-4194-897c-5907f7041004.jpg"
+      },
+      "D": "English",
+      "E": "Co-op, Platform",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Sqoon",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/2003-sqoon",
+        "imageURL": "https://images.launchbox-app.com//922a9350-ce2f-4743-9bc7-c86ed3ce8be0.png"
+      },
+      "D": "English",
+      "E": "Scrolling Shooter, Shooter",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Stack-Up",
+      "B": "Stack-Up: Block, Robot Block",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/2004-stack-up",
+        "imageURL": "https://images.launchbox-app.com//f86f7c1b-89c4-40a9-b8e3-c94d1231c8a8.png"
+      },
+      "D": "English",
+      "E": "Interactive, Puzzle",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Stadium Events",
+      "B": "Family Trainer 2: Running Stadium",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1410-stadium-events",
+        "imageURL": "https://images.launchbox-app.com//f31ece3a-96f2-4e13-a0ec-6467f78f64f2.jpg"
+      },
+      "D": "English",
+      "E": "Interactive, Sports, Versus",
+      "F": 2.0,
+      "G": "REMOVED",
+      "H": "NES"
+    },
+    {
+      "A": "Street Cop",
+      "B": "Family Trainer 6: Manhattan Police",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/2013-street-cop",
+        "imageURL": "https://images.launchbox-app.com//b1b835e5-d36f-49ce-9f23-2eb57331e9e5.png"
+      },
+      "D": "English",
+      "E": "Beat'em Up",
+      "F": 1.0,
+      "G": "REMOVED",
+      "H": "NES"
+    },
+    {
+      "A": "Street Fighter 2010: The Final Fight",
+      "B": "2010: Street Fighter",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1413-street-fighter-2010-the-final-fight",
+        "imageURL": "https://images.launchbox-app.com//02d75ce7-51fc-4607-a49e-d3cfda805aa5.png"
+      },
+      "D": "English",
+      "E": "Platform, Scrolling Shooter, Shooter",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Super Mario Bros. / Duck Hunt",
+      "B": "Super Mario Bros. + Duck Hunt, Super Mario Bros. and Duck Hunt",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/6123-super-mario-bros-duck-hunt",
+        "imageURL": "https://images.launchbox-app.com//0e2de457-ebc0-4a3a-bad4-1a431b5a1cad.png"
+      },
+      "D": null,
+      "E": "Interactive, Platform, Shooter, Versus",
+      "F": 2.0,
+      "G": "REMOVED",
+      "H": "NES"
+    },
+    {
+      "A": "Super Mario Bros. / Duck Hunt / World Class Track Meet",
+      "B": "Super Mario Bros. + Duck Hunt + World Class Track Meet",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/17061-super-mario-bros-duck-hunt-world-class-track-meet",
+        "imageURL": "https://images.launchbox-app.com//591e8867-c439-4325-98c6-7dfb2cf1ce2d.png"
+      },
+      "D": null,
+      "E": "Interactive, Platform, Shooter, Sports, Versus",
+      "F": 2.0,
+      "G": "REMOVED",
+      "H": "NES"
+    },
+    {
+      "A": "Super Mario Bros. / Tetris / Nintendo World Cup",
+      "B": "Super Mario Bros. + Tetris + Nintendo World Cup",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/19274-super-mario-bros-tetris-nintendo-world-cup",
+        "imageURL": "https://images.launchbox-app.com//91d5f394-f679-4abe-b060-09d77b0ffa89.png"
+      },
+      "D": null,
+      "E": "Co-op, Platform, Puzzle, Soccer, Sports, Versus",
+      "F": 4.0,
+      "G": "REMOVED",
+      "H": "NES"
+    },
+    {
+      "A": "Super Spike V'Ball / Nintendo World Cup",
+      "B": "Super Spike V'Ball + Nintendo World Cup",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/296-super-spike-vball-nintendo-world-cup",
+        "imageURL": "https://images.launchbox-app.com//cfe1da37-da15-47e3-b498-142269f3992a.png"
+      },
+      "D": "English",
+      "E": "Co-op, Soccer, Sports, Versus, Volleyball",
+      "F": 4.0,
+      "G": "REMOVED",
+      "H": "NES"
+    },
+    {
+      "A": "Super Team Games",
+      "B": "Family Trainer 7: Daiundoukai",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/2020-super-team-games",
+        "imageURL": "https://images.launchbox-app.com//c733e9ea-69d5-42ec-ab65-86fbf8281932.png"
+      },
+      "D": "English",
+      "E": "Interactive, Sports, Versus",
+      "F": 2.0,
+      "G": "REMOVED",
+      "H": "NES"
+    },
+    {
+      "A": "Teenage Mutant Ninja Turtles III: The Manhattan Project",
+      "B": "Teenage Mutant Hero Turtles III: The Manhattan Project, Teenage Mutant Ninja Turtles 2: The Manhattan Project",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1386-teenage-mutant-ninja-turtles-iii:-the-manhattan-project",
+        "imageURL": "https://images.launchbox-app.com//7fb97bbb-d5bb-4ae9-95d3-25bae3c76324.png"
+      },
+      "D": "English",
+      "E": "Beat'em Up, Co-op",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Terminator 2: Judgment Day",
+      "B": "Terminator 2",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/2030-terminator-2-judgment-day",
+        "imageURL": "https://images.launchbox-app.com//1033053a-f981-4c33-b00e-7dd9bd97fb33.png"
+      },
+      "D": "English",
+      "E": "Beat'em Up",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Tetris",
+      "B": "Tetris Nintendo",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1382-tetris",
+        "imageURL": "https://images.launchbox-app.com//9ecd4102-a283-4dfe-99cd-4c54e387cbff.png"
+      },
+      "D": "English",
+      "E": "Puzzle",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "The Legend of Kage",
+      "B": "Kage no Densetsu",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1437-the-legend-of-kage",
+        "imageURL": "https://images.launchbox-app.com//8bd0ff43-981d-4b61-85fb-23eda3a9019d.png"
+      },
+      "D": "English",
+      "E": "Platform, Shooter",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "The Magic of Scheherazade",
+      "B": "Arabian Dream Scheherazade",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1404-the-magic-of-scheherazade",
+        "imageURL": "https://images.launchbox-app.com//e28e2b63-c0db-4dc2-b28b-778e381d6050.png"
+      },
+      "D": "English",
+      "E": "Adventure, Hack and Slash, RPG",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "The Mutant Virus: \"Crisis in a Computer World!\"",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1858-the-mutant-virus-crisis-in-a-computer-world",
+        "imageURL": "https://images.launchbox-app.com//31e94fd0-8126-4117-831a-b62d70edd951.png"
+      },
+      "D": "English",
+      "E": "Platform, Shooter",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "The Ren & Stimpy Show: Buckeroo$!",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1937-the-ren-&-stimpy-show:-buckeroo$!",
+        "imageURL": "https://images.launchbox-app.com//197fec88-4b08-4b44-8bf1-401ba8e48e82.png"
+      },
+      "D": "English",
+      "E": "Platform",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "The Trolls in Crazyland",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/169359-the-trolls-in-crazyland",
+        "imageURL": "https://images.launchbox-app.com//8b9e98c0-933b-4e4e-8616-208ca2a676b6.png"
+      },
+      "D": "English",
+      "E": "Platform",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Time Lord",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/369-time-lord",
+        "imageURL": "https://images.launchbox-app.com//6ac8e5f5-b404-4581-b1f2-068c00250146.png"
+      },
+      "D": "English",
+      "E": "Beat'em Up, Platform, Shooter",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Tiny Toon Adventures",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1345-tiny-toon-adventures",
+        "imageURL": "https://images.launchbox-app.com//cea5697f-d849-4b3d-88c9-31b85d1cf333.jpg"
+      },
+      "D": "English",
+      "E": "Platform",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "To the Earth",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1423-to-the-earth",
+        "imageURL": "https://images.launchbox-app.com//ccd7f51a-1f7d-416f-875a-aa8cc52bbcac.jpg"
+      },
+      "D": "English",
+      "E": "Interactive, Shooter",
+      "F": 1.0,
+      "G": "REMOVED",
+      "H": "NES"
+    },
+    {
+      "A": "Werewolf: The Last Warrior",
+      "B": "Chou Jinrou Senki Warwolf, Warwolf Chronicles",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/2070-werewolf:-the-last-warrior",
+        "imageURL": "https://images.launchbox-app.com//a4a026b8-e977-4121-9e3b-7d3c1d7b0208.jpg"
+      },
+      "D": "English",
+      "E": "Beat'em Up, Platform",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Wild Gunman",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1543-wild-gunman",
+        "imageURL": "https://images.launchbox-app.com//fb8ad376-8f4f-47f7-a1a3-0b5867d2a5c6.png"
+      },
+      "D": "English",
+      "E": "Interactive, Shooter",
+      "F": 1.0,
+      "G": "REMOVED",
+      "H": "NES"
+    },
+    {
+      "A": "World Class Track Meet",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/20928-world-class-track-meet",
+        "imageURL": "https://images.launchbox-app.com//f088dcd2-6ce6-4c9e-a890-b98eba0d1ca0.png"
+      },
+      "D": "English",
+      "E": "Interactive, Sports, Versus",
+      "F": 6.0,
+      "G": "REMOVED",
+      "H": "NES"
+    },
+    {
+      "A": "Zoda's Revenge: StarTropics II",
+      "B": "StarTropics II: Zoda's Revenge",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1243-zoda's-revenge:-startropics-ii",
+        "imageURL": "https://images.launchbox-app.com//9ffce516-2327-4f89-953a-ded7fc82a7ea.png"
+      },
+      "D": "English",
+      "E": "Adventure, Platform",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NES"
+    },
+    {
+      "A": "Air Cavalry",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/258-air-cavalry",
+        "imageURL": "https://images.launchbox-app.com//0cdeeb32-a8c3-4002-ac96-68ab72c7836a.png"
+      },
+      "D": "English",
+      "E": "Flight, Shooter, Co-op, Versus",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Arcade's Greatest Hits: The Atari Collection 1",
+      "B": "Midway Presents Arcade's Greatest Hits: The Atari Collection 1",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1516-arcades-greatest-hits-the-atari-collection-1",
+        "imageURL": "https://images.launchbox-app.com//8bc7a772-6c83-410b-94aa-0c0d6e6b07ae.png"
+      },
+      "D": "English",
+      "E": "Shooter, Co-op, Puzzle, Tabletop",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Battle Clash",
+      "B": "Space Bazooka",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/261-battle-clash",
+        "imageURL": "https://images.launchbox-app.com//3db27d55-0142-497b-bdc7-004448478afe.png"
+      },
+      "D": "English",
+      "E": "Interactive, Shooter, Mech",
+      "F": 2.0,
+      "G": "REMOVED",
+      "H": "SNES"
+    },
+    {
+      "A": "Bazooka Blitzkrieg",
+      "B": "Destructive",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1644-bazooka-blitzkrieg",
+        "imageURL": "https://images.launchbox-app.com//d808799d-1844-4fc3-a9d2-0eca3d21c36e.png"
+      },
+      "D": "English",
+      "E": "Interactive, Shooter, Scrolling Shooter",
+      "F": 1.0,
+      "G": "REMOVED",
+      "H": "SNES"
+    },
+    {
+      "A": "Bram Stoker's Dracula",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/2914-bram-stokers-dracula",
+        "imageURL": "https://images.launchbox-app.com//356844ff-1e0d-4695-9faf-7719bb0c2a89.png"
+      },
+      "D": "English",
+      "E": "Platform, Hack and Slash",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Breath of Fire",
+      "B": "Breath of Fire: Ryuu no Senshi",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/845-breath-of-fire",
+        "imageURL": "https://images.launchbox-app.com//b2d8cbdf-1db5-4bd4-972c-d1b7b6f4037c.png"
+      },
+      "D": "English",
+      "E": "Adventure, RPG",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Casper (Natsume)",
+      "B": "Casper (Japan)",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/112207-casper-natsume",
+        "imageURL": "https://images.launchbox-app.com//3c0aa794-65ab-4c16-be84-c2511ee2ea2a.png"
+      },
+      "D": "English",
+      "E": "Puzzle",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Cool World",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/2707-cool-world",
+        "imageURL": "https://images.launchbox-app.com//49875b07-6735-448d-8d59-779a9ecb5e23.png"
+      },
+      "D": "English",
+      "E": "Platform",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Cyber Knight",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/3376-cyber-knight",
+        "imageURL": "https://images.launchbox-app.com//2c4c9ba5-32f2-48a3-82f8-27730c1f6a63.png"
+      },
+      "D": "English",
+      "E": "Mech, Adventure, RPG",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Famicom Tantei Club Part II: Ushiro ni Tatsu Shoujo",
+      "B": "Famicom Detective Club Part II: The Girl Who Stands Behind., Famicom Detective Club Part II: The Girl In Back",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/32636-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shoujo",
+        "imageURL": "https://images.launchbox-app.com//05efdf0a-da0e-4ca4-9520-ac2441fd2ec0.png"
+      },
+      "D": "English",
+      "E": "Puzzle",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Fatal Fury",
+      "B": "Garou Densetsu: Shukumei no Tatakai, Garou Densetsu: The Battle Of Destiny, Fatal Fury: King of Fighters",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/946-fatal-fury",
+        "imageURL": "https://images.launchbox-app.com//e8ce1486-74a2-4fc8-b6d6-a9c9b826aed5.png"
+      },
+      "D": "English",
+      "E": "2D Fighting, Versus",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Fatal Fury 2",
+      "B": "Garou Densetsu 2: Aratanaru Tatakai",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/2710-fatal-fury-2",
+        "imageURL": "https://images.launchbox-app.com//0632b055-9574-4e30-9d47-5990a92104b0.png"
+      },
+      "D": "English",
+      "E": "2D Fighting, Versus",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Fighter's History",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1812-fighters-history",
+        "imageURL": "https://images.launchbox-app.com//0d3f4c5a-b93f-41e1-a42c-6985164f36f2.png"
+      },
+      "D": "English",
+      "E": "2D Fighting, Versus",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Final Fantasy II",
+      "B": "Final Fantasy IV",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/9053-final-fantasy-ii",
+        "imageURL": "https://images.launchbox-app.com//19d849d6-ee7b-4fa3-bfb5-346246b2870c.png"
+      },
+      "D": "English",
+      "E": "Adventure, RPG",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Final Fight",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1813-final-fight",
+        "imageURL": "https://images.launchbox-app.com//202cf043-2de9-4764-94e0-45ac966edd5f.png"
+      },
+      "D": "English",
+      "E": "Beat'em Up",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Hyper V-Ball",
+      "B": "Super Volley II",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1881-hyper-v-ball",
+        "imageURL": "https://images.launchbox-app.com//3596d2e8-e796-42e1-872d-40ae00c8e2db.png"
+      },
+      "D": "English",
+      "E": "Volleyball, Sports, Versus",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Incantation",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/3588-incantation",
+        "imageURL": "https://images.launchbox-app.com//8a54b458-f54a-413c-abe6-7511dbb9dbc5.png"
+      },
+      "D": "English",
+      "E": "Platform, Shooter",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Iron Commando: Koutetsu no Senshi",
+      "B": "Iron Commando",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/5261-iron-commando-koutetsu-no-senshi",
+        "imageURL": "https://images.launchbox-app.com//d8f8a8f3-60ad-4538-964b-d026d1ffcb04.png"
+      },
+      "D": "English",
+      "E": "Beat'em Up, Co-op",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Kidou Butouden G Gundam",
+      "B": "Mobile Fighter G Gundam",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/24794-kidou-butouden-g-gundam",
+        "imageURL": "https://images.launchbox-app.com//e045ed8d-ea34-482b-a657-5d9d08e0efd3.png"
+      },
+      "D": "English",
+      "E": "Mech, 2D Fighting, Versus",
+      "F": "2",
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Kidou Senshi V Gundam",
+      "B": "Mobile Suit V Gundam",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/26560-kidou-senshi-v-gundam",
+        "imageURL": "https://images.launchbox-app.com//cabad691-5904-496a-92d2-7d1e9feed872.png"
+      },
+      "D": "English",
+      "E": "Mech, Platform, Shooter, Hack and Slash",
+      "F": "1",
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "King of the Monsters 2",
+      "B": "King of the Monsters 2: The Next Thing",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/3046-king-of-the-monsters-2",
+        "imageURL": "https://images.launchbox-app.com//13fe631d-a8d0-4d29-b643-939c5f0fda88.png"
+      },
+      "D": "English",
+      "E": "2D Fighting, Beat'em Up, Versus",
+      "F": "2",
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Kirby Super Star",
+      "B": "Kirby's Fun Pak, Hoshi no Kirby Super Deluxe",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1278-kirby-super-star",
+        "imageURL": "https://images.launchbox-app.com//e1da39e1-bb02-4091-bc31-56216982b975.png"
+      },
+      "D": "English",
+      "E": "Platform, Co-op, Versus",
+      "F": "2",
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Kirby's Avalanche",
+      "B": "Kirby's Ghost Trap",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/3047-kirbys-avalanche",
+        "imageURL": "https://images.launchbox-app.com//8efec9a6-8cd4-4a77-a02d-7a8c30954d1d.png"
+      },
+      "D": "English",
+      "E": "Puzzle, Versus",
+      "F": "2",
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Kirby's Dream Course",
+      "B": "Kirby Bowl",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1685-kirbys-dream-course",
+        "imageURL": "https://images.launchbox-app.com//fafe83a2-da78-4d46-84ae-053097359739.png"
+      },
+      "D": "English",
+      "E": "Puzzle, Versus",
+      "F": "2",
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Knights of the Round",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1279-knights-of-the-round",
+        "imageURL": "https://images.launchbox-app.com//8e955d67-a0e7-4ced-8f43-2cc9bee93f7a.png"
+      },
+      "D": "English",
+      "E": "Beat'em Up, Hack and Slash, Co-op",
+      "F": "2",
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Kouryuu Densetsu Villgust: Kieta Shoujo",
+      "B": "Armed Dragon Fantasy Villgust: The Vanished Girl",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/18229-kouryuu-densetsu-villgust-kieta-shoujo",
+        "imageURL": "https://images.launchbox-app.com//5a7e241e-ebdb-4654-af0d-b423a179da1a.jpg"
+      },
+      "D": "English",
+      "E": "Adventure, RPG",
+      "F": "1",
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Kuusou Kagaku Sekai Gulliver Boy",
+      "B": "Fantasy Science World: Gulliver Boy",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/22454-kuusou-kagaku-sekai-gulliver-boy",
+        "imageURL": "https://images.launchbox-app.com//066285ad-1c53-4335-8938-62282f397c33.png"
+      },
+      "D": "English",
+      "E": "Adventure, RPG",
+      "F": "1",
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Last Action Hero",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/3049-last-action-hero",
+        "imageURL": "https://images.launchbox-app.com//e4f7f320-7557-4cbf-b485-eaf2367cf391.png"
+      },
+      "D": "English",
+      "E": "Beat'em Up, Platform",
+      "F": "1",
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Metal Combat: Falcon's Revenge",
+      "B": "Battle Clash 2",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/2520-metal-combat-falcons-revenge",
+        "imageURL": "https://images.launchbox-app.com//527ebc16-ea01-4652-89a6-f35d6e1007d4.png"
+      },
+      "D": "English",
+      "E": "Mech, Interactive, Shooter, Versus",
+      "F": "2",
+      "G": "REMOVED",
+      "H": "SNES"
+    },
+    {
+      "A": "Mighty Morphin Power Rangers: The Fighting Edition",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/5345-mighty-morphin-power-rangers-the-fighting-edition",
+        "imageURL": "https://images.launchbox-app.com//8c6ec48c-40d9-46fc-a97d-ec6f40763387.png"
+      },
+      "D": "English",
+      "E": "2D Fighting, Mech, Versus",
+      "F": "2",
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Mortal Kombat",
+      "B": "Mortal Kombat: Shinken Kourin Densetsu",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/2673-mortal-kombat",
+        "imageURL": "https://images.launchbox-app.com//b0a8286d-3945-41c7-abd5-4e6452914eaa.png"
+      },
+      "D": "English",
+      "E": "2D Fighting, Versus",
+      "F": "2",
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Multi-Purpose Arcade Combat Simulator",
+      "B": "M.A.C.S. Basic Rifle Marksmanship, M.A.C.S. Basic Rifle Simulator, MACS Basic Rifle Marksmanship Program",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/50011-multi-purpose-arcade-combat-simulator",
+        "imageURL": "https://images.launchbox-app.com//9abd6377-8220-4527-936f-e09e8e72c8d8.png"
+      },
+      "D": "English",
+      "E": "Interactive, Shooter, Simulator",
+      "F": "1",
+      "G": "REMOVED",
+      "H": "SNES"
+    },
+    {
+      "A": "NBA Give 'n Go",
+      "B": "NBA Jikkyou Basket: Winning Dunk",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/5357-nba-give-n-go",
+        "imageURL": "https://images.launchbox-app.com//609c5bfd-6c25-47c6-a430-1e0bd277b4cc.png"
+      },
+      "D": "English",
+      "E": "Basketball, Sports, Co-op, Versus",
+      "F": "4",
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Ninja Warriors",
+      "B": "The Ninja Warriors Again, Ninja Warriors: The New Generation, The Ninja Warriors",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/3071-ninja-warriors",
+        "imageURL": "https://images.launchbox-app.com//e6e51362-8363-40b8-ad30-285d42ddd070.png"
+      },
+      "D": "English",
+      "E": "Beat'em Up, Hack and Slash",
+      "F": "1",
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Plok",
+      "B": "Plok!",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/5514-plok",
+        "imageURL": "https://images.launchbox-app.com//6a927907-b46e-4d78-8bc8-eb298469744a.png"
+      },
+      "D": "English",
+      "E": "Platform",
+      "F": "1",
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Power Instinct",
+      "B": "Gouketsuji Ichizoku",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/5520-power-instinct",
+        "imageURL": "https://images.launchbox-app.com//c0ab63e0-1bc4-4f27-85a9-22a89223530f.png"
+      },
+      "D": "English",
+      "E": "2D Fighting, Versus",
+      "F": "2",
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Ranma 1/2: Akanekodan Teki Hihou",
+      "B": "Ranma Nibunnoichi: Akanekodan Teki Hihou, Ranma 1-2: Akanekodan Teki Hihou, Ranma 1-2: Treasure of the Red Cat Gang",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/28936-ranma-12-akanekodan-teki-hihou",
+        "imageURL": "https://images.launchbox-app.com//0f49c3be-b111-4172-a342-79c503558928.png"
+      },
+      "D": "English",
+      "E": "Adventure, RPG",
+      "F": "1",
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Realm",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/5534-realm",
+        "imageURL": "https://images.launchbox-app.com//f48fa36c-0344-495c-a623-7f39bc04164f.png"
+      },
+      "D": "English",
+      "E": "Platform, Shooter",
+      "F": "1",
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Shanghai II: Dragon's Eye",
+      "B": "Super Shanghai: Dragon's Eye",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/5563-shanghai-ii-dragons-eye",
+        "imageURL": "https://images.launchbox-app.com//737a8082-c919-4f4f-a8cd-c616f1771faa.png"
+      },
+      "D": "English",
+      "E": "Tabletop, Versus",
+      "F": "2",
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Shin Kidou Senki Gundam W: Gundam Wing: Endless Duel",
+      "B": "Gundam Wing: Endless Duel, Mobile Suit Gundam Wing: Endless Duel, New Mobile Report Gundam W: Endless Duel",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/5567-shin-kidou-senki-gundam-w-gundam-wing-endless-duel",
+        "imageURL": "https://images.launchbox-app.com//b0b32865-351c-413e-bd3b-c6a19ee8b321.png"
+      },
+      "D": "English",
+      "E": "Mech, 2D Fighting, Versus",
+      "F": "2",
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Shin Megami Tensei",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/14288-shin-megami-tensei",
+        "imageURL": "https://images.launchbox-app.com//4a545bb5-5d62-4e5a-b02d-4ea8debc1235.png"
+      },
+      "D": "English",
+      "E": "Adventure, RPG",
+      "F": "1",
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Skyblazer",
+      "B": "Karuraou, Sky Blazer",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/3093-skyblazer",
+        "imageURL": "https://images.launchbox-app.com//ce2a2b90-f37a-4dc0-93ab-94a8797a7d19.png"
+      },
+      "D": "English",
+      "E": "Platform",
+      "F": "1",
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Snow White in Happily Ever After",
+      "B": "Snow White: Happily Ever After",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/3094-snow-white-in-happily-ever-after",
+        "imageURL": "https://images.launchbox-app.com//317e43cb-93ad-4f8b-a817-d1d69ef1a2d3.png"
+      },
+      "D": "English",
+      "E": "Platform",
+      "F": "1",
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "SOS",
+      "B": "Septentrion",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/5685-sos",
+        "imageURL": "https://images.launchbox-app.com//b8ce03a3-59bb-4d9e-ac2a-2d904f4ebfa6.png"
+      },
+      "D": "English",
+      "E": "Platform",
+      "F": "1",
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Space Ace",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/5686-space-ace",
+        "imageURL": "https://images.launchbox-app.com//78fe45af-ee04-406a-bc59-fe9d23659b85.png"
+      },
+      "D": "English",
+      "E": "Platform, Shooter",
+      "F": "1",
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Space Megaforce",
+      "B": "Super Aleste, BS Super Aleste",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/3097-space-megaforce",
+        "imageURL": "https://gamesdb-images.launchbox.gg/r2_75357dda-7b5e-4179-a6c6-fa11291b86ff.png"
+      },
+      "D": "English",
+      "E": "Bullet Hell, Scrolling Shooter, Shooter",
+      "F": "1",
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Spanky's Quest",
+      "B": "Hansei Zaru Jiro-kun no Daibouken, Monkey Mirror: Jiro's Adventure",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/5688-spankys-quest",
+        "imageURL": "https://images.launchbox-app.com//4dcd4d4d-ecfd-4fe1-b94d-5e4f7963a2bb.png"
+      },
+      "D": "English",
+      "E": "Platform, Puzzle",
+      "F": "1",
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Star Fox",
+      "B": "Starwing, Star Glider",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1659-star-fox",
+        "imageURL": "https://images.launchbox-app.com//82b77737-03b1-4b0d-bb71-b90376706db1.png"
+      },
+      "D": "English",
+      "E": "Flight, Shooter, Scrolling Shooter",
+      "F": "1",
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Star Fox: Super Weekend",
+      "B": "Starwing: Competition, Star Fox: Super Weekend Competition, Super Star Fox Weekend",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/26574-star-fox-super-weekend",
+        "imageURL": "https://gamesdb-images.launchbox.gg/r2_2e769444-23b2-4488-a417-7afada77bd2f.png"
+      },
+      "D": "English",
+      "E": "Flight, Shooter, Scrolling Shooter",
+      "F": "1",
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Street Fighter Alpha 2",
+      "B": "Street Fighter Zero 2",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/3102-street-fighter-alpha-2",
+        "imageURL": "https://images.launchbox-app.com//5832f308-1637-4a81-a99e-776b7fa72e80.png"
+      },
+      "D": "English",
+      "E": "2D Fighting, Versus",
+      "F": "2",
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Sunset Riders",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/3104-sunset-riders",
+        "imageURL": "https://images.launchbox-app.com//5f848489-fc27-4ea7-b7bd-a3079e58640d.png"
+      },
+      "D": "English",
+      "E": "Co-op, Shooter, Scrolling Shooter",
+      "F": "2",
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Super Baseball 2020",
+      "B": "2020 Super Baseball",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/40962-super-baseball-2020",
+        "imageURL": "https://images.launchbox-app.com//4ca46ff0-d4df-48c3-b794-37f4b7506f50.png"
+      },
+      "D": "English",
+      "E": "Baseball, Sports, Versus",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Super Bomberman 3",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/2514-super-bomberman-3",
+        "imageURL": "https://images.launchbox-app.com//5b7bee52-9421-41d1-a652-3d833e64a451.png"
+      },
+      "D": "English",
+      "E": "Versus, Co-op, Party",
+      "F": 4.0,
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Super Mario All-Stars / Super Mario World",
+      "B": "Super Mario All-Stars and Super Mario World",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/3108-super-mario-all-stars-super-mario-world",
+        "imageURL": "https://images.launchbox-app.com//790ca65b-c4b4-4f0e-b6dc-f708c5e4a7f4.jpg"
+      },
+      "D": "English",
+      "E": "Platform",
+      "F": "2",
+      "G": "REMOVED",
+      "H": "SNES"
+    },
+    {
+      "A": "Super Nes Super Scope 6",
+      "B": "Super Scope 6, Nintendo Scope 6, Super Famicom Super Scope 6",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/13457-super-nes-super-scope-6",
+        "imageURL": "https://images.launchbox-app.com//63306af7-a400-401b-96b7-002f57ab0a92.png"
+      },
+      "D": "English",
+      "E": "Interactive, Shooter",
+      "F": "1",
+      "G": "REMOVED",
+      "H": "SNES"
+    },
+    {
+      "A": "Super Widget",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/3699-super-widget",
+        "imageURL": "https://images.launchbox-app.com//1df198dc-4971-49e9-8834-5f0cb4da7865.png"
+      },
+      "D": "English",
+      "E": "Platform",
+      "F": "1",
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "T2: The Arcade Game",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/5951-t2-the-arcade-game",
+        "imageURL": "https://images.launchbox-app.com//92ec7e86-ad3b-4bdc-99b9-18c7b1ae28a3.png"
+      },
+      "D": "English",
+      "E": "Scrolling Shooter, Shooter, Co-op",
+      "F": "2",
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Teenage Mutant Ninja Turtles IV: Turtles in Time",
+      "B": "Teenage Mutant Ninja Turtles: Turtles in Time",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/179-teenage-mutant-ninja-turtles-iv-turtles-in-time",
+        "imageURL": "https://images.launchbox-app.com//5c814543-638e-4a56-ab55-bcc46cca550e.png"
+      },
+      "D": "English",
+      "E": "Beat'em Up, Co-op, Versus",
+      "F": "2",
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "The Ignition Factor",
+      "B": "Fire Fighting",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1883-the-ignition-factor",
+        "imageURL": "https://images.launchbox-app.com//6db41240-25e2-4dff-bc31-aa09a29d03d6.png"
+      },
+      "D": "English",
+      "E": "Puzzle",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "The Legend of Zelda: A Link to the Past",
+      "B": "Zelda no Densetsu: Kamigami no Triforce, The Legend of Zelda: Triforce of the Gods",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1281-the-legend-of-zelda-a-link-to-the-past",
+        "imageURL": "https://images.launchbox-app.com//906c7cb7-5456-47e8-98fe-45ac34487288.png"
+      },
+      "D": "English",
+      "E": "Adventure, Hack and Slash, Puzzle",
+      "F": "1",
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "The Miracle Piano Teaching System",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/24320-the-miracle-piano-teaching-system",
+        "imageURL": "https://images.launchbox-app.com//66b10b4e-07c9-46ca-9b24-e80433c9140e.png"
+      },
+      "D": "English",
+      "E": "Music",
+      "F": "1",
+      "G": "REMOVED",
+      "H": "SNES"
+    },
+    {
+      "A": "Todd McFarlane's Spawn: The Video Game",
+      "B": "Spawn: The Video Game",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/3117-todd-mcfarlanes-spawn-the-video-game",
+        "imageURL": "https://images.launchbox-app.com//f25a8bee-d05d-45d1-918c-d65232161003.png"
+      },
+      "D": "English",
+      "E": "Beat'em Up, Platform",
+      "F": "1",
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Total Carnage",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/6024-total-carnage",
+        "imageURL": "https://images.launchbox-app.com//9d86da65-e361-42a8-be8b-e1fe5534c949.png"
+      },
+      "D": "English",
+      "E": "Scrolling Shooter, Co-op, Shooter",
+      "F": "2",
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Ultraman",
+      "B": "Ultraman: Towards the Future",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/3119-ultraman",
+        "imageURL": "https://images.launchbox-app.com//cd787f03-b400-4f2f-bab3-88328a77d2a5.png"
+      },
+      "D": "English",
+      "E": "2D Fighting, Beat'em Up",
+      "F": "1",
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Wild Guns",
+      "B": null,
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1983-wild-guns",
+        "imageURL": "https://images.launchbox-app.com//7bc3dd98-a254-4263-afc6-9452791ca259.png"
+      },
+      "D": "English",
+      "E": "Shooter",
+      "F": "2",
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "X Zone",
+      "B": "X-Zone",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/7872-x-zone",
+        "imageURL": "https://images.launchbox-app.com//8e6f457e-fd59-4a8c-a807-c858ed16de44.png"
+      },
+      "D": "English",
+      "E": "Shooter, Scrolling Shooter, Interactive",
+      "F": "1",
+      "G": "REMOVED",
+      "H": "SNES"
+    },
+    {
+      "A": "Xardion",
+      "B": "Choukou Gasshin Xardion",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/6080-xardion",
+        "imageURL": "https://images.launchbox-app.com//12c5edb9-7bfa-4147-b1bf-d8ee0869e5d0.png"
+      },
+      "D": "English",
+      "E": "Mech, Shooter, Platform",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Yoshi's Safari",
+      "B": "Yoshi no Road Hunting",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1985-yoshis-safari",
+        "imageURL": "https://images.launchbox-app.com//0fb6cf01-3a31-4a5a-8b1a-5d5ef95c6216.png"
+      },
+      "D": "English",
+      "E": "Shooter, Interactive, Co-op",
+      "F": "2",
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Zool: Ninja of the 'Nth' Dimension",
+      "B": "Zool no Yume Bouken, Zool",
+      "C": {
+        "text": "Launchbox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/6086-zool-ninja-of-the-nth-dimension",
+        "imageURL": "https://images.launchbox-app.com//92df4946-deff-4d99-bec1-9bfd48c9b053.png"
+      },
+      "D": "English",
+      "E": "Platform",
+      "F": "1",
+      "G": "EPILEPSY WARNING",
+      "H": "SNES"
+    },
+    {
+      "A": "Air Buster",
+      "B": "Aero Blasters",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/3653-air-buster",
+        "imageURL": "https://images.launchbox-app.com//96dc86c1-2b00-453f-96a8-661b6cbf30e1.png"
+      },
+      "D": "English",
+      "E": "Scrolling Shooter, Shooter",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GENESIS"
+    },
+    {
+      "A": "Alien Soldier",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/2476-alien-soldier",
+        "imageURL": "https://images.launchbox-app.com//96e59df9-7346-4cbb-bc41-aafb7d21852f.jpg"
+      },
+      "D": "English",
+      "E": "Scrolling Shooter, Shooter",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GENESIS"
+    },
+    {
+      "A": "Bonanza Brothers",
+      "B": "Bonanza Bros.",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/4062-bonanza-brothers",
+        "imageURL": "https://images.launchbox-app.com//2c63aa29-5bd8-4865-b37a-9897f382cd8d.png"
+      },
+      "D": "English",
+      "E": "Shooter, Platform, Co-op",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GENESIS"
+    },
+    {
+      "A": "Buck Rogers: Countdown to Doomsday",
+      "B": "Buck Rogers",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/3671-buck-rogers-countdown-to-doomsday",
+        "imageURL": "https://images.launchbox-app.com//22597719-f411-43ed-b010-4c667ce4bd45.png"
+      },
+      "D": "English",
+      "E": "Adventure, RPG",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GENESIS"
+    },
+    {
+      "A": "Chase H.Q. II",
+      "B": "Super H.Q.",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/4080-chase-hq-ii",
+        "imageURL": "https://images.launchbox-app.com//18605391-205e-44a3-8d58-b0037b5fe359.jpg"
+      },
+      "D": "English",
+      "E": "Driving, Racing",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GENESIS"
+    },
+    {
+      "A": "Chiki Chiki Boys",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/444-chiki-chiki-boys",
+        "imageURL": "https://images.launchbox-app.com//d5831c75-6a82-4daa-872f-b1358207afd9.png"
+      },
+      "D": "English",
+      "E": "Platform, Hack and Slash",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GENESIS"
+    },
+    {
+      "A": "Comix Zone",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/3318-comix-zone",
+        "imageURL": "https://images.launchbox-app.com//9fdb424f-2e59-4cdc-bf39-d58485e2ae43.jpg"
+      },
+      "D": "English",
+      "E": "Beat'em Up",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GENESIS"
+    },
+    {
+      "A": "Contra: Hard Corps",
+      "B": "Probotector, Contra: The Hard Corps",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/5962-contra-hard-corps",
+        "imageURL": "https://images.launchbox-app.com//029a914f-411f-4575-bbe7-43590de111fb.png"
+      },
+      "D": "English",
+      "E": "Shooter, Scrolling Shooter, Co-op",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GENESIS"
+    },
+    {
+      "A": "Crack Down",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/4092-crack-down",
+        "imageURL": "https://images.launchbox-app.com//f070bd67-b7a0-4d17-9682-450dc8aef404.png"
+      },
+      "D": "English",
+      "E": "Shooter, Co-op",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GENESIS"
+    },
+    {
+      "A": "Double Dribble: The Playoff Edition",
+      "B": "Hyper Dunk: The Playoff Edition",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/4113-double-dribble-the-playoff-edition",
+        "imageURL": "https://images.launchbox-app.com//fc159fe8-bdee-427a-8f7c-77b16cc7adc3.png"
+      },
+      "D": "English",
+      "E": "Basketball, Sports, Co-op, Versus",
+      "F": 8.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GENESIS"
+    },
+    {
+      "A": "Dynamite Duke",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/4119-dynamite-duke",
+        "imageURL": "https://images.launchbox-app.com//66125f0b-5169-4743-bdd6-27e00e47ac21.png"
+      },
+      "D": "English",
+      "E": "Scrolling Shooter, Shooter",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GENESIS"
+    },
+    {
+      "A": "Fighting Masters",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/4144-fighting-masters",
+        "imageURL": "https://images.launchbox-app.com//db962ab1-27e3-43ee-9ba2-18bf9c3e6c44.png"
+      },
+      "D": "English",
+      "E": "2D Fighting, Versus",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GENESIS"
+    },
+    {
+      "A": "Galaxy Force II",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/4155-galaxy-force-ii",
+        "imageURL": "https://images.launchbox-app.com//6631e735-4ff8-410a-abd5-b48d2e4b1287.png"
+      },
+      "D": "English",
+      "E": "Shooter, Scrolling Shooter",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GENESIS"
+    },
+    {
+      "A": "Kid Chameleon",
+      "B": "Chameleon Kid",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/4241-kid-chameleon",
+        "imageURL": "https://images.launchbox-app.com//f734067e-5f43-4bae-91d2-90b2571fa413.png"
+      },
+      "D": "English",
+      "E": "Platform, Hack and Slash",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GENESIS"
+    },
+    {
+      "A": "Lethal Enforcers II: Gun Fighters",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/519-lethal-enforcers-ii-gun-fighters",
+        "imageURL": "https://images.launchbox-app.com//ba4a33e1-30cd-4a9e-8fb8-2f5fe11e71c3.png"
+      },
+      "D": "English",
+      "E": "Shooter, Co-op",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GENESIS"
+    },
+    {
+      "A": "Master of Monsters",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/4263-master-of-monsters",
+        "imageURL": "https://images.launchbox-app.com//dadcf2d8-0e01-4f4f-9f37-32245c41fbb2.jpg"
+      },
+      "D": "English",
+      "E": "Strategy, Versus",
+      "F": 4.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GENESIS"
+    },
+    {
+      "A": "Mick & Mack as the Global Gladiators",
+      "B": "Global Gladiators",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/4266-mick-mack-as-the-global-gladiators",
+        "imageURL": "https://images.launchbox-app.com//1463b7ba-4f1d-44ab-9dc3-a945ac756629.png"
+      },
+      "D": "English",
+      "E": "Platform, Shooter",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GENESIS"
+    },
+    {
+      "A": "Micro Machines: Military",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/18900-micro-machines-military",
+        "imageURL": "https://images.launchbox-app.com//392e73e3-2976-44c5-8aa9-71ffb225496e.png"
+      },
+      "D": "English",
+      "E": "Driving, Racing, Shooter, Versus",
+      "F": 4.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GENESIS"
+    },
+    {
+      "A": "Midnight Resistance",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/629-midnight-resistance",
+        "imageURL": "https://images.launchbox-app.com//bdbb25b5-cb32-4aea-9d53-f6d910aafd69.png"
+      },
+      "D": "English",
+      "E": "Shooter, Scrolling Shooter",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GENESIS"
+    },
+    {
+      "A": "Panorama Cotton",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/33646-panorama-cotton",
+        "imageURL": "https://images.launchbox-app.com//97b30b65-4c40-401e-b126-a589304266ba.jpg"
+      },
+      "D": "English",
+      "E": "Scrolling Shooter, Shooter",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GENESIS"
+    },
+    {
+      "A": "Phelios",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/2449-phelios",
+        "imageURL": "https://images.launchbox-app.com//3dda6b72-e6af-4cda-8926-1aaa9d1d25bb.png"
+      },
+      "D": "English",
+      "E": "Scrolling Shooter, Shooter",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GENESIS"
+    },
+    {
+      "A": "Powerball",
+      "B": "Wrestleball",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/4323-powerball",
+        "imageURL": "https://gamesdb-images.launchbox.gg/r2_e696e85f-3058-4074-bc03-10f385697b42.png"
+      },
+      "D": "English",
+      "E": "Sports, Versus",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GENESIS"
+    },
+    {
+      "A": "Rainbow Islands Extra",
+      "B": "Rainbow Islands: The Story of Bubble Bobble 2: Extra Version",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/19802-rainbow-islands-extra",
+        "imageURL": "https://images.launchbox-app.com//c4924637-47fb-406a-b2ed-5052988db7c9.png"
+      },
+      "D": "English",
+      "E": "Platform",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GENESIS"
+    },
+    {
+      "A": "Ristar",
+      "B": "Ristar: The Shooting Star, Dexstar",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/2156-ristar",
+        "imageURL": "https://images.launchbox-app.com//58d74dd1-f79c-4a3e-9a0d-99b5469a3196.jpg"
+      },
+      "D": "English",
+      "E": "Platform",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GENESIS"
+    },
+    {
+      "A": "Rolling Thunder 3",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/29247-rolling-thunder-3",
+        "imageURL": "https://images.launchbox-app.com//be41a053-39fa-455a-a145-611cc5265478.png"
+      },
+      "D": "English",
+      "E": "Platform, Shooter, Scrolling Shooter",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GENESIS"
+    },
+    {
+      "A": "Shadow Blasters",
+      "B": "Shiten Myouou",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/665-shadow-blasters",
+        "imageURL": "https://images.launchbox-app.com//ebdbfb2a-cd95-45a7-b168-7ab93ca5b805.jpg"
+      },
+      "D": "English",
+      "E": "Platform, Shooter, Scrolling Shooter, Co-op",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GENESIS"
+    },
+    {
+      "A": "Shining in the Darkness",
+      "B": "Shining and the Darkness",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/674-shining-in-the-darkness",
+        "imageURL": "https://images.launchbox-app.com//278ff486-7e77-412c-bbb7-200c05718b3a.png"
+      },
+      "D": "English",
+      "E": "Adventure, RPG",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GENESIS"
+    },
+    {
+      "A": "Steel Empire",
+      "B": "Empire of Steel, Koutetsu Teikoku",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/4428-steel-empire",
+        "imageURL": "https://images.launchbox-app.com//170c61ef-bf79-4bb8-a84a-cf9e2f6046d3.png"
+      },
+      "D": "English",
+      "E": "Scrolling Shooter, Shooter",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GENESIS"
+    },
+    {
+      "A": "Syd of Valis",
+      "B": "SD Valis, Valis SD",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/4404-syd-of-valis",
+        "imageURL": "https://images.launchbox-app.com//59638f79-d062-4712-9869-b4078dc9dc19.jpg"
+      },
+      "D": "English",
+      "E": "Platform, Shooter",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GENESIS"
+    },
+    {
+      "A": "TechnoClash",
+      "B": "Techno Clash",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/687-technoclash",
+        "imageURL": "https://images.launchbox-app.com//fa56314d-f897-4bfe-b59e-258a160b49e4.jpg"
+      },
+      "D": "English",
+      "E": "Shooter",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GENESIS"
+    },
+    {
+      "A": "Two Crude Dudes",
+      "B": "Crude Buster",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/4451-two-crude-dudes",
+        "imageURL": "https://images.launchbox-app.com//d02b2a2b-d1dd-4608-935c-af55565037e9.png"
+      },
+      "D": "English",
+      "E": "Beat'em Up",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GENESIS"
+    },
+    {
+      "A": "Vectorman",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/4459-vectorman",
+        "imageURL": "https://images.launchbox-app.com//9c9629f0-ca89-40e6-ae5b-98b9761eb403.png"
+      },
+      "D": "English",
+      "E": "Platform, Shooter",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GENESIS"
+    },
+    {
+      "A": "Vectorman 2",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/524-vectorman-2",
+        "imageURL": "https://images.launchbox-app.com//b0607df9-e4a1-4537-9a7b-596604664ca4.jpg"
+      },
+      "D": "English",
+      "E": "Platform, Shooter",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GENESIS"
+    },
+    {
+      "A": "Wolfchild",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/4480-wolfchild",
+        "imageURL": "https://images.launchbox-app.com//95098487-3b87-43c4-8255-185572d87ef0.png"
+      },
+      "D": "English",
+      "E": "Platform",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GENESIS"
+    },
+    {
+      "A": "Wrestle War",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/33711-wrestle-war",
+        "imageURL": "https://images.launchbox-app.com//56603d74-7763-47da-91f7-8d6635b1ea08.png"
+      },
+      "D": "English",
+      "E": "Wrestling, Sports, Versus",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GENESIS"
+    },
+    {
+      "A": "Zoom!",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/4500-zoom",
+        "imageURL": "https://images.launchbox-app.com//851571bd-2e6c-478e-817a-70009d1b7a5c.png"
+      },
+      "D": null,
+      "E": "Platform, Puzzle",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GENESIS"
+    },
+    {
+      "A": "Ax Battler: A Legend of Golden Axe",
+      "B": "Ax Battler: Golden Axe Densetsu",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/11408-ax-battler-a-legend-of-golden-axe",
+        "imageURL": "https://images.launchbox-app.com//73845773-dace-4846-98e4-b914ff7d96e1.png"
+      },
+      "D": "English",
+      "E": "Hack and Slash, Adventure, Platform",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME GEAR"
+    },
+    {
+      "A": "Battle Pingpong",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/69037-battle-pingpong",
+        "imageURL": "https://images.launchbox-app.com//75fba489-4445-40d4-9d96-c14e0560b82f.png"
+      },
+      "D": "English",
+      "E": "Sports",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME BOY"
+    },
+    {
+      "A": "Battle Pingpong (Double Boot)",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/69037-battle-pingpong",
+        "imageURL": "https://images.launchbox-app.com//75fba489-4445-40d4-9d96-c14e0560b82f.png"
+      },
+      "D": "English",
+      "E": "Sports, Versus",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME BOY"
+    },
+    {
+      "A": "Battle Unit Zeoth",
+      "B": "Jet Pack",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/12611-battle-unit-zeoth",
+        "imageURL": "https://images.launchbox-app.com//562a2c40-ac12-44ca-ab3d-6df5d311588b.png"
+      },
+      "D": "English",
+      "E": "Shooter, Scrolling Shooter, Platform",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME BOY"
+    },
+    {
+      "A": "Blaster Master Boy",
+      "B": "Blaster Master Jr., Bomber King: Scenario 2",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/2502-blaster-master-boy",
+        "imageURL": "https://images.launchbox-app.com//3e70048a-6f20-4e95-a50b-db6cda307eeb.png"
+      },
+      "D": "English",
+      "E": "Adventure",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME BOY"
+    },
+    {
+      "A": "Chikyuu Kaihou Gun ZAS",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/54356-chikyuu-kaihou-gun-zas",
+        "imageURL": "https://images.launchbox-app.com//893b144d-7a45-40f5-8094-dd2af612fb06.png"
+      },
+      "D": "English",
+      "E": "Scrolling Shooter, Shooter",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME BOY"
+    },
+    {
+      "A": "Choplifter II: Rescue Survive",
+      "B": "Choplifter II: Rescue & Survive",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/18011-choplifter-ii-rescue-survive",
+        "imageURL": "https://images.launchbox-app.com//9db21955-e908-4734-96c2-3401678d9348.png"
+      },
+      "D": "English",
+      "E": "Shooter",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME BOY"
+    },
+    {
+      "A": "CosmoTank",
+      "B": "Cosmo Tank",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/17778-cosmotank",
+        "imageURL": "https://images.launchbox-app.com//cea50ede-040f-4a9d-afbf-e64c13908073.png"
+      },
+      "D": "English",
+      "E": "Shooter",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME BOY"
+    },
+    {
+      "A": "CosmoTank (Double Boot)",
+      "B": "Cosmo Tank",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/17778-cosmotank",
+        "imageURL": "https://images.launchbox-app.com//cea50ede-040f-4a9d-afbf-e64c13908073.png"
+      },
+      "D": "English",
+      "E": "Shooter, Versus",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME BOY"
+    },
+    {
+      "A": "Daffy Duck",
+      "B": "Looney Tunes Series: Daffy Duck, Daffy Duck: The Marvin Missions",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/18039-daffy-duck",
+        "imageURL": "https://images.launchbox-app.com//494457a9-a773-47ff-8e2a-cc229b78626f.png"
+      },
+      "D": "English",
+      "E": "Platform, Shooter",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME BOY"
+    },
+    {
+      "A": "Dexterity",
+      "B": "Funny Field",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/18044-dexterity",
+        "imageURL": "https://images.launchbox-app.com//30f6ec5b-72a5-43fa-b9f3-18ed2d5f4e05.png"
+      },
+      "D": "English",
+      "E": "Puzzle",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME BOY"
+    },
+    {
+      "A": "Dexterity (Double Boot)",
+      "B": "Funny Field",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/18044-dexterity",
+        "imageURL": "https://images.launchbox-app.com//30f6ec5b-72a5-43fa-b9f3-18ed2d5f4e05.png"
+      },
+      "D": "English",
+      "E": "Puzzle, Versus",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME BOY"
+    },
+    {
+      "A": "Great Greed",
+      "B": "Vitamina Oukoku Monogatari",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/21013-great-greed",
+        "imageURL": "https://images.launchbox-app.com//778adcb4-19f0-4db9-9c3f-e49a981b5442.png"
+      },
+      "D": "English",
+      "E": "Adventure, RPG",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME BOY"
+    },
+    {
+      "A": "Heavyweight Championship Boxing",
+      "B": "Boxing",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/19844-heavyweight-championship-boxing",
+        "imageURL": "https://images.launchbox-app.com//7d0718ac-66c2-4f0e-aad0-dcef4f107a21.png"
+      },
+      "D": "English",
+      "E": "Boxing, Sports",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME BOY"
+    },
+    {
+      "A": "Heavyweight Championship Boxing (Double Boot)",
+      "B": "Boxing",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/19844-heavyweight-championship-boxing",
+        "imageURL": "https://images.launchbox-app.com//7d0718ac-66c2-4f0e-aad0-dcef4f107a21.png"
+      },
+      "D": "English",
+      "E": "Boxing, Sports, Versus",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME BOY"
+    },
+    {
+      "A": "Kid Dracula",
+      "B": "Akumajou Special: Boku Dracula-kun",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/10730-kid-dracula",
+        "imageURL": "https://images.launchbox-app.com//7a430a56-d36e-4a6c-b914-6dd62ef295b9.png"
+      },
+      "D": "English",
+      "E": "Platform",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME BOY"
+    },
+    {
+      "A": "Painter Momopie",
+      "B": "Magical Painter",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/117010-painter-momopie",
+        "imageURL": "https://images.launchbox-app.com//4265764b-a24e-49c0-bdfb-f7f1c9ab5ebb.png"
+      },
+      "D": "English",
+      "E": "Party",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME BOY"
+    },
+    {
+      "A": "Painter Momopie (Double Boot)",
+      "B": "Magical Painter",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/117010-painter-momopie",
+        "imageURL": "https://images.launchbox-app.com//4265764b-a24e-49c0-bdfb-f7f1c9ab5ebb.png"
+      },
+      "D": "English",
+      "E": "Party, Versus",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME BOY"
+    },
+    {
+      "A": "Pokémon Yellow Version: Special Pikachu Edition",
+      "B": "Pocket Monsters: Pikachu",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/2237-pokmon-yellow-version-special-pikachu-edition",
+        "imageURL": "https://images.launchbox-app.com//f32ee057-4b87-44a1-9807-26c01af6f893.jpg"
+      },
+      "D": "English",
+      "E": "Adventure, RPG",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME BOY"
+    },
+    {
+      "A": "Pokémon Yellow Version: Special Pikachu Edition (Double Boot)",
+      "B": "Pocket Monsters: Pikachu",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/2237-pokmon-yellow-version-special-pikachu-edition",
+        "imageURL": "https://images.launchbox-app.com//f32ee057-4b87-44a1-9807-26c01af6f893.jpg"
+      },
+      "D": "English",
+      "E": "Adventure, RPG, Versus",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME BOY"
+    },
+    {
+      "A": "Race Days",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/20974-race-days",
+        "imageURL": "https://images.launchbox-app.com//50a80cfc-69f0-479b-b3f2-c738250c46cb.png"
+      },
+      "D": "English",
+      "E": "Driving, Racing, Sports",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME BOY"
+    },
+    {
+      "A": "Race Days (Double Boot)",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/20974-race-days",
+        "imageURL": "https://images.launchbox-app.com//50a80cfc-69f0-479b-b3f2-c738250c46cb.png"
+      },
+      "D": "English",
+      "E": "Driving, Racing, Sports, Versus",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME BOY"
+    },
+    {
+      "A": "Rolan's Curse 2",
+      "B": "Velious II: Fukushuu no Jashin",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/21082-rolans-curse-2",
+        "imageURL": "https://images.launchbox-app.com//1b8fe3ef-71fa-4268-bf5e-89b8963edbc3.png"
+      },
+      "D": "English",
+      "E": "Adventure, RPG, Hack and Slash",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME BOY"
+    },
+    {
+      "A": "Skate or Die: Bad 'N Rad",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/18102-skate-or-die-bad-n-rad",
+        "imageURL": "https://images.launchbox-app.com//c64c6fe1-311f-4048-abd8-40a35a75ee03.png"
+      },
+      "D": "English",
+      "E": "Skateboard, Platform",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME BOY"
+    },
+    {
+      "A": "The Adventures of Star Saver",
+      "B": "Rubble Saver",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/17705-the-adventures-of-star-saver",
+        "imageURL": "https://images.launchbox-app.com//86ee0e55-1010-4dab-85fd-42f1e04ed829.png"
+      },
+      "D": "English",
+      "E": "Platform, Shooter",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME BOY"
+    },
+    {
+      "A": "The Legend of Zelda: Link's Awakening",
+      "B": "Zelda no Densetsu: Yume o Miru Shima",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/3033-the-legend-of-zelda-links-awakening",
+        "imageURL": "https://images.launchbox-app.com//79b1f3dd-cf93-4dc9-94ed-0072591957c8.png"
+      },
+      "D": "English",
+      "E": "Adventure, Hack and Slash, Puzzle",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME BOY"
+    },
+    {
+      "A": "The Simpsons: Bart & the Beanstalk",
+      "B": "The Simpsons: Bart no Jack to Mame no Ki",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/12609-the-simpsons-bart-the-beanstalk",
+        "imageURL": "https://images.launchbox-app.com//bd0b86b0-a9f4-46c4-a81f-00cc715dce88.png"
+      },
+      "D": "English",
+      "E": "Platform",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME BOY"
+    },
+    {
+      "A": "The Simpsons: Bart vs. the Juggernauts",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/21089-the-simpsons-bart-vs-the-juggernauts",
+        "imageURL": "https://images.launchbox-app.com//d947c7c3-d8ab-4a44-8263-6e7070fe5a75.png"
+      },
+      "D": "English",
+      "E": "Party",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME BOY"
+    },
+    {
+      "A": "Ultima: Runes of Virtue",
+      "B": "Ultima: Ushinawareta Runes",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/12678-ultima-runes-of-virtue",
+        "imageURL": "https://images.launchbox-app.com//4779e414-3e1f-4ede-aaac-8e59bbf498e7.png"
+      },
+      "D": "English",
+      "E": "Adventure, RPG",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME BOY"
+    },
+    {
+      "A": "Ultima: Runes of Virtue (Double Boot)",
+      "B": "Ultima: Ushinawareta Runes",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/12678-ultima-runes-of-virtue",
+        "imageURL": "https://images.launchbox-app.com//4779e414-3e1f-4ede-aaac-8e59bbf498e7.png"
+      },
+      "D": "English",
+      "E": "Adventure, RPG, Co-op",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME BOY"
+    },
+    {
+      "A": "Wave Race",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/17115-wave-race",
+        "imageURL": "https://images.launchbox-app.com//916a3adb-05a0-4843-9159-fb45466a4ad8.png"
+      },
+      "D": "English",
+      "E": "Driving, Racing",
+      "F": 3.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME BOY"
+    },
+    {
+      "A": "Wave Race (Double Boot)",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/17115-wave-race",
+        "imageURL": "https://images.launchbox-app.com//916a3adb-05a0-4843-9159-fb45466a4ad8.png"
+      },
+      "D": "English",
+      "E": "Driving, Racing, Versus",
+      "F": 3.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME BOY"
+    },
+    {
+      "A": "WWF Superstars",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/21174-wwf-superstars",
+        "imageURL": "https://images.launchbox-app.com//cf6063a1-8c8a-4e19-aba3-5d1dc93a9925.png"
+      },
+      "D": "English",
+      "E": "Wrestling, Sports",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME BOY"
+    },
+    {
+      "A": "WWF Superstars (Double Boot)",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/21174-wwf-superstars",
+        "imageURL": "https://images.launchbox-app.com//cf6063a1-8c8a-4e19-aba3-5d1dc93a9925.png"
+      },
+      "D": "English",
+      "E": "Wrestling, Sports, Versus",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME BOY"
+    },
+    {
+      "A": "WWF Superstars 2",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/21175-wwf-superstars-2",
+        "imageURL": "https://images.launchbox-app.com//6ff081c9-33ee-4fe5-a7ce-616e15f52653.png"
+      },
+      "D": "English",
+      "E": "Wrestling, Sports",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME BOY"
+    },
+    {
+      "A": "WWF Superstars 2 (Double Boot)",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/21175-wwf-superstars-2",
+        "imageURL": "https://images.launchbox-app.com//6ff081c9-33ee-4fe5-a7ce-616e15f52653.png"
+      },
+      "D": "English",
+      "E": "Wrestling, Sports, Versus",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME BOY"
+    },
+    {
+      "A": "Bomberman Quest",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/8279-bomberman-quest",
+        "imageURL": "https://images.launchbox-app.com//d189baef-5d22-4d25-ab24-5d7863ba257e.png"
+      },
+      "D": "English",
+      "E": "Party, Adventure",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME BOY COLOR"
+    },
+    {
+      "A": "Castlevania: Circle of the Moon",
+      "B": "Akumajou Dracula: Circle of the Moon, Castlevania",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/3182-castlevania-circle-of-the-moon",
+        "imageURL": "https://images.launchbox-app.com//08d5e445-fd61-4d03-8e81-4cab83fc0178.jpg"
+      },
+      "D": null,
+      "E": "Hack and Slash, Platform",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME BOY ADVANCE"
+    },
+    {
+      "A": "Contra Advance: The Alien Wars EX",
+      "B": "Contra: Hard Spirits",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/3190-contra-advance-the-alien-wars-ex",
+        "imageURL": "https://images.launchbox-app.com//66b9b2e8-976b-4b1c-ada7-46fb6bf22728.png"
+      },
+      "D": "English",
+      "E": "Shooter, Scrolling Shooter",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME BOY ADVANCE"
+    },
+    {
+      "A": "Dragon Ball GT: Transformation",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/3288-dragon-ball-gt-transformation",
+        "imageURL": "https://images.launchbox-app.com//289983a8-c31c-4ce7-8259-bdae33925b01.png"
+      },
+      "D": "English",
+      "E": "Beat'em Up",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME BOY ADVANCE"
+    },
+    {
+      "A": "Dragon Ball GT: Transformation (Double Boot)",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/3288-dragon-ball-gt-transformation",
+        "imageURL": "https://images.launchbox-app.com//289983a8-c31c-4ce7-8259-bdae33925b01.png"
+      },
+      "D": "English",
+      "E": "Beat'em Up, Co-op",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME BOY ADVANCE"
+    },
+    {
+      "A": "F-Zero: Climax",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/26914-f-zero-climax",
+        "imageURL": "https://images.launchbox-app.com//b88bf131-4e15-481e-a5fc-09ad0046ea44.png"
+      },
+      "D": "English",
+      "E": "Driving, Racing",
+      "F": 4.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME BOY ADVANCE"
+    },
+    {
+      "A": "F-Zero: Climax (Double Boot)",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/26914-f-zero-climax",
+        "imageURL": "https://images.launchbox-app.com//b88bf131-4e15-481e-a5fc-09ad0046ea44.png"
+      },
+      "D": "English",
+      "E": "Driving, Racing, Versus",
+      "F": 4.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME BOY ADVANCE"
+    },
+    {
+      "A": "F-Zero: Climax (Quad Boot)",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/26914-f-zero-climax",
+        "imageURL": "https://images.launchbox-app.com//b88bf131-4e15-481e-a5fc-09ad0046ea44.png"
+      },
+      "D": "English",
+      "E": "Driving, Racing, Versus",
+      "F": 4.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME BOY ADVANCE"
+    },
+    {
+      "A": "F-Zero: Climax (Triple Boot)",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/26914-f-zero-climax",
+        "imageURL": "https://images.launchbox-app.com//b88bf131-4e15-481e-a5fc-09ad0046ea44.png"
+      },
+      "D": "English",
+      "E": "Driving, Racing, Versus",
+      "F": 4.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME BOY ADVANCE"
+    },
+    {
+      "A": "Shrek: Super Slam",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/21663-shrek-super-slam",
+        "imageURL": "https://images.launchbox-app.com//29a1062f-c9c4-4536-ac48-6b6e4703a39c.png"
+      },
+      "D": "English",
+      "E": "Platform, 2D Fighting",
+      "F": 4.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME BOY ADVANCE"
+    },
+    {
+      "A": "Shrek: Super Slam (Double Boot)",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/21663-shrek-super-slam",
+        "imageURL": "https://images.launchbox-app.com//29a1062f-c9c4-4536-ac48-6b6e4703a39c.png"
+      },
+      "D": "English",
+      "E": "Platform, 2D Fighting",
+      "F": 4.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME BOY ADVANCE"
+    },
+    {
+      "A": "SpongeBob SquarePants: Creature from the Krusty Krab",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/3340-spongebob-squarepants-creature-from-the-krusty-krab",
+        "imageURL": "https://images.launchbox-app.com//28b86f43-c23e-4fda-a364-692746c1ec14.png"
+      },
+      "D": "English",
+      "E": "Platform",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME BOY ADVANCE"
+    },
+    {
+      "A": "Tiny Toon Adventures: Scary Dreams",
+      "B": "Tiny Toon Adventures: Buster's Bad Dream",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/3813-tiny-toon-adventures-scary-dreams",
+        "imageURL": "https://images.launchbox-app.com//6d122fc3-e883-46be-9350-a7bc3bd226bd.png"
+      },
+      "D": "English",
+      "E": "Beat'em Up",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "GAME BOY ADVANCE"
+    },
+    {
+      "A": "Forsaken 64",
+      "B": "Forsaken",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/240-forsaken-64",
+        "imageURL": "https://images.launchbox-app.com//a2f3b85f-8699-45f6-b1f6-28c1da2239d2.png"
+      },
+      "D": "English",
+      "E": "Shooter, Versus",
+      "F": 4.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NINTENDO 64"
+    },
+    {
+      "A": "Hydro Thunder",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/244-hydro-thunder",
+        "imageURL": "https://images.launchbox-app.com//87293f88-0498-490b-9ab3-0d27a1aac835.png"
+      },
+      "D": "English",
+      "E": "Driving, Racing, Versus",
+      "F": 4.0,
+      "G": "EPILEPSY WARNING",
+      "H": "NINTENDO 64"
+    },
+    {
+      "A": "Advanced V.G.",
+      "B": "Advanced Variable Geo, Advanced VG",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/22855-advanced-vg",
+        "imageURL": "https://images.launchbox-app.com//d73b29c7-0de7-4e76-86ee-16d545e8baca.png"
+      },
+      "D": "English, Japanese",
+      "E": "Versus, 2D Fighting",
+      "F": 2.0,
+      "G": "EPILEPSY WARNING",
+      "H": "SEGA SATURN"
+    },
+    {
+      "A": "Quake III Arena",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/2771-quake-iii-arena",
+        "imageURL": "https://images.launchbox-app.com//d4c43d9a-18ae-4703-bf89-dfbed0cf32fe.jpg"
+      },
+      "D": "English",
+      "E": "Versus, Shooter",
+      "F": 4.0,
+      "G": "EPILEPSY WARNING",
+      "H": "DREAMCAST"
+    },
+    {
+      "A": "Mega Man X5",
+      "B": "Rockman X5",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/8056-mega-man-x5",
+        "imageURL": "https://images.launchbox-app.com//d668a40d-be6c-4dd0-95cb-c72d7d02b509.png"
+      },
+      "D": "English",
+      "E": "Platform, Shooter, Hack and Slash",
+      "F": 1.0,
+      "G": "EPILEPSY WARNING",
+      "H": "PLAYSTATION 1"
+    },
+    {
+      "A": "The Elder Scrolls III: Morrowind: Game of the Year Edition",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/22787-the-elder-scrolls-iii-morrowind-game-of-the-year-edition",
+        "imageURL": "https://images.launchbox-app.com//3bae163f-8c18-4bae-9289-14dad3fe61f9.png"
+      },
+      "D": "English",
+      "E": "Adventure, RPG, Hack and Slash",
+      "F": 1.0,
+      "G": "ISSUE",
+      "H": "XBOX"
+    },
+    {
+      "A": "Fable",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/5779-fable",
+        "imageURL": "https://images.launchbox-app.com//edc2bfe1-2a48-4298-bc74-354915a5148b.jpg"
+      },
+      "D": "English",
+      "E": "Adventure, RPG, Hack and Slash",
+      "F": 1.0,
+      "G": "ISSUE",
+      "H": "XBOX"
+    },
+    {
+      "A": "Halo 2",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/5803-halo-2",
+        "imageURL": "https://images.launchbox-app.com//bd00be42-d22e-4d06-b2d5-de1b6b6c4b23.jpg"
+      },
+      "D": "English",
+      "E": "Adventure, Shooter, Co-op, Versus",
+      "F": 16.0,
+      "G": "ISSUE",
+      "H": "XBOX"
+    },
+    {
+      "A": "Ninja Gaiden",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/3975-ninja-gaiden",
+        "imageURL": "https://images.launchbox-app.com//c9d282df-9729-4f4a-836a-dbe1f0e0e047.png"
+      },
+      "D": "English",
+      "E": "Beat'em Up, Hack and Slash",
+      "F": 1.0,
+      "G": "ISSUE",
+      "H": "XBOX"
+    },
+    {
+      "A": "Freedom Wars",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/20461-freedom-wars",
+        "imageURL": "https://images.launchbox-app.com//a6f59a24-d189-4097-8344-2dfb053d8860.jpg"
+      },
+      "D": "English",
+      "E": "Hack and Slash, RPG",
+      "F": 8.0,
+      "G": "HIDDEN",
+      "H": "PS VITA"
+    },
+    {
+      "A": "Soul Sacrifice Delta",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/34050-soul-sacrifice-delta",
+        "imageURL": "https://images.launchbox-app.com//2660317e-32a6-42cd-93d1-b6370be4371b.jpg"
+      },
+      "D": "English",
+      "E": "Hack and Slash, RPG",
+      "F": 4.0,
+      "G": "HIDDEN",
+      "H": "PS VITA"
+    },
+    {
+      "A": "Assassin's Creed",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/5655-assassins-creed",
+        "imageURL": "https://images.launchbox-app.com//ac5b9aeb-3d8d-4aee-9b60-26d9357cfef0.jpg"
+      },
+      "D": "English",
+      "E": "Adventure, Stealth, Hack and Slash",
+      "F": 1.0,
+      "G": "REMOVED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Assassin's Creed II",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/11482-assassins-creed-ii",
+        "imageURL": "https://images.launchbox-app.com//3cc13ea9-6ac0-400e-96c6-addb8c4121af.png"
+      },
+      "D": "English",
+      "E": "Adventure, Stealth, Hack and Slash",
+      "F": 1.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Assassin's Creed III",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/11263-assassins-creed-iii",
+        "imageURL": "https://images.launchbox-app.com//17f54d6b-2461-4f21-8ece-9813c7c9535a.jpg"
+      },
+      "D": "English",
+      "E": "Adventure, Stealth, Hack and Slash",
+      "F": 8.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Assassin's Creed III: Liberation HD",
+      "B": "Assassin's Creed Liberation HD",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/20639-assassins-creed-iii-liberation-hd",
+        "imageURL": "https://images.launchbox-app.com//3c922124-ebf2-48aa-b56d-8e2d77c0878e.png"
+      },
+      "D": "English",
+      "E": "Adventure, Stealth, Hack and Slash",
+      "F": 1.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Assassin's Creed IV: Black Flag",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/17579-assassins-creed-iv-black-flag",
+        "imageURL": "https://images.launchbox-app.com//743ca590-3cf1-4c06-baee-2782a253c434.jpg"
+      },
+      "D": "English",
+      "E": "Adventure, Stealth, Hack and Slash",
+      "F": 8.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Assassin's Creed Rogue",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/21830-assassins-creed-rogue",
+        "imageURL": "https://images.launchbox-app.com//d8f84913-ffa6-4a88-8213-735e4682ae4c.jpg"
+      },
+      "D": "English",
+      "E": "Adventure, Stealth, Hack and Slash",
+      "F": 1.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Assassin's Creed: Brotherhood",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/7858-assassins-creed-brotherhood",
+        "imageURL": "https://images.launchbox-app.com//d27d2e3a-e322-4c5e-aa3d-c223f7b28137.jpg"
+      },
+      "D": "English",
+      "E": "Adventure, Stealth, Hack and Slash",
+      "F": 8.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Assassin's Creed: Freedom Cry",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/20640-assassins-creed-freedom-cry",
+        "imageURL": "https://images.launchbox-app.com//a686a429-99de-4d22-a1a3-c0d6cc7edc33.jpg"
+      },
+      "D": "English",
+      "E": "Adventure, Stealth, Hack and Slash",
+      "F": 1.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Assassin's Creed: Revelations",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/11478-assassins-creed-revelations",
+        "imageURL": "https://images.launchbox-app.com//cf6b02a9-0f07-4035-b373-77c457ad27b4.jpg"
+      },
+      "D": "English",
+      "E": "Adventure, Stealth, Hack and Slash",
+      "F": 8.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Battlefield 1943",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/118050-battlefield-1943",
+        "imageURL": "https://images.launchbox-app.com//b0baaec4-05bf-4b97-b0c2-0ee4c187e74c.jpg"
+      },
+      "D": "English",
+      "E": "Shooter, Co-op, Versus",
+      "F": 24.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Battlefield 3",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/7984-battlefield-3",
+        "imageURL": "https://images.launchbox-app.com//a239ef3b-b82b-461d-967b-ce58f1779985.jpg"
+      },
+      "D": "English",
+      "E": "Shooter, Co-op, Versus",
+      "F": 24.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Battlefield 4",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/17593-battlefield-4",
+        "imageURL": "https://images.launchbox-app.com//e5835a98-f6ec-441a-94d8-3579bbc2ea26.png"
+      },
+      "D": "English",
+      "E": "Shooter, Co-op, Versus",
+      "F": 24.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Battlefield: Bad Company",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/10487-battlefield-bad-company",
+        "imageURL": "https://images.launchbox-app.com//144feb1e-da05-4659-bbf1-1dc30addc97b.jpg"
+      },
+      "D": "English",
+      "E": "Shooter, Co-op, Versus",
+      "F": 24.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Battlefield: Bad Company 2",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/7867-battlefield-bad-company-2",
+        "imageURL": "https://images.launchbox-app.com//86d1bb3c-2dd9-490f-b936-b0b2b001bb2c.jpg"
+      },
+      "D": "English",
+      "E": "Shooter, Co-op, Versus",
+      "F": 24.0,
+      "G": "REMOVED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "BlazBlue: Chrono Phantasma",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/20078-blazblue-chrono-phantasma",
+        "imageURL": "https://images.launchbox-app.com//56641698-3001-49bb-a594-59306adf0fa1.jpg"
+      },
+      "D": "English",
+      "E": "2D Fighting, Versus",
+      "F": 2.0,
+      "G": "REMOVED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "BlazBlue: Continuum Shift",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/5659-blazblue-continuum-shift",
+        "imageURL": "https://images.launchbox-app.com//306190a6-e45f-4d33-9510-1d8138cc7500.png"
+      },
+      "D": "English",
+      "E": "2D Fighting, Versus",
+      "F": 2.0,
+      "G": "REMOVED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Borderlands: The Pre-Sequel!",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/20784-borderlands-the-pre-sequel",
+        "imageURL": "https://images.launchbox-app.com//7209937d-99b0-4679-b90e-e661e28a12e7.jpg"
+      },
+      "D": "English",
+      "E": "Shooter, Adventure, RPG, Co-op",
+      "F": 4.0,
+      "G": "REMOVED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Call of Duty: Black Ops",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/7985-call-of-duty-black-ops",
+        "imageURL": "https://images.launchbox-app.com//9fe5af21-cd32-40be-bd85-17a1a1cc404e.jpg"
+      },
+      "D": "English",
+      "E": "Shooter, Co-op, Versus",
+      "F": 18.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Call of Duty: Black Ops II",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/9558-call-of-duty-black-ops-ii",
+        "imageURL": "https://images.launchbox-app.com//7d11b1f5-5ad2-4d4e-a2bd-ab5944ded24b.jpg"
+      },
+      "D": "English",
+      "E": "Shooter, Co-op, Versus",
+      "F": 18.0,
+      "G": "REMOVED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Call of Duty: Ghosts",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/17646-call-of-duty-ghosts",
+        "imageURL": "https://images.launchbox-app.com//bf5379a7-1489-4294-a0d5-80ff3692cfbe.jpg"
+      },
+      "D": "English",
+      "E": "Shooter, Co-op, Versus",
+      "F": 18.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Call of Duty: Modern Warfare 2",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/6299-call-of-duty-modern-warfare-2",
+        "imageURL": "https://images.launchbox-app.com//3744d12a-512b-474c-85eb-38b6b2d58ac7.jpg"
+      },
+      "D": "English",
+      "E": "Shooter, Co-op, Versus",
+      "F": 18.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Call of Duty: Modern Warfare 3",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/7986-call-of-duty-modern-warfare-3",
+        "imageURL": "https://images.launchbox-app.com//1a2c2864-0cf1-49b4-b33f-00dfb1c4aedc.jpg"
+      },
+      "D": "English",
+      "E": "Shooter, Co-op, Versus",
+      "F": 18.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Call of Duty: World at War",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/13396-call-of-duty-world-at-war",
+        "imageURL": "https://images.launchbox-app.com//8388411c-c25f-4237-a3f6-396d7f22dc37.jpg"
+      },
+      "D": "English",
+      "E": "Shooter, Co-op, Versus",
+      "F": 32.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Dead Rising 2",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/7995-dead-rising-2",
+        "imageURL": "https://images.launchbox-app.com//24ad6c5e-08cc-44a3-a9a3-cd1678e11b12.jpg"
+      },
+      "D": "English",
+      "E": "Adventure, Hack and Slash, Beat'em Up",
+      "F": 4.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Dead Rising 2: Off the Record",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/11967-dead-rising-2-off-the-record",
+        "imageURL": "https://images.launchbox-app.com//7dec9f8c-910a-4fcd-9894-a8e7ede5e8dd.jpg"
+      },
+      "D": "English",
+      "E": "Adventure, Hack and Slash, Beat'em Up",
+      "F": 2.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Dragon Ball Xenoverse",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/24959-dragon-ball-xenoverse",
+        "imageURL": "https://images.launchbox-app.com//bd9ec839-2436-4b2d-bd86-348dffef52ca.jpg"
+      },
+      "D": "English",
+      "E": "3D Fighting, Co-op, Versus",
+      "F": 6.0,
+      "G": "REMOVED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Dragon's Lair",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/119097-dragons-lair",
+        "imageURL": "https://images.launchbox-app.com//8ee11c05-a1b8-4b56-b0f0-6bcd7c7f26ad.jpg"
+      },
+      "D": "English",
+      "E": "Party",
+      "F": 1.0,
+      "G": "REMOVED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Dynasty Warriors 7: Xtreme Legends",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/14966-dynasty-warriors-7-xtreme-legends",
+        "imageURL": "https://images.launchbox-app.com//3db53684-62b0-4f3e-9ac7-b282ba4113b9.jpg"
+      },
+      "D": "English",
+      "E": "Hack and Slash, Beat'em Up, Co-op",
+      "F": 2.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Dynasty Warriors 8: Xtreme Legends",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/139322-dynasty-warriors-8-xtreme-legends",
+        "imageURL": "https://images.launchbox-app.com//d4bafc47-ff72-485e-951b-f558d0a27ff8.jpg"
+      },
+      "D": "English",
+      "E": "Hack and Slash, Beat'em Up, Co-op",
+      "F": 2.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Far Cry 2",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/6309-far-cry-2",
+        "imageURL": "https://images.launchbox-app.com//e296c7a3-612e-4e76-bc8d-3849181ae8f2.png"
+      },
+      "D": "English",
+      "E": "Adventure, Shooter",
+      "F": 16.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Far Cry 3",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/11344-far-cry-3",
+        "imageURL": "https://images.launchbox-app.com//892a29c5-7d83-4f2d-9cb2-f8b6449e0e30.jpg"
+      },
+      "D": "English",
+      "E": "Adventure, Shooter",
+      "F": 2.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Far Cry 3: Blood Dragon",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/16378-far-cry-3-blood-dragon",
+        "imageURL": "https://images.launchbox-app.com//1cfc3160-7066-4b39-8e89-9d34ff160c5e.jpg"
+      },
+      "D": "English",
+      "E": "Adventure, Shooter",
+      "F": 1.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Far Cry 4",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/20185-far-cry-4",
+        "imageURL": "https://gamesdb-images.launchbox.gg/r2_d5faf756-524e-45fd-8068-bb5309b2b28c.jpg"
+      },
+      "D": "English",
+      "E": "Adventure, Shooter",
+      "F": 1.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Far Cry Classic",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/92523-far-cry-classic",
+        "imageURL": "https://images.launchbox-app.com//f0c100de-bb76-4d1e-a79a-21d17f6d1695.png"
+      },
+      "D": "English",
+      "E": "Adventure, Shooter",
+      "F": 1.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "God of War III",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/819-god-of-war-iii",
+        "imageURL": "https://images.launchbox-app.com//3e930ad3-369c-4bf7-973b-6405c883e2ed.jpg"
+      },
+      "D": "English",
+      "E": "Beat'em Up, Hack and Slash",
+      "F": 12.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "God of War: Ascension",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/12909-god-of-war-ascension",
+        "imageURL": "https://images.launchbox-app.com//8f3499e2-519f-445b-81ff-3534322aaebd.jpg"
+      },
+      "D": "English",
+      "E": "Beat'em Up, Hack and Slash",
+      "F": 8.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Grand Theft Auto IV",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/6315-grand-theft-auto-iv",
+        "imageURL": "https://gamesdb-images.launchbox.gg/r2_a972f6fb-3cab-4b4d-97d2-69f67d73611d.jpg"
+      },
+      "D": "English",
+      "E": "Hack and Slash, Shooter, Driving",
+      "F": 1.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Hatsune Miku: Project DIVA F",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/15154-hatsune-miku-project-diva-f",
+        "imageURL": "https://images.launchbox-app.com//f55bc65b-5ac8-4343-8041-6bb5aa2ce411.jpg"
+      },
+      "D": "English",
+      "E": "Music",
+      "F": 1.0,
+      "G": "REMOVED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Heavy Rain",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/301-heavy-rain",
+        "imageURL": "https://images.launchbox-app.com//68ca6e57-f698-495c-a2f4-db55b0d6aa6a.jpg"
+      },
+      "D": "English",
+      "E": "Visual Novel, RPG",
+      "F": 1.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "inFAMOUS",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/791-infamous",
+        "imageURL": "https://images.launchbox-app.com//3576b022-ecf0-4e75-b99b-8eaa9b02a1ae.jpg"
+      },
+      "D": "English",
+      "E": "Adventure",
+      "F": 1.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Infamous 2",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/915-infamous-2",
+        "imageURL": "https://images.launchbox-app.com//0e7c735e-e8b4-4135-9f27-4f7bc9a7c871.jpg"
+      },
+      "D": "English",
+      "E": "Adventure",
+      "F": 1.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "J-Stars Victory Vs+",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/158391-j-stars-victory-vs",
+        "imageURL": "https://images.launchbox-app.com//aee946d9-b449-4cba-a92f-dcfd87e9e0bf.jpg"
+      },
+      "D": "English",
+      "E": "3D Fighting, Co-op, Versus",
+      "F": 4.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Mass Effect",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/20566-mass-effect",
+        "imageURL": "https://images.launchbox-app.com//5c0f0f6d-62c4-49c8-a307-5fc9a62e5487.jpg"
+      },
+      "D": "English",
+      "E": "Adventure, RPG, Shooter",
+      "F": 1.0,
+      "G": "REMOVED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Mass Effect 2",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/11807-mass-effect-2",
+        "imageURL": "https://images.launchbox-app.com//2f0eb559-b707-4e25-bdc1-c0941179282e.png"
+      },
+      "D": "English",
+      "E": "Adventure, RPG, Shooter",
+      "F": 1.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Mass Effect 3",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/7849-mass-effect-3",
+        "imageURL": "https://images.launchbox-app.com//274505b0-c20a-4fb3-9685-ce69a9af1496.png"
+      },
+      "D": "English",
+      "E": "Adventure, RPG, Shooter",
+      "F": 4.0,
+      "G": "REMOVED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Metal Gear Solid 4: Guns of the Patriots",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/42-metal-gear-solid-4-guns-of-the-patriots",
+        "imageURL": "https://images.launchbox-app.com//55465407-515c-40ba-9ed4-d52d0383d94c.jpg"
+      },
+      "D": "English",
+      "E": "Adventure, Shooter, Stealth",
+      "F": 16.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Mortal Kombat",
+      "B": "Mortal Kombat 9",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/6476-mortal-kombat",
+        "imageURL": "https://images.launchbox-app.com//b43b036c-d124-4202-a1e3-94e51892de10.png"
+      },
+      "D": "English",
+      "E": "2D Fighting, Versus",
+      "F": 8.0,
+      "G": "REMOVED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Mortal Kombat vs. DC Universe",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/852-mortal-kombat-vs-dc-universe",
+        "imageURL": "https://images.launchbox-app.com//fe4c27d5-8091-4500-b2c0-8fc4dbd1a461.jpg"
+      },
+      "D": "English",
+      "E": "3D Fighting, Versus",
+      "F": 2.0,
+      "G": "REMOVED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Ratchet & Clank Future: A Crack in Time",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/6334-ratchet-clank-future-a-crack-in-time",
+        "imageURL": "https://images.launchbox-app.com//1361f0ec-3c28-4417-a9f0-372ef7973777.jpg"
+      },
+      "D": "English",
+      "E": "Adventure, Shooter",
+      "F": 1.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Red Dead Redemption",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/8705-red-dead-redemption",
+        "imageURL": "https://images.launchbox-app.com//4047af11-61bd-4586-abdc-b7981332b420.jpg"
+      },
+      "D": "English",
+      "E": "Adventure, Shooter",
+      "F": 4.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Resident Evil 5",
+      "B": "Biohazard 5",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/11950-resident-evil-5",
+        "imageURL": "https://images.launchbox-app.com//966282e1-fd69-4393-8c44-3198730fdfdc.png"
+      },
+      "D": "English",
+      "E": "Shooter, Co-op, Versus",
+      "F": 2.0,
+      "G": "REMOVED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Resident Evil 6",
+      "B": "Biohazard 6",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/11027-resident-evil-6",
+        "imageURL": "https://images.launchbox-app.com//cae2069d-2ec4-4467-a255-f3e9b683fb02.jpg"
+      },
+      "D": "English",
+      "E": "Shooter, Co-op, Versus",
+      "F": 4.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Resident Evil: Revelations 2",
+      "B": "Biohazard: Revelations 2",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/26016-resident-evil-revelations-2",
+        "imageURL": "https://images.launchbox-app.com//e15bea08-9810-46a6-ad08-7c7e3b71af55.jpg"
+      },
+      "D": "English",
+      "E": "Shooter, Co-op",
+      "F": 2.0,
+      "G": "REMOVED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Sonic & SEGA All-Stars Racing",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/12276-sonic-sega-all-stars-racing",
+        "imageURL": "https://images.launchbox-app.com//6fca60df-2c9d-4869-932c-44ac7c157d34.png"
+      },
+      "D": "English",
+      "E": "Driving, Racing, Versus",
+      "F": 1.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Sonic the Hedgehog",
+      "B": "Sonic the Hedgehog (2006), Sonic '06",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/31659-sonic-the-hedgehog",
+        "imageURL": "https://images.launchbox-app.com//cf128f7d-1c36-4b55-8d01-da1e49afdcab.jpg"
+      },
+      "D": "English",
+      "E": "Adventure, Platform, Co-op, Versus",
+      "F": 2.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "The Last of Us",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/10001-the-last-of-us",
+        "imageURL": "https://images.launchbox-app.com//278399bd-9c18-4358-a468-e68ec9bb5b07.jpg"
+      },
+      "D": "English",
+      "E": "Adventure, Shooter, Stealth",
+      "F": 1.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Uncharted 2: Among Thieves",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/191-uncharted-2-among-thieves",
+        "imageURL": "https://images.launchbox-app.com//6988389d-c372-42c8-9727-bb3cd0c57db2.jpg"
+      },
+      "D": "English",
+      "E": "Adventure, Shooter",
+      "F": 10.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Uncharted 3: Drake's Deception",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/2152-uncharted-3-drakes-deception",
+        "imageURL": "https://images.launchbox-app.com//8d290d3a-f64a-4417-92cc-cbc777f0fe8b.jpg"
+      },
+      "D": "English",
+      "E": "Adventure, Shooter",
+      "F": 10.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Uncharted: Drake's Fortune",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/67-uncharted-drakes-fortune",
+        "imageURL": "https://images.launchbox-app.com//33593ddc-1bf4-41a1-9b3e-9030eb3a14ae.jpg"
+      },
+      "D": "English",
+      "E": "Adventure, Shooter",
+      "F": 1.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Yakuza 3",
+      "B": "Ryu ga Gotoku 3",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/3706-yakuza-3",
+        "imageURL": "https://images.launchbox-app.com//d2f9bf83-dffd-498e-be0a-f70eca93f206.jpg"
+      },
+      "D": "English",
+      "E": "Beat'em Up, RPG",
+      "F": 1.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Yakuza 4",
+      "B": "Ryu ga Gotoku 4: Densetsu o Tsugumono",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/3707-yakuza-4",
+        "imageURL": "https://images.launchbox-app.com//5b4a4132-d2c4-4111-b0b4-46c2bc6dc89b.jpg"
+      },
+      "D": "English",
+      "E": "Beat'em Up, RPG",
+      "F": 1.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Yakuza 5",
+      "B": "Ryu ga Gotoku 5: Yume Kanaeshi Mono",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/12520-yakuza-5",
+        "imageURL": "https://images.launchbox-app.com//e6c022cc-f044-468d-b943-3f4c09598a45.jpg"
+      },
+      "D": "English",
+      "E": "Beat'em Up, RPG",
+      "F": 1.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Watch_Dogs",
+      "B": "Watch Dogs",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/19867-watchdogs",
+        "imageURL": "https://images.launchbox-app.com//27406167-0c87-425b-9deb-6f37995624a8.jpg"
+      },
+      "D": "English",
+      "E": "Adventure, Shooter, Stealth, Driving",
+      "F": 1.0,
+      "G": "SKIPPED",
+      "H": "PLAYSTATION 3"
+    },
+    {
+      "A": "Call of Duty: Modern Warfare 2",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/10503-call-of-duty-modern-warfare-2",
+        "imageURL": "https://images.launchbox-app.com//59dbd1ad-efa2-4782-b6c9-c3fc3ef5b400.jpg"
+      },
+      "D": "English",
+      "E": "Shooter, Versus, Co-op",
+      "F": 16.0,
+      "G": "HIDDEN",
+      "H": "XBOX 360"
+    },
+    {
+      "A": "Mortal Kombat vs. DC Universe",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/2981-mortal-kombat-vs-dc-universe",
+        "imageURL": "https://images.launchbox-app.com//f775dd52-e78c-489c-a63b-763162c1d70c.png"
+      },
+      "D": "English",
+      "E": "3D Fighting, Versus",
+      "F": 2.0,
+      "G": "HIDDEN",
+      "H": "XBOX 360"
+    },
+    {
+      "A": "Resident Evil 5",
+      "B": "Biohazard 5",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/11476-resident-evil-5",
+        "imageURL": "https://images.launchbox-app.com//ace8238d-71da-4866-a5e9-be4c1addc1ab.png"
+      },
+      "D": "English",
+      "E": "Shooter, Horror, Versus",
+      "F": 2.0,
+      "G": "REMOVED",
+      "H": "XBOX 360"
+    },
+    {
+      "A": "Resident Evil 6",
+      "B": "Biohazard 6",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/11310-resident-evil-6",
+        "imageURL": "https://images.launchbox-app.com//c8d0d4c7-34a0-4b13-8707-69fb77e7d305.png"
+      },
+      "D": "English",
+      "E": "Shooter, Horror, Versus",
+      "F": 2.0,
+      "G": "REMOVED",
+      "H": "XBOX 360"
+    },
+    {
+      "A": "Kirby and the Rainbow Curse",
+      "B": "Touch! Kirby Super Rainbow, Kirby and the Rainbow Paintbrush",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/24364-kirby-and-the-rainbow-curse",
+        "imageURL": "https://images.launchbox-app.com//808c3058-9384-4fe2-8385-bc23112d6d98.jpg"
+      },
+      "D": "English",
+      "E": "Platform, Co-op",
+      "F": 4.0,
+      "G": "REMOVED",
+      "H": "WII U"
+    },
+    {
+      "A": "Mario Party 10",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/24363-mario-party-10",
+        "imageURL": "https://images.launchbox-app.com//8d7104e2-87e0-42a9-850e-889cdae81469.jpg"
+      },
+      "D": "English",
+      "E": "Party, Versus",
+      "F": 5.0,
+      "G": "REMOVED",
+      "H": "WII U"
+    },
+    {
+      "A": "Paper Mario: Color Splash",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/61129-paper-mario-color-splash",
+        "imageURL": "https://images.launchbox-app.com//741387a3-5063-42d6-85dd-a1fa7ef04959.jpg"
+      },
+      "D": "English",
+      "E": "Adventure, RPG",
+      "F": 1.0,
+      "G": "REMOVED",
+      "H": "WII U"
+    },
+    {
+      "A": "Super Mario Maker",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/31216-super-mario-maker",
+        "imageURL": "https://images.launchbox-app.com//e4c5f038-d4a5-40f6-85ee-465db76651b3.jpg"
+      },
+      "D": "English",
+      "E": "Platform",
+      "F": 1.0,
+      "G": "REMOVED",
+      "H": "WII U"
+    },
+    {
+      "A": "Terraria",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/48669-terraria",
+        "imageURL": "https://images.launchbox-app.com//0d59a1f8-1f06-4ad3-95d2-d528cb68216f.png"
+      },
+      "D": "English",
+      "E": "Platform, Adventure, Co-op",
+      "F": 4.0,
+      "G": "REMOVED",
+      "H": "WII U"
+    },
+    {
+      "A": "Xenoblade Chronicles X",
+      "B": "Xenoblade Cross, XenobladeX",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/20785-xenoblade-chronicles-x",
+        "imageURL": "https://images.launchbox-app.com//224daa41-b28a-4ea5-b643-76206f6cc97b.jpg"
+      },
+      "D": "English",
+      "E": "Adventure, RPG",
+      "F": 1.0,
+      "G": "REMOVED",
+      "H": "WII U"
+    },
+    {
+      "A": "Fire Emblem Warriors: Three Hopes",
+      "B": "Fire Emblem Musou Fuuka Setsugetsu",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/159309-fire-emblem-warriors-three-hopes",
+        "imageURL": "https://images.launchbox-app.com//77b81c26-8b7d-42ce-8a7c-c865021836d7.jpg"
+      },
+      "D": null,
+      "E": "Hack and Slash, Beat'em Up, Co-op",
+      "F": 2.0,
+      "G": "REMOVED",
+      "H": "SWITCH"
+    },
+    {
+      "A": "Luigi's Mansion 3",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/121964-luigis-mansion-3",
+        "imageURL": "https://images.launchbox-app.com//a14d6275-3ca2-41fb-8969-7d98d338eb58.jpg"
+      },
+      "D": null,
+      "E": "Adventure, Puzzle",
+      "F": 8.0,
+      "G": "REMOVED",
+      "H": "SWITCH"
+    },
+    {
+      "A": "Monster Hunter Rise",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/142367-monster-hunter-rise",
+        "imageURL": "https://images.launchbox-app.com//c6a0deab-ec11-4815-a128-fd8b712c1c5f.jpg"
+      },
+      "D": null,
+      "E": "Adventure, RPG, Hack and Slash",
+      "F": 4.0,
+      "G": "REMOVED",
+      "H": "SWITCH"
+    },
+    {
+      "A": "Octopath Traveler",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/103435-octopath-traveler",
+        "imageURL": "https://images.launchbox-app.com//a090f19c-3edb-4772-b0d4-76dfa28dfa4f.png"
+      },
+      "D": null,
+      "E": "Adventure, RPG",
+      "F": 1.0,
+      "G": "REMOVED",
+      "H": "SWITCH"
+    },
+    {
+      "A": "Octopath Traveler II",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/169504-octopath-traveler-ii",
+        "imageURL": "https://images.launchbox-app.com//5c8c4e98-5720-4a7b-b85e-d502f3115fc2.jpg"
+      },
+      "D": null,
+      "E": "Adventure, RPG",
+      "F": 1.0,
+      "G": "REMOVED",
+      "H": "SWITCH"
+    },
+    {
+      "A": "P5S: Persona 5 Strikers",
+      "B": "Persona 5 Scramble: The Phantom Strikers, Persona 5 Strikers",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/130598-p5s-persona-5-strikers",
+        "imageURL": "https://images.launchbox-app.com//684e2ac0-2b9f-4f01-ade3-0df0bc02b52d.jpg"
+      },
+      "D": null,
+      "E": "Beat'em Up, Hack and Slash",
+      "F": 1.0,
+      "G": "REMOVED",
+      "H": "SWITCH"
+    },
+    {
+      "A": "Pokémon: Let's Go, Eevee!",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/107865-pokmon-lets-go-eevee",
+        "imageURL": "https://images.launchbox-app.com//1e27e4f1-0638-4b16-86f8-54579c3ab027.jpg"
+      },
+      "D": null,
+      "E": "Adventure, RPG",
+      "F": 2.0,
+      "G": "REMOVED",
+      "H": "SWITCH"
+    },
+    {
+      "A": "Pokémon: Let's Go, Pikachu!",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/107867-pokmon-lets-go-pikachu",
+        "imageURL": "https://images.launchbox-app.com//1ce21a07-6ff4-4e25-867b-12490c15c953.jpg"
+      },
+      "D": null,
+      "E": "Adventure, RPG",
+      "F": 2.0,
+      "G": "REMOVED",
+      "H": "SWITCH"
+    },
+    {
+      "A": "Super Mario Party",
+      "B": null,
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/106264-super-mario-party",
+        "imageURL": "https://images.launchbox-app.com//36efb6e8-dc97-4b69-892e-a4104118f37d.jpg"
+      },
+      "D": null,
+      "E": "Party, Versus",
+      "F": 4.0,
+      "G": "REMOVED",
+      "H": "SWITCH"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PC"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PC"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PC"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PC"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PC"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PC"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PC"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PC"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PC"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PC"
+    },
+    {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": null,
+      "F": null,
+      "G": null,
+      "H": "PC"
+    },
+    {
       "A": "18 Wheeler",
       "B": null,
       "C": {
