@@ -1066,7 +1066,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/38867-hyper-dyne-side-arms",
-        "imageURL": "https://images.launchbox-app.com//06a66648-5d9f-444f-8f1e-3c80d94dc717.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Co-op, Scrolling Shooter, Shooter",
@@ -2046,7 +2046,7 @@
       "C": {
         "text": "Launchbox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/17061-super-mario-bros-duck-hunt-world-class-track-meet",
-        "imageURL": "https://images.launchbox-app.com//591e8867-c439-4325-98c6-7dfb2cf1ce2d.png"
+        "imageURL": "media/noImage.png"
       },
       "D": null,
       "E": "Interactive, Platform, Shooter, Sports, Versus",
@@ -2690,7 +2690,7 @@
       "C": {
         "text": "Launchbox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/3049-last-action-hero",
-        "imageURL": "https://images.launchbox-app.com//e4f7f320-7557-4cbf-b485-eaf2367cf391.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Beat'em Up, Platform",
@@ -3866,7 +3866,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/18011-choplifter-ii-rescue-survive",
-        "imageURL": "https://images.launchbox-app.com//9db21955-e908-4734-96c2-3401678d9348.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Shooter",
@@ -48800,7 +48800,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/931-flying-dragon",
-        "imageURL": "https://images.launchbox-app.com//85578e53-6975-4976-982f-398f472a9973.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Versus, 2D Fighting",
@@ -48828,7 +48828,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1076-gex-3-deep-cover-gecko",
-        "imageURL": "https://images.launchbox-app.com//825b4ff1-0d82-4196-8ff1-ba2b17c4f3df.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Adventure, Platform",
@@ -48842,7 +48842,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1077-gex-64-enter-the-gecko",
-        "imageURL": "https://images.launchbox-app.com//fcd97029-9a5c-4f08-a2df-fbec05ffb4e8.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Adventure, Platform",
@@ -48856,7 +48856,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/152-goldeneye-007",
-        "imageURL": "https://images.launchbox-app.com//0b7f92a6-9d97-4c9e-8957-ce768dab7c19.jpg"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Shooter, Versus",
@@ -48870,7 +48870,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1082-harvest-moon-64",
-        "imageURL": "https://images.launchbox-app.com//8196e8de-ba81-4205-978d-e1e07036ce4e.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Simulator, Adventure",
@@ -48884,7 +48884,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1083-hexen",
-        "imageURL": "https://images.launchbox-app.com//8bfc090f-8fcd-4b12-abd6-54778c2b62a7.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Hack and Slash, Shooter",
@@ -48898,7 +48898,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1085-hybrid-heaven",
-        "imageURL": "https://images.launchbox-app.com//e50aee81-4659-4316-a405-5e67471fd285.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Adventure, RPG, Puzzle, Versus",
@@ -48912,7 +48912,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/245-indiana-jones-and-the-infernal-machine",
-        "imageURL": "https://images.launchbox-app.com//35d291a4-2702-4363-bde7-8f4aca6a870d.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Adventure, Platform, Puzzle",
@@ -48926,7 +48926,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/246-jet-force-gemini",
-        "imageURL": "https://images.launchbox-app.com//a216c476-c3ab-4b6a-a3e1-6e7564d7041c.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Adventure, Shooter, Scrolling Shooter, Versus",
@@ -48940,7 +48940,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/247-killer-instinct-gold",
-        "imageURL": "https://images.launchbox-app.com//73458d1d-3d58-460b-b7a8-3b5b88433e54.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "2D Fighting, Versus",
@@ -48954,7 +48954,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/248-kirby-64-the-crystal-shards",
-        "imageURL": "https://images.launchbox-app.com//549e1e86-03bc-46ea-9bf3-7a7592aba0c3.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Platform, Party, Versus",
@@ -48968,7 +48968,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/249-knockout-kings-2000",
-        "imageURL": "https://images.launchbox-app.com//96b0875d-384b-4666-922b-eb604af6619e.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Boxing, Sports, Versus",
@@ -48982,7 +48982,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1097-kobe-bryant-in-nba-courtside",
-        "imageURL": "https://images.launchbox-app.com//488d219a-03a5-4ab3-919e-8924ed1c50da.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Basketball, Sports, 3D Fighting, Co-op, Versus",
@@ -48996,7 +48996,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/253-madden-nfl-2001",
-        "imageURL": "https://images.launchbox-app.com//0f695a1b-26b6-456b-8496-482049c6e727.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Football, Sports, Co-op, Versus",
@@ -49010,7 +49010,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/254-madden-nfl-2002",
-        "imageURL": "https://images.launchbox-app.com//f942285d-fa21-4313-9c0d-1f0ec9b6bb61.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Football, Sports, Co-op, Versus",
@@ -49024,7 +49024,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1104-mario-golf",
-        "imageURL": "https://images.launchbox-app.com//a7bf33b2-509f-4607-a09d-d180adb9b68c.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Golf, Sports, Versus",
@@ -49038,7 +49038,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/251-mario-kart-64",
-        "imageURL": "https://gamesdb-images.launchbox.gg/r2_faa9ca7a-c897-49d2-802d-4137bac415cc.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Driving, Racing, Versus",
@@ -49052,7 +49052,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/39-mario-party",
-        "imageURL": "https://images.launchbox-app.com//4d6d8a87-e6cc-4e9d-a29c-29b689e3bbba.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Party, Versus",
@@ -49066,7 +49066,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/255-mario-party-2",
-        "imageURL": "https://images.launchbox-app.com//026b4614-ff5f-49e9-bb8e-d9b2c4f57999.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Party, Versus",
@@ -49080,7 +49080,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/932-mario-party-3",
-        "imageURL": "https://images.launchbox-app.com//b2c7aa28-03bd-4a90-bdc8-42c3044ee286.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Party, Versus",
@@ -49094,7 +49094,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1105-mario-tennis",
-        "imageURL": "https://images.launchbox-app.com//9c0b7ecb-b510-4931-b88a-ddef673b0dd6.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Tennis, Sports, Co-op, Versus",
@@ -49108,7 +49108,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1106-mega-man-64",
-        "imageURL": "https://images.launchbox-app.com//fa8a17b8-18fd-43e1-95ea-c63f890629d9.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Shooter, Adventure",
@@ -49122,7 +49122,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1115-mortal-kombat-4",
-        "imageURL": "https://images.launchbox-app.com//6b5b2de8-92e2-4a85-ab3f-d5146c1a9297.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "2D Fighting, Versus",
@@ -49136,7 +49136,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1116-mortal-kombat-mythologies-sub-zero",
-        "imageURL": "https://images.launchbox-app.com//1847ba08-512f-4651-9575-19d733b31074.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Platform, Beat'em Up",
@@ -49150,7 +49150,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1124-nba-hangtime",
-        "imageURL": "https://images.launchbox-app.com//64e94bc5-7cf9-40fb-8e3a-9d9f6cc8de59.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Basketball, Sports, Co-op, Versus",
