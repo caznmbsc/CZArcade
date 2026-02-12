@@ -1766,7 +1766,7 @@
       "C": {
         "text": "Launchbox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/122-mega-man-5",
-        "imageURL": "https://images.launchbox-app.com//06c3b740-0524-4dda-8a40-c7376d96c0a6.jpg"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Platform, Shooter",
@@ -1780,7 +1780,7 @@
       "C": {
         "text": "Launchbox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/346-mega-man-6",
-        "imageURL": "https://images.launchbox-app.com//2df8b934-ced2-4e27-a7da-266fdc1b5656.jpg"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Platform, Shooter",
@@ -1794,7 +1794,7 @@
       "C": {
         "text": "Launchbox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1866-ninja-crusaders",
-        "imageURL": "https://images.launchbox-app.com//137de365-c314-445b-8253-8a5ca9fc86a7.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Beat'em Up, Platform, Shooter",
@@ -1808,7 +1808,7 @@
       "C": {
         "text": "Launchbox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1339-operation-wolf",
-        "imageURL": "https://images.launchbox-app.com//ba968852-8724-47e9-a9bb-d0847480599c.jpg"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Scrolling Shooter, Shooter",
@@ -1822,7 +1822,7 @@
       "C": {
         "text": "Launchbox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1905-pin-bot",
-        "imageURL": "https://images.launchbox-app.com//389d07a5-acec-484f-8533-39099d797e71.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Tabletop",
@@ -1836,7 +1836,7 @@
       "C": {
         "text": "Launchbox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1924-rbi-baseball",
-        "imageURL": "https://images.launchbox-app.com//0ffb75a4-be86-4b02-b815-ab31ccc76e63.jpg"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Baseball, Sports, Versus",
@@ -1850,7 +1850,7 @@
       "C": {
         "text": "Launchbox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1932-raid-on-bungeling-bay",
-        "imageURL": "https://images.launchbox-app.com//89edb02b-c08d-49ea-95b7-b13d16141762.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Shooter",
@@ -1864,7 +1864,7 @@
       "C": {
         "text": "Launchbox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1933-rally-bike",
-        "imageURL": "https://images.launchbox-app.com//5055c8f9-42fb-4717-8148-22b2f0629738.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Driving, Racing, Sports",
@@ -1878,7 +1878,7 @@
       "C": {
         "text": "Launchbox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1940-ring-king",
-        "imageURL": "https://images.launchbox-app.com//b0b2c8a6-939e-4f88-a1da-a04667df0df3.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Boxing, Sports, Versus",
@@ -4720,7 +4720,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/20640-assassins-creed-freedom-cry",
-        "imageURL": "https://images.launchbox-app.com//a686a429-99de-4d22-a1a3-c0d6cc7edc33.jpg"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Adventure, Stealth, Hack and Slash",
@@ -4734,7 +4734,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/11478-assassins-creed-revelations",
-        "imageURL": "https://images.launchbox-app.com//cf6b02a9-0f07-4035-b373-77c457ad27b4.jpg"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Adventure, Stealth, Hack and Slash",
@@ -4748,7 +4748,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/118050-battlefield-1943",
-        "imageURL": "https://images.launchbox-app.com//b0baaec4-05bf-4b97-b0c2-0ee4c187e74c.jpg"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Shooter, Co-op, Versus",
@@ -4762,7 +4762,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/7984-battlefield-3",
-        "imageURL": "https://images.launchbox-app.com//a239ef3b-b82b-461d-967b-ce58f1779985.jpg"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Shooter, Co-op, Versus",
@@ -4776,7 +4776,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/17593-battlefield-4",
-        "imageURL": "https://images.launchbox-app.com//e5835a98-f6ec-441a-94d8-3579bbc2ea26.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Shooter, Co-op, Versus",
@@ -4790,7 +4790,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/10487-battlefield-bad-company",
-        "imageURL": "https://images.launchbox-app.com//144feb1e-da05-4659-bbf1-1dc30addc97b.jpg"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Shooter, Co-op, Versus",
@@ -4804,7 +4804,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/7867-battlefield-bad-company-2",
-        "imageURL": "https://images.launchbox-app.com//86d1bb3c-2dd9-490f-b936-b0b2b001bb2c.jpg"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Shooter, Co-op, Versus",
@@ -4818,7 +4818,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/20078-blazblue-chrono-phantasma",
-        "imageURL": "https://images.launchbox-app.com//56641698-3001-49bb-a594-59306adf0fa1.jpg"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "2D Fighting, Versus",
@@ -4832,7 +4832,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/5659-blazblue-continuum-shift",
-        "imageURL": "https://images.launchbox-app.com//306190a6-e45f-4d33-9510-1d8138cc7500.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "2D Fighting, Versus",
@@ -4846,7 +4846,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/20784-borderlands-the-pre-sequel",
-        "imageURL": "https://images.launchbox-app.com//7209937d-99b0-4679-b90e-e661e28a12e7.jpg"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Shooter, Adventure, RPG, Co-op",
@@ -4860,7 +4860,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/7985-call-of-duty-black-ops",
-        "imageURL": "https://images.launchbox-app.com//9fe5af21-cd32-40be-bd85-17a1a1cc404e.jpg"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Shooter, Co-op, Versus",
@@ -4874,7 +4874,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/9558-call-of-duty-black-ops-ii",
-        "imageURL": "https://images.launchbox-app.com//7d11b1f5-5ad2-4d4e-a2bd-ab5944ded24b.jpg"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Shooter, Co-op, Versus",
@@ -4888,7 +4888,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/17646-call-of-duty-ghosts",
-        "imageURL": "https://images.launchbox-app.com//bf5379a7-1489-4294-a0d5-80ff3692cfbe.jpg"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Shooter, Co-op, Versus",
@@ -4902,7 +4902,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/6299-call-of-duty-modern-warfare-2",
-        "imageURL": "https://images.launchbox-app.com//3744d12a-512b-474c-85eb-38b6b2d58ac7.jpg"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Shooter, Co-op, Versus",
@@ -4916,7 +4916,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/7986-call-of-duty-modern-warfare-3",
-        "imageURL": "https://images.launchbox-app.com//1a2c2864-0cf1-49b4-b33f-00dfb1c4aedc.jpg"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Shooter, Co-op, Versus",
@@ -6314,7 +6314,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/36423-giant-gram-all-japan-pro-wrestling-2",
-        "imageURL": "https://images.launchbox-app.com//d19897f5-93d6-4df6-8436-40e93c85cbb3.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "Japanese",
       "E": "3D Fighting, Sports, Versus, Wrestling",
@@ -6328,7 +6328,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/102372-giga-wing-2",
-        "imageURL": "https://images.launchbox-app.com//c1280f3f-5b17-4195-a2a0-179809053ce0.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Co-op, Scrolling Shooter, Shooter",
@@ -6342,7 +6342,7 @@
       "C": {
         "text": "Launchbox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/83353-guilty-gear-x",
-        "imageURL": "https://images.launchbox-app.com//2326cdd4-a3b9-45d5-8fa5-f60ae6cf8543.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "2D Fighting, Versus",
@@ -6356,7 +6356,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/36585-guilty-gear-xx-reload",
-        "imageURL": "https://images.launchbox-app.com//c7bdd38c-ac79-418a-a82d-cae7f33a3773.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "2D Fighting, Versus",
@@ -6370,7 +6370,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/36586-guilty-gear-xx-accent-core",
-        "imageURL": "https://images.launchbox-app.com//601ba1ae-a342-4d08-a7cf-18f2571fb2cd.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "2D Fighting, Versus",
@@ -6384,7 +6384,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/102384-guilty-gear-xx-slash",
-        "imageURL": "https://images.launchbox-app.com//6935df48-6694-477d-937f-29d37d31c94c.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "2D Fighting, Versus",
@@ -6398,7 +6398,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/14498-guilty-gear-xx",
-        "imageURL": "https://images.launchbox-app.com//5a2953a6-3ebd-4c8f-9d9e-68acf342754d.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "2D Fighting, Versus",
@@ -6580,7 +6580,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/37504-mamoru-kun-wa-norowarete-shimatta",
-        "imageURL": "https://images.launchbox-app.com//9858da16-b63a-4818-b6a0-61dc46f79da1.jpg"
+        "imageURL": "media/noImage.png"
       },
       "D": "Japanese",
       "E": "Bullet Hell, Scrolling Shooter, Shooter",
@@ -6594,7 +6594,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/102451-manic-panic-ghosts",
-        "imageURL": "https://images.launchbox-app.com//d6355bb5-ad04-4990-a298-ba2bcfcb3c3d.jpg"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Co-op, Interactive, Shooter",
@@ -6608,7 +6608,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/102449-marvel-vs-capcom-2",
-        "imageURL": "https://images.launchbox-app.com//9b55deed-58b6-43cb-a3b4-31f56ff3c3a6.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "2D Fighting, Versus",
@@ -6622,7 +6622,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/102452-mazan-flash-of-the-blade",
-        "imageURL": "https://images.launchbox-app.com//248c46af-b3cf-439c-adc3-fec66643e075.jpg"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Hack and Slash, Interactive",
@@ -6636,7 +6636,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/102479-melty-blood-act-cadenza-version-b2",
-        "imageURL": "https://images.launchbox-app.com//06581897-950b-4b16-a137-e7500c2c3e1d.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "Japanese",
       "E": "2D Fighting, Versus",
@@ -6650,7 +6650,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/102455-melty-blood-actress-again-version-a",
-        "imageURL": "https://images.launchbox-app.com//b4579305-18bb-474e-bd73-8762bf483d1c.jpg"
+        "imageURL": "media/noImage.png"
       },
       "D": "Japanese",
       "E": "2D Fighting, Versus",
@@ -6664,7 +6664,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/134794-melty-blood-act-cadenza-ver-a",
-        "imageURL": "https://images.launchbox-app.com//5e74786c-59f5-40f1-875d-9b57a3ffcbbe.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "Japanese",
       "E": "2D Fighting, Versus",
@@ -6678,7 +6678,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/102435-mobile-suit-gundam-federation-vs-zeon",
-        "imageURL": "https://images.launchbox-app.com//ec260fdf-ce85-451a-b6cf-93c6575332d8.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Co-op, Mech, Shooter, Versus",
@@ -6692,7 +6692,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/137242-mobile-suit-gundam-federation-vs-zeon-dx",
-        "imageURL": "https://images.launchbox-app.com//da0fa004-7bc2-4377-b621-5242c00f416f.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Co-op, Mech, Shooter, Versus",
@@ -6706,7 +6706,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/37668-moeru-casinyo",
-        "imageURL": "https://images.launchbox-app.com//d153f63d-4d47-42c3-8f15-aec57696419f.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "Japanese",
       "E": "Tabletop, Strategy",
@@ -6720,7 +6720,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/37690-monkey-ball",
-        "imageURL": "https://gamesdb-images.launchbox.gg/r2_8b603d4a-4f2d-4972-8949-eec8e37df5d8.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Platform, Party",
@@ -6734,7 +6734,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/37769-musapeys-choco-marker",
-        "imageURL": "https://images.launchbox-app.com//de202760-50c6-47f8-acdb-b86310aa0cff.jpg"
+        "imageURL": "media/noImage.png"
       },
       "D": "Japanese",
       "E": "Puzzle, Versus",
@@ -6748,7 +6748,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/28887-ninja-assault",
-        "imageURL": "https://images.launchbox-app.com//1aeb4f38-99fc-40b5-aa1a-63842958fe60.jpg"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Co-op, Interactive, Shooter",
@@ -6762,7 +6762,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/37904-noukone-puzzle-takoron",
-        "imageURL": "https://gamesdb-images.launchbox.gg/r2_e53b4756-7ad7-4717-9fb9-ef0d1906145a.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "Japanese",
       "E": "Puzzle, Versus",
@@ -6958,7 +6958,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/102489-sega-marine-fishing",
-        "imageURL": "https://images.launchbox-app.com//63e55553-0bb8-41c1-9ba0-ae718afa1cb5.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Fishing, Sports",
@@ -6972,7 +6972,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/102624-sega-strike-fighter",
-        "imageURL": "https://images.launchbox-app.com//ff62b877-f375-45fb-8c02-a8f57460f714.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Flight, Simulator, Shooter",
@@ -6986,7 +6986,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/102481-sega-tetris",
-        "imageURL": "https://images.launchbox-app.com//847cbfc5-a72a-4b07-90d5-9269c010fe63.jpg"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Puzzle, Versus",
@@ -7000,7 +7000,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/155237-senko-no-ronde-new-version",
-        "imageURL": "https://images.launchbox-app.com//580e854e-9c22-4725-a490-9f98830f7692.jpg"
+        "imageURL": "media/noImage.png"
       },
       "D": "Japanese",
       "E": "3D Fighting, Bullet Hell, Mech, Shooter, Versus",
@@ -7014,7 +7014,7 @@
       "C": {
         "text": "Launchbox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/102475-senko-no-ronde-special",
-        "imageURL": "https://images.launchbox-app.com//913687e8-de95-4a5e-965b-f05d168aaa13.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "Japanese",
       "E": "3D Fighting, Bullet Hell, Mech, Shooter, Versus",
@@ -7028,7 +7028,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/38812-shakatto-tambourine",
-        "imageURL": "https://gamesdb-images.launchbox.gg/r2_2776c372-a77b-4286-8814-0a05fb45df04.jpg"
+        "imageURL": "media/noImage.png"
       },
       "D": "Japanese",
       "E": "Music",
@@ -7042,7 +7042,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/38813-shakatto-tambourine-cho-powerup-chu",
-        "imageURL": "https://images.launchbox-app.com//b30fd15e-6019-4f3d-9036-d56903a6a966.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "Japanese",
       "E": "Music",
@@ -7056,7 +7056,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/38814-shakatto-tambourine-motto-norinori-shinkyoku-tsuika",
-        "imageURL": "https://images.launchbox-app.com//8e919896-c8e7-4f5a-81c5-e0f3db788788.jpg"
+        "imageURL": "media/noImage.png"
       },
       "D": "Japanese",
       "E": "Music",
@@ -7070,7 +7070,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/38837-shin-nihon-pro-wrestling-toukon-retsuden-4-arcade-edition",
-        "imageURL": "https://images.launchbox-app.com//91cf7020-2861-4d0d-be94-483a3c089e47.jpg"
+        "imageURL": "media/noImage.png"
       },
       "D": "Japanese",
       "E": "3D Fighting, Sports, Versus, Wrestling",
@@ -7084,7 +7084,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/38849-shooting-love-2007",
-        "imageURL": "https://images.launchbox-app.com//b3fc19a7-5bcb-4578-af93-91bd465330cd.jpg"
+        "imageURL": "media/noImage.png"
       },
       "D": "Japanese",
       "E": "Co-op, Scrolling Shooter, Shooter",
@@ -7098,7 +7098,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/102422-slashout",
-        "imageURL": "https://images.launchbox-app.com//338e71f7-f41d-4b87-9e5e-0a46bb7d2c07.jpg"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Beat'em Up, Hack and Slash",
@@ -7112,7 +7112,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/102494-spawn-in-the-demons-hand",
-        "imageURL": "https://images.launchbox-app.com//21555393-c7c8-4f2e-ae01-c90679ddd020.jpg"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Beat'em Up, Co-op, Hack and Slash, Shooter, Versus",
@@ -7126,7 +7126,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/102491-spikers-battle",
-        "imageURL": "https://images.launchbox-app.com//f3a01a28-8115-460c-b87b-d5ff07c517a3.jpg"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "3D Fighting, Beat'em Up, Versus",
@@ -7574,7 +7574,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/102584-initial-d-arcade-stage-ver-2",
-        "imageURL": "https://images.launchbox-app.com//cc8876ba-d308-4d22-a97b-aa550317a862.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "Japanese",
       "E": "Driving, Racing",
