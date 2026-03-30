@@ -954,8 +954,12 @@
     },
     {
       "A": "Ninja Gaiden",
-      "B": "Ninja Ryukenden",
-      "C": "LaunchBox",
+      "B": "Ninja Ryukenden, Shadow Warriors",
+      "C": {
+        "text": "LaunchBox",
+        "hyperlink": "https://gamesdb.launchbox-app.com/games/details/8416-ninja-gaiden",
+        "imageURL": "https://images.launchbox-app.com//4aa18334-d5b3-4825-af8b-2f21aa48bab5.png"
+      },
       "D": "English",
       "E": "Beat'em Up, Co-op",
       "F": 2.0,
