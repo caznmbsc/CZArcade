@@ -18956,7 +18956,7 @@
       "C": {
         "text": "Launchbox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/1431-kickmaster",
-        "imageURL": "media/noImage.png"
+        "imageURL": "https://gamesdb-images.launchbox.gg/r2_952c29da-6997-425e-b90f-b65e8543a40e.png"
       },
       "D": "English",
       "E": "Beat'em Up, Platform",
@@ -50672,7 +50672,7 @@
       "C": {
         "text": "LaunchBox",
         "hyperlink": "https://gamesdb.launchbox-app.com/games/details/13057-tomb-raider-chronicles",
-        "imageURL": "https://images.launchbox-app.com//cad3f587-d38f-4492-9075-fbe61cfb7683.png"
+        "imageURL": "media/noImage.png"
       },
       "D": "English",
       "E": "Adventure, Shooter, Puzzle",
